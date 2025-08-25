@@ -1,0 +1,24 @@
+2025-08-22 15:29:30,991 - INFO - Found 18 CSV files to process
+2025-08-22 15:29:31,005 - INFO - Loaded 10 records from 20250820_162157_DataPM_result_batch_1.csv
+2025-08-22 15:29:31,015 - INFO - Loaded 10 records from 20250820_162157_DataPM_result_batch_2.csv
+2025-08-22 15:29:31,023 - INFO - Loaded 10 records from 20250821_013418_DataPM_result_batch_1.csv
+2025-08-22 15:29:31,032 - INFO - Loaded 10 records from 20250821_013418_DataPM_result_batch_2.csv
+2025-08-22 15:29:31,041 - INFO - Loaded 10 records from 20250821_013418_DataPM_result_batch_3.csv
+2025-08-22 15:29:31,048 - INFO - Loaded 2 records from 20250821_013418_DataPM_result_batch_4.csv
+2025-08-22 15:29:31,056 - INFO - Loaded 10 records from 20250821_163730_DataPM_result_batch_1.csv
+2025-08-22 15:29:31,068 - INFO - Loaded 4 records from 20250821_163730_DataPM_result_batch_2.csv
+2025-08-22 15:29:31,077 - INFO - Loaded 10 records from 20250822_103348_DataPM_result_batch_1.csv
+2025-08-22 15:29:31,082 - INFO - Loaded 10 records from 20250822_103348_DataPM_result_batch_2.csv
+2025-08-22 15:29:31,094 - INFO - Loaded 10 records from 20250822_103348_DataPM_result_batch_3.csv
+2025-08-22 15:29:31,102 - INFO - Loaded 10 records from 20250822_103348_DataPM_result_batch_4.csv
+2025-08-22 15:29:31,110 - INFO - Loaded 10 records from 20250822_103348_DataPM_result_batch_5.csv
+2025-08-22 15:29:31,116 - INFO - Loaded 10 records from 20250822_143048_DataPM_result_batch_1.csv
+2025-08-22 15:29:31,125 - INFO - Loaded 10 records from 20250822_143048_DataPM_result_batch_2.csv
+2025-08-22 15:29:31,137 - INFO - Loaded 10 records from 20250822_143048_DataPM_result_batch_3.csv
+2025-08-22 15:29:31,147 - INFO - Loaded 10 records from 20250822_143048_DataPM_result_batch_4.csv
+2025-08-22 15:29:31,157 - INFO - Loaded 2 records from 20250822_143048_DataPM_result_batch_5.csv
+2025-08-22 15:29:31,165 - INFO - Combined 158 total records from 18 files
+2025-08-22 15:29:32,275 - INFO - Analyzing 158 records for absolute duplicates...
+2025-08-22 15:29:32,294 - INFO - No absolute duplicates found
+2025-08-22 15:29:32,592 - INFO - Found 18 CSV files to process
+2025-08-22 15:29:32,671 - INFO - Final report generated: D:\Work Work\Upwork\DataPM\csv\src\csv_processed\final_deduplicated\final_deduplication_report.txt

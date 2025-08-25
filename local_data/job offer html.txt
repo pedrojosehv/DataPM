@@ -1,0 +1,2387 @@
+<div class="scaffold-layout__list-detail-inner scaffold-layout__list-detail-inner--grow">
+        <div class="scaffold-layout__list " tabindex="-1">
+          
+              
+    
+      <header class="scaffold-layout__list-header jobs-search-results-list__header--blue
+          
+          jobs-search-results-list__header ph1
+          " tabindex="-1">
+  
+        <div class="jobs-search-results-list__title-heading
+            truncate
+            jobs-search-results-list__text">
+          <span id="results-list__title" class="t-16" title="product in Spain" dir="ltr">
+              <!---->product in Spain<!---->
+          </span>
+
+          <div class="display-flex flex-column t-12 t-black--light t-normal">
+              <small class="display-flex t-normal
+                  t-12 t-black--light
+                  
+                  jobs-search-results-list__text">
+                <div class="jobs-search-results-list__subtitle
+                    ">
+                    <span dir="ltr">
+                      <!---->514 results<!---->
+                    </span>
+<!----><!---->                </div>
+              </small>
+            <!----><!---->          </div>
+        </div>
+<!---->        
+      
+  
+          
+    
+            
+    <div class="jobs-search-create-alert__wrapper">
+      <div>
+        <div id="ember272" class="jobs-search-create-alert__artdeco-toggle jobs-search-create-alert__artdeco-toggle-text artdeco-toggle artdeco-toggle--24dp artdeco-toggle--default ember-view"><span aria-hidden="true" class="artdeco-toggle__text" data-artdeco-toggle-text="true">
+    Set alert
+</span>
+<label for="adToggle_ember272" data-artdeco-toggle-label="true" class="artdeco-toggle__label default">
+    <span class="label  a11y-text " data-artdeco-toggle-label-hidden="true">
+      Set job alert for Product in Spain
+    </span>
+</label>
+
+<input role="switch" aria-checked="false" class="input artdeco-toggle__button artdeco-toggle__button--24dp" data-artdeco-toggle-button="true" id="adToggle_ember272" type="checkbox">
+</div>
+      </div>
+    </div>
+
+<!---->  
+          
+    <span></span>
+  
+      
+
+      <!---->
+      <!---->
+    
+      
+</header>
+
+      <div class="VYGSTFVVIBwYUNmGsaemCiSJoxFCVGaCzEtCI
+          
+          ">
+        
+      <!---->
+      
+  
+            <button id="ember337" class="artdeco-button artdeco-button--1 artdeco-button--fluid artdeco-button--tertiary ember-view scaffold-layout__list-jump-button" type="button"><!---->
+<span class="artdeco-button__text">
+    Jump to active job details
+</span></button>
+
+            <button id="ember338" class="artdeco-button artdeco-button--1 artdeco-button--fluid artdeco-button--tertiary ember-view scaffold-layout__list-jump-button" type="button"><!---->
+<span class="artdeco-button__text">
+    Jump to active search result
+</span></button>
+
+<!---->      
+
+      <!---->
+    
+<!---->        <div data-results-list-top-scroll-sentinel=""></div>
+          <ul class="gRJNLnllNfgmwHtPMQlYcKUdeMZMWlDBuwlO">
+  
+              
+        <li id="ember164" class="ember-view   pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4234435146">
+            
+                  
+    <div>
+      
+    <div data-job-id="4234435146" class="display-flex job-card-container relative job-card-list
+        job-card-container--clickable
+        
+        job-card-list--underline-title-on-hover jobs-search-results-list__list-item--active jobs-search-two-pane__job-card-container--viewport-tracking-0" aria-current="page">
+
+      <div>
+        <div id="ember165" class="job-card-list__entity-lockup  artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view">
+            <div id="ember166" class="job-card-list__logo  artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+              
+    <div class="ivm-image-view-model    job-card-list__logo-ivm">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="56" src="https://media.licdn.com/dms/image/v2/D4E0BAQFnIgXERhVpNw/company-logo_100_100/B4EZc2f3nsG4AQ-/0/1748966013748/bask_health_logo?e=1756944000&amp;v=beta&amp;t=5sryeLBDjwvOMWzTC5mcHQ53SotQ1PtZY2TAbB42Dho" loading="lazy" height="56" alt="Bask Health logo" id="ember167" class="ivm-view-attr__img--centered EntityPhoto-square-4   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+            
+</div>
+
+          <div id="ember168" class="flex-grow-1 artdeco-entity-lockup__content ember-view">
+            <div id="ember169" class="full-width artdeco-entity-lockup__title ember-view">
+                  <a data-control-id="KE9UkUoYSwGj0AweRB9c2Q==" tabindex="0" href="/jobs/view/4234435146/?eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=qMvh2rjKNdN6fOB47lTp2w%3D%3D&amp;trackingId=KE9UkUoYSwGj0AweRB9c2Q%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember170" class="disabled ember-view job-card-container__link
+                      ejdCstattyJXnyulkMTPadaWxehRKpZtJoIQQ
+                      job-card-list__title--link" aria-label="Product Designer" dir="ltr">
+                      <span aria-hidden="true"><strong><!---->Product Designer<!----></strong></span><span class="visually-hidden"><!---->Product Designer<!----></span>
+                  </a>
+            
+</div>
+            <div id="ember171" class="artdeco-entity-lockup__subtitle ember-view">
+                <span class="EGIatcgNbVtWrdhguOGzEhovJMKDFZApQ " dir="ltr">
+                  <!---->Bask Health<!---->
+                </span>
+
+            </div>
+
+            <div id="ember172" class="artdeco-entity-lockup__caption ember-view">
+                  <ul class="job-card-container__metadata-wrapper">
+                      <li class="CKjPDnSIdECUvtXMNOeCArFCMmlKAGeMEHI ">
+                        <span dir="ltr">
+                          <!---->Spain (Remote)<!---->
+                        </span>
+                      </li>
+<!---->                  </ul>
+            </div>
+
+<!---->
+<!---->          </div>
+
+        
+</div>
+
+            
+          
+    <div class="job-card-list__insight">
+        
+            <div class="display-flex align-items-center t-black--light t-12">
+                <div class="mv1">
+                  
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <svg role="img" aria-hidden="false" aria-label="Company review time is typically 1 week" class="ivm-view-attr__icon ivm-view-attr__icon--signal-positive  job-card-container__job-insight-image" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="responsive-medium">
+<!---->    
+    <use href="#responsive-medium" width="24" height="24"></use>
+</svg>
+
+    </div>
+  
+          </div>
+  
+                </div>
+                <div class="job-card-container__job-insight-text" dir="ltr">
+                  <!---->Company review time is typically 1 week<!---->
+                </div>
+            </div>
+          
+    </div>
+  
+      
+            <ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman mt1">
+                    <li class="job-card-container__footer-item job-card-container__footer-job-state t-bold">
+                      Viewed
+                    </li>
+                  <!---->                      <li class="KnpoyGBOosMVckTQYFYZUQOSKXczPVA
+                          job-card-container__footer-item inline-flex align-items-center">
+                        <svg role="none" aria-hidden="true" class="job-card-list__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="linkedin-bug-color-small">
+<!---->    <svg display="var(--hue-web-svg-display-light)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/cukxdu7s8ldmqz13xdao5xe75" x="0" y="0" width="16" height="16"></image>
+    </svg>
+    <svg display="var(--hue-web-svg-display-dark)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/7qvn5nkkh1mlaqd5xm0radtjv" x="0" y="0" width="16" height="16"></image>
+    </svg>
+</svg>
+
+                        <span dir="ltr">
+                          <!---->Easy Apply<!---->
+                        </span>
+                      </li>
+            </ul>
+          <span class="visually-hidden" aria-live="polite">
+<!---->          </span>
+      </div>
+      <div class="job-card-list__actions-container">
+          
+        
+      <div>
+          <button aria-label="Dismiss Product Designer job" id="ember173" class="job-card-container__action job-card-container__action-small artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" type="button"><!---->
+<span class="artdeco-button__text">
+    
+            <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="close-small">
+<!---->    
+    <use href="#close-small" width="16" height="16"></use>
+</svg>
+
+            <span class="job-card-container__action-text"></span>
+          
+</span></button>
+      </div>
+  
+      <!---->  
+      </div>
+    </div>
+  
+    </div>
+  
+                              
+        </li>
+  
+              
+        <li id="ember174" class="ember-view   pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4272869986">
+            
+                  
+    <div>
+      
+    <div data-job-id="4272869986" class="display-flex job-card-container relative job-card-list
+        job-card-container--clickable
+        
+        job-card-list--underline-title-on-hover  jobs-search-two-pane__job-card-container--viewport-tracking-1">
+
+      <div>
+        <div id="ember175" class="job-card-list__entity-lockup  artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view">
+            <div id="ember176" class="job-card-list__logo  artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+              
+    <div class="ivm-image-view-model    job-card-list__logo-ivm">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="56" src="https://media.licdn.com/dms/image/v2/C4D0BAQERVFY5rM3Oww/company-logo_100_100/company-logo_100_100/0/1630539036309/mgt_consulting_logo?e=1756944000&amp;v=beta&amp;t=IymkNtFW_zi3606Pez6roCAhtOT4F1diqwgPxVFmt6s" loading="lazy" height="56" alt="M&amp;&ZeroWidthSpace;GT Consulting logo" id="ember177" class="ivm-view-attr__img--centered EntityPhoto-square-4   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+            
+</div>
+
+          <div id="ember178" class="flex-grow-1 artdeco-entity-lockup__content ember-view">
+            <div id="ember179" class="full-width artdeco-entity-lockup__title ember-view">
+                  <a data-control-id="6n/BE/0t843xdpeVvR7OdQ==" tabindex="0" href="/jobs/view/4272869986/?eBP=CwEAAAGYdl5hPODuWOLZ7m4dfsKUgaHwoOaXJft6wz6zOXM3tY-umdPyNI4PeqkA18cLFN3RW0x4Vn0PdCZIQSFI2Z9324nsvn3vzLl9vRg1qOqBG0QYsxMBQk0GnXlWP7gbm5nKnNnOpcE2NPX4DO0wMcX5_gq6YTuLF2sgYmPMMq1zDfToW6cLjx93INu9FDhxh5NP-2KYv6lqPJQ8Qgd7mn_QFn70HmijkdVTO4tJjOXL1Ro-rqO5pkqjL-1lSgTF1qjfvxYv5jgFTBcpW9t9PrKThe5KHTiO8W7bL8Kx6o6A4DAzeiHq0YTeXPVfbO5N31qR2r_jAZI6a3r_ED1QYAERqW1-LT-L0YnKTBv_Pni1kN0VJUYg6BsKpO62lA52L6wS2cNxo2Ltjb_Z306peTXCDzVEC5AsikW9_2wvuFsLgLOnkQ9a7CxC_mwu-7w93jYr-1aAJCkZjv-zxbbDFUn7BMakX5ENHSHlWMBxdn8qZ7_QuEZk5QA-pZiGTNiayzSf2H0&amp;refId=qMvh2rjKNdN6fOB47lTp2w%3D%3D&amp;trackingId=6n%2FBE%2F0t843xdpeVvR7OdQ%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember180" class="disabled ember-view job-card-container__link
+                      ejdCstattyJXnyulkMTPadaWxehRKpZtJoIQQ
+                      job-card-list__title--link" aria-label="Process Designer SDLC with verification" dir="ltr">
+                      <span aria-hidden="true"><strong><!---->Process Designer SDLC<!----></strong><span class="white-space-pre"> </span><!----><!----><span class="tvm__text tvm__text--low-emphasis"><svg role="none" aria-hidden="true" class="text-view-model__verified-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="verified-small">
+<!---->    
+    <use href="#verified-small" width="16" height="16"></use>
+</svg>
+</span></span><span class="visually-hidden"><!---->Process Designer SDLC with verification<!----></span>
+                  </a>
+            
+</div>
+            <div id="ember181" class="artdeco-entity-lockup__subtitle ember-view">
+                <span class="EGIatcgNbVtWrdhguOGzEhovJMKDFZApQ " dir="ltr">
+                  <!---->M&amp;&ZeroWidthSpace;GT Consulting<!---->
+                </span>
+
+            </div>
+
+            <div id="ember182" class="artdeco-entity-lockup__caption ember-view">
+                  <ul class="job-card-container__metadata-wrapper">
+                      <li class="CKjPDnSIdECUvtXMNOeCArFCMmlKAGeMEHI ">
+                        <span dir="ltr">
+                          <!---->Spain (Remote)<!---->
+                        </span>
+                      </li>
+<!---->                  </ul>
+            </div>
+
+<!---->
+<!---->          </div>
+
+        
+</div>
+
+            
+<!---->      
+            <ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman mt1">
+<!---->                      <li class="job-card-container__footer-item inline-flex align-items-center">
+                        <span dir="ltr">
+                          <!---->Promoted<!---->
+                        </span>
+                      </li>
+                    <!---->                      <li class="KnpoyGBOosMVckTQYFYZUQOSKXczPVA
+                          job-card-container__footer-item inline-flex align-items-center">
+                        <svg role="none" aria-hidden="true" class="job-card-list__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="linkedin-bug-color-small">
+<!---->    <svg display="var(--hue-web-svg-display-light)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/cukxdu7s8ldmqz13xdao5xe75" x="0" y="0" width="16" height="16"></image>
+    </svg>
+    <svg display="var(--hue-web-svg-display-dark)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/7qvn5nkkh1mlaqd5xm0radtjv" x="0" y="0" width="16" height="16"></image>
+    </svg>
+</svg>
+
+                        <span dir="ltr">
+                          <!---->Easy Apply<!---->
+                        </span>
+                      </li>
+            </ul>
+          <span class="visually-hidden" aria-live="polite">
+<!---->          </span>
+      </div>
+      <div class="job-card-list__actions-container">
+          
+        
+    <div id="ember183" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view job-card-container__actions">
+      <button aria-expanded="false" aria-label="More options" id="ember184" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--1 artdeco-button--tertiary artdeco-button--muted artdeco-button--circle" type="button" tabindex="0">
+        <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="overflow-web-ios-small">
+<!---->    
+    <use href="#overflow-web-ios-small" width="16" height="16"></use>
+</svg>
+
+      
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember185" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view job-card-container__dropdown-content job-card-actions__overflow-dropdown"><!----></div>
+    </div>
+  
+        
+      <div>
+          <button aria-label="Dismiss Process Designer SDLC job" id="ember186" class="job-card-container__action job-card-container__action-small artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" type="button"><!---->
+<span class="artdeco-button__text">
+    
+            <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="close-small">
+<!---->    
+    <use href="#close-small" width="16" height="16"></use>
+</svg>
+
+            <span class="job-card-container__action-text"></span>
+          
+</span></button>
+      </div>
+  
+      <!---->  
+      </div>
+    </div>
+  
+    </div>
+  
+                              
+        </li>
+  
+              
+        <li id="ember187" class="ember-view   pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4277157119">
+            
+                  
+    <div>
+      
+    <div data-job-id="4277157119" class="display-flex job-card-container relative job-card-list
+        job-card-container--clickable
+        
+        job-card-list--underline-title-on-hover  jobs-search-two-pane__job-card-container--viewport-tracking-2">
+
+      <div>
+        <div id="ember188" class="job-card-list__entity-lockup  artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view">
+            <div id="ember189" class="job-card-list__logo  artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+              
+    <div class="ivm-image-view-model    job-card-list__logo-ivm">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="56" src="https://media.licdn.com/dms/image/v2/D4D0BAQELbw0jk9sX5A/company-logo_100_100/company-logo_100_100/0/1720424487902/idealista_com_logo?e=1756944000&amp;v=beta&amp;t=vCgbiKr0q7MU5mbob_wh6-BHThRkOVWuCS-DNKm-JBk" loading="lazy" height="56" alt="idealista logo" id="ember190" class="ivm-view-attr__img--centered EntityPhoto-square-4   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+            
+</div>
+
+          <div id="ember191" class="flex-grow-1 artdeco-entity-lockup__content ember-view">
+            <div id="ember192" class="full-width artdeco-entity-lockup__title ember-view">
+                  <a data-control-id="btNbAvjeZfcZsYR1nmbPNQ==" tabindex="0" href="/jobs/view/4277157119/?eBP=BUDGET_EXHAUSTED_JOB&amp;refId=qMvh2rjKNdN6fOB47lTp2w%3D%3D&amp;trackingId=btNbAvjeZfcZsYR1nmbPNQ%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember193" class="disabled ember-view job-card-container__link
+                      ejdCstattyJXnyulkMTPadaWxehRKpZtJoIQQ
+                      job-card-list__title--link" aria-label="UX &amp; Product Designer with verification" dir="ltr">
+                      <span aria-hidden="true"><strong><!---->UX &amp; Product Designer<!----></strong><span class="white-space-pre"> </span><!----><!----><span class="tvm__text tvm__text--low-emphasis"><svg role="none" aria-hidden="true" class="text-view-model__verified-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="verified-small">
+<!---->    
+    <use href="#verified-small" width="16" height="16"></use>
+</svg>
+</span></span><span class="visually-hidden"><!---->UX &amp; Product Designer with verification<!----></span>
+                  </a>
+            
+</div>
+            <div id="ember194" class="artdeco-entity-lockup__subtitle ember-view">
+                <span class="EGIatcgNbVtWrdhguOGzEhovJMKDFZApQ " dir="ltr">
+                  <!---->idealista<!---->
+                </span>
+
+            </div>
+
+            <div id="ember195" class="artdeco-entity-lockup__caption ember-view">
+                  <ul class="job-card-container__metadata-wrapper">
+                      <li class="CKjPDnSIdECUvtXMNOeCArFCMmlKAGeMEHI ">
+                        <span dir="ltr">
+                          <!---->Spain (Remote)<!---->
+                        </span>
+                      </li>
+<!---->                  </ul>
+            </div>
+
+<!---->
+<!---->          </div>
+
+        
+</div>
+
+            
+          
+    <div class="job-card-list__insight">
+        
+            <div class="display-flex align-items-center t-black--light t-12">
+                <div class="mv1">
+                  
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <svg role="img" aria-hidden="false" aria-label="Actively reviewing applicants" class="ivm-view-attr__icon ivm-view-attr__icon--signal-positive  job-card-container__job-insight-image" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="responsive-medium">
+<!---->    
+    <use href="#responsive-medium" width="24" height="24"></use>
+</svg>
+
+    </div>
+  
+          </div>
+  
+                </div>
+                <div class="job-card-container__job-insight-text" dir="ltr">
+                  <!---->Actively reviewing applicants<!---->
+                </div>
+            </div>
+          
+    </div>
+  
+      
+            <ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman mt1">
+<!---->                      <li class="job-card-container__footer-item inline-flex align-items-center">
+                        <span dir="ltr">
+                          <!---->Promoted<!---->
+                        </span>
+                      </li>
+                    <!---->                      <li class="KnpoyGBOosMVckTQYFYZUQOSKXczPVA
+                          job-card-container__footer-item inline-flex align-items-center">
+                        <svg role="none" aria-hidden="true" class="job-card-list__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="linkedin-bug-color-small">
+<!---->    <svg display="var(--hue-web-svg-display-light)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/cukxdu7s8ldmqz13xdao5xe75" x="0" y="0" width="16" height="16"></image>
+    </svg>
+    <svg display="var(--hue-web-svg-display-dark)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/7qvn5nkkh1mlaqd5xm0radtjv" x="0" y="0" width="16" height="16"></image>
+    </svg>
+</svg>
+
+                        <span dir="ltr">
+                          <!---->Easy Apply<!---->
+                        </span>
+                      </li>
+            </ul>
+          <span class="visually-hidden" aria-live="polite">
+<!---->          </span>
+      </div>
+      <div class="job-card-list__actions-container">
+          
+        
+    <div id="ember196" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view job-card-container__actions">
+      <button aria-expanded="false" aria-label="More options" id="ember197" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--1 artdeco-button--tertiary artdeco-button--muted artdeco-button--circle" type="button" tabindex="0">
+        <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="overflow-web-ios-small">
+<!---->    
+    <use href="#overflow-web-ios-small" width="16" height="16"></use>
+</svg>
+
+      
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember198" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view job-card-container__dropdown-content job-card-actions__overflow-dropdown"><!----></div>
+    </div>
+  
+        
+      <div>
+          <button aria-label="Dismiss UX &amp; Product Designer  job" id="ember199" class="job-card-container__action job-card-container__action-small artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" type="button"><!---->
+<span class="artdeco-button__text">
+    
+            <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="close-small">
+<!---->    
+    <use href="#close-small" width="16" height="16"></use>
+</svg>
+
+            <span class="job-card-container__action-text"></span>
+          
+</span></button>
+      </div>
+  
+      <!---->  
+      </div>
+    </div>
+  
+    </div>
+  
+                              
+        </li>
+  
+              
+        <li id="ember200" class="ember-view   pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4268561928">
+            
+                  
+    <div>
+      
+    <div data-job-id="4268561928" class="display-flex job-card-container relative job-card-list
+        job-card-container--clickable
+        
+        job-card-list--underline-title-on-hover  jobs-search-two-pane__job-card-container--viewport-tracking-3">
+
+      <div>
+        <div id="ember201" class="job-card-list__entity-lockup  artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view">
+            <div id="ember202" class="job-card-list__logo  artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+              
+    <div class="ivm-image-view-model    job-card-list__logo-ivm">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="56" src="https://media.licdn.com/dms/image/v2/C510BAQFVqa_uM_UGIw/company-logo_100_100/company-logo_100_100/0/1630601064328/zen_own_logo?e=1756944000&amp;v=beta&amp;t=PI29pGcA5g2MBR29Om_sKMtQ0DopXQHnwhXPlh7gMxY" loading="lazy" height="56" alt="ZenOwn logo" id="ember203" class="ivm-view-attr__img--centered EntityPhoto-square-4   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+            
+</div>
+
+          <div id="ember204" class="flex-grow-1 artdeco-entity-lockup__content ember-view">
+            <div id="ember205" class="full-width artdeco-entity-lockup__title ember-view">
+                  <a data-control-id="DddO20dD8B4Lybr6TcQz9A==" tabindex="0" href="/jobs/view/4268561928/?eBP=CwEAAAGYdl5hPDPIHJlxZu_jSxm1-znTu6wRFjjoY3LCy3SvDZIdgZAC7MoRKi8TiXRzzp-gIhG8x2hvp6OQ_E3ETW3Y6S55kZ_HqUjDuQCLx5fn2OHipiGPLRsDM8t3gNMEKKZOJFmkny5Gr_81U0sxGzRRsRXQ-AErGbYAFIlkiAWnx_qoJRJPCzeKUEd3kozIfhYW4nz6XDrCtAL6_k9Vk4UPQ1uGzFi8vJPcRdgCryaWJwncV3KSdHj7AZ860jIvEMNVWL7FKfjIQAj1cSuz1P81wMyhTC-DUsOxSfUy4aTw22okLGS3wWfoD1PymFzMUjuWykZoHrSpuamIs6MPp-YDWofaabNBUISf6CAgvQ1SEhpTCFbM0shQIDwllEaHQhZv6SM36RVJnoYz1QADbLO2bcn9agouLJ32gcMlOzBhXOuY30oa0CGTvowYBUIP8gLUvPtY2CwJpYl7na2Kx9OF0Oyq01WbQsVUX1hn1M1VeaiG5xukuN4-HriKip4-PZLaeb30xA&amp;refId=qMvh2rjKNdN6fOB47lTp2w%3D%3D&amp;trackingId=DddO20dD8B4Lybr6TcQz9A%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember206" class="disabled ember-view job-card-container__link
+                      ejdCstattyJXnyulkMTPadaWxehRKpZtJoIQQ
+                      job-card-list__title--link" aria-label="Product Associate" dir="ltr">
+                      <span aria-hidden="true"><strong><!---->Product Associate<!----></strong></span><span class="visually-hidden"><!---->Product Associate<!----></span>
+                  </a>
+            
+</div>
+            <div id="ember207" class="artdeco-entity-lockup__subtitle ember-view">
+                <span class="EGIatcgNbVtWrdhguOGzEhovJMKDFZApQ " dir="ltr">
+                  <!---->ZenOwn<!---->
+                </span>
+
+            </div>
+
+            <div id="ember208" class="artdeco-entity-lockup__caption ember-view">
+                  <ul class="job-card-container__metadata-wrapper">
+                      <li class="CKjPDnSIdECUvtXMNOeCArFCMmlKAGeMEHI ">
+                        <span dir="ltr">
+                          <!---->Spain (Remote)<!---->
+                        </span>
+                      </li>
+<!---->                  </ul>
+            </div>
+
+<!---->
+<!---->          </div>
+
+        
+</div>
+
+            
+          
+    <div class="job-card-list__insight">
+        
+            <div class="display-flex align-items-center t-black--light t-12">
+                <div class="mv1">
+                  
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <svg role="img" aria-hidden="false" aria-label="Actively reviewing applicants" class="ivm-view-attr__icon ivm-view-attr__icon--signal-positive  job-card-container__job-insight-image" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="responsive-medium">
+<!---->    
+    <use href="#responsive-medium" width="24" height="24"></use>
+</svg>
+
+    </div>
+  
+          </div>
+  
+                </div>
+                <div class="job-card-container__job-insight-text" dir="ltr">
+                  <!---->Actively reviewing applicants<!---->
+                </div>
+            </div>
+          
+    </div>
+  
+      
+            <ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman mt1">
+                    <li class="job-card-container__footer-item job-card-container__footer-job-state t-bold">
+                      Viewed
+                    </li>
+                                        <li class="job-card-container__footer-item inline-flex align-items-center">
+                        <span dir="ltr">
+                          <!---->Promoted<!---->
+                        </span>
+                      </li>
+                    <!---->                      <li class="KnpoyGBOosMVckTQYFYZUQOSKXczPVA
+                          job-card-container__footer-item inline-flex align-items-center">
+                        <svg role="none" aria-hidden="true" class="job-card-list__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="linkedin-bug-color-small">
+<!---->    <svg display="var(--hue-web-svg-display-light)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/cukxdu7s8ldmqz13xdao5xe75" x="0" y="0" width="16" height="16"></image>
+    </svg>
+    <svg display="var(--hue-web-svg-display-dark)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/7qvn5nkkh1mlaqd5xm0radtjv" x="0" y="0" width="16" height="16"></image>
+    </svg>
+</svg>
+
+                        <span dir="ltr">
+                          <!---->Easy Apply<!---->
+                        </span>
+                      </li>
+            </ul>
+          <span class="visually-hidden" aria-live="polite">
+<!---->          </span>
+      </div>
+      <div class="job-card-list__actions-container">
+          
+        
+    <div id="ember209" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view job-card-container__actions">
+      <button aria-expanded="false" aria-label="More options" id="ember210" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--1 artdeco-button--tertiary artdeco-button--muted artdeco-button--circle" type="button" tabindex="0">
+        <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="overflow-web-ios-small">
+<!---->    
+    <use href="#overflow-web-ios-small" width="16" height="16"></use>
+</svg>
+
+      
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember211" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view job-card-container__dropdown-content job-card-actions__overflow-dropdown"><!----></div>
+    </div>
+  
+        
+      <div>
+          <button aria-label="Dismiss Product Associate job" id="ember212" class="job-card-container__action job-card-container__action-small artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" type="button"><!---->
+<span class="artdeco-button__text">
+    
+            <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="close-small">
+<!---->    
+    <use href="#close-small" width="16" height="16"></use>
+</svg>
+
+            <span class="job-card-container__action-text"></span>
+          
+</span></button>
+      </div>
+  
+      <!---->  
+      </div>
+    </div>
+  
+    </div>
+  
+                              
+        </li>
+  
+              
+        <li id="ember213" class="ember-view   pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4278790032">
+            
+                  
+    <div>
+      
+    <div data-job-id="4278790032" class="display-flex job-card-container relative job-card-list
+        job-card-container--clickable
+        
+        job-card-list--underline-title-on-hover  jobs-search-two-pane__job-card-container--viewport-tracking-4">
+
+      <div>
+        <div id="ember214" class="job-card-list__entity-lockup  artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view">
+            <div id="ember215" class="job-card-list__logo  artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+              
+    <div class="ivm-image-view-model    job-card-list__logo-ivm">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="56" src="https://media.licdn.com/dms/image/v2/D4E0BAQFO7hIVIEAn0w/company-logo_100_100/company-logo_100_100/0/1712567869900/weareorbis_logo?e=1756944000&amp;v=beta&amp;t=Y5OaOGd_FzS7N2ZOkrPIOLldoc8UfKQyXXQgNnKWUKo" loading="lazy" height="56" alt="Orbis Group logo" id="ember216" class="ivm-view-attr__img--centered EntityPhoto-square-4   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+            
+</div>
+
+          <div id="ember217" class="flex-grow-1 artdeco-entity-lockup__content ember-view">
+            <div id="ember218" class="full-width artdeco-entity-lockup__title ember-view">
+                  <a data-control-id="Qc03TUcNXz/JoP3cMBBn3A==" tabindex="0" href="/jobs/view/4278790032/?eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=qMvh2rjKNdN6fOB47lTp2w%3D%3D&amp;trackingId=Qc03TUcNXz%2FJoP3cMBBn3A%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember219" class="disabled ember-view job-card-container__link
+                      ejdCstattyJXnyulkMTPadaWxehRKpZtJoIQQ
+                      job-card-list__title--link" aria-label="Product Designer with verification" dir="ltr">
+                      <span aria-hidden="true"><strong><!---->Product Designer<!----></strong><span class="white-space-pre"> </span><!----><!----><span class="tvm__text tvm__text--low-emphasis"><svg role="none" aria-hidden="true" class="text-view-model__verified-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="verified-small">
+<!---->    
+    <use href="#verified-small" width="16" height="16"></use>
+</svg>
+</span></span><span class="visually-hidden"><!---->Product Designer with verification<!----></span>
+                  </a>
+            
+</div>
+            <div id="ember220" class="artdeco-entity-lockup__subtitle ember-view">
+                <span class="EGIatcgNbVtWrdhguOGzEhovJMKDFZApQ " dir="ltr">
+                  <!---->Orbis Group<!---->
+                </span>
+
+            </div>
+
+            <div id="ember221" class="artdeco-entity-lockup__caption ember-view">
+                  <ul class="job-card-container__metadata-wrapper">
+                      <li class="CKjPDnSIdECUvtXMNOeCArFCMmlKAGeMEHI ">
+                        <span dir="ltr">
+                          <!---->EMEA (Remote)<!---->
+                        </span>
+                      </li>
+<!---->                  </ul>
+            </div>
+
+<!---->
+<!---->          </div>
+
+        
+</div>
+
+            
+          
+    <div class="job-card-list__insight">
+        
+            <div class="display-flex align-items-center t-black--light t-12">
+                <div class="mv1">
+                  
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+        <svg role="img" aria-hidden="false" aria-label="Actively reviewing applicants" class="ivm-view-attr__icon ivm-view-attr__icon--signal-positive  job-card-container__job-insight-image" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="responsive-medium">
+<!---->    
+    <use href="#responsive-medium" width="24" height="24"></use>
+</svg>
+
+    </div>
+  
+          </div>
+  
+                </div>
+                <div class="job-card-container__job-insight-text" dir="ltr">
+                  <!---->Actively reviewing applicants<!---->
+                </div>
+            </div>
+          
+    </div>
+  
+      
+            <ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman mt1">
+<!---->                          <li class="job-card-container__footer-item
+                              ">
+                            <time datetime="2025-08-01">
+                              3 days ago
+<!---->                            </time>
+                          </li>
+                      <li class="KnpoyGBOosMVckTQYFYZUQOSKXczPVA
+                          job-card-container__footer-item inline-flex align-items-center">
+                        <svg role="none" aria-hidden="true" class="job-card-list__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="linkedin-bug-color-small">
+<!---->    <svg display="var(--hue-web-svg-display-light)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/cukxdu7s8ldmqz13xdao5xe75" x="0" y="0" width="16" height="16"></image>
+    </svg>
+    <svg display="var(--hue-web-svg-display-dark)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/7qvn5nkkh1mlaqd5xm0radtjv" x="0" y="0" width="16" height="16"></image>
+    </svg>
+</svg>
+
+                        <span dir="ltr">
+                          <!---->Easy Apply<!---->
+                        </span>
+                      </li>
+            </ul>
+          <span class="visually-hidden" aria-live="polite">
+<!---->          </span>
+      </div>
+      <div class="job-card-list__actions-container">
+          
+        
+      <div>
+          <button aria-label="Dismiss Product Designer job" id="ember222" class="job-card-container__action job-card-container__action-small artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" type="button"><!---->
+<span class="artdeco-button__text">
+    
+            <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="close-small">
+<!---->    
+    <use href="#close-small" width="16" height="16"></use>
+</svg>
+
+            <span class="job-card-container__action-text"></span>
+          
+</span></button>
+      </div>
+  
+      <!---->  
+      </div>
+    </div>
+  
+    </div>
+  
+                              
+        </li>
+  
+              
+        <li id="ember223" class="ember-view   pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4269218131">
+            
+                  
+    <div>
+      
+    <div data-job-id="4269218131" class="display-flex job-card-container relative job-card-list
+        job-card-container--clickable
+        
+        job-card-list--underline-title-on-hover  jobs-search-two-pane__job-card-container--viewport-tracking-5">
+
+      <div>
+        <div id="ember224" class="job-card-list__entity-lockup  artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view">
+            <div id="ember225" class="job-card-list__logo  artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+              
+    <div class="ivm-image-view-model    job-card-list__logo-ivm">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="56" src="https://media.licdn.com/dms/image/v2/C4D0BAQEJkEjzeBhnNw/company-logo_100_100/company-logo_100_100/0/1630492705804?e=1756944000&amp;v=beta&amp;t=fcEPC3yUAUpbWlIy93pJLU4lfExwXEFR2qmOEoWW28o" loading="lazy" height="56" alt="Aubay Spain logo" id="ember226" class="ivm-view-attr__img--centered EntityPhoto-square-4   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+            
+</div>
+
+          <div id="ember227" class="flex-grow-1 artdeco-entity-lockup__content ember-view">
+            <div id="ember228" class="full-width artdeco-entity-lockup__title ember-view">
+                  <a data-control-id="on8UXslc6Ee+gAMUq2XjxQ==" tabindex="0" href="/jobs/view/4269218131/?eBP=CwEAAAGYdl5hPCWsu0-Jk0uaEEKlnXLOaLte98LgDDaZ2_0Eyf-QNQz4tqsG7vpdAM7LI3LRekhQBJuuzn9C_zlg7gp3Ld_XuRErroSrdZsWWYDxJzYkH_mLK9OYXgACQyh6DWPy7CFc8ydF8G-bksS1T-4Layp4xzoyXsqzdrCSvIi-XNoKmzFeSSNxtZ3s8IvA56YRPG_yNiG_TtHtV3n1GyNkG9Zx-t1gp9Gmr_iv4nUSvPNw5smK-jDqiROvk483IQwgWe-OCKnqKva_D-hdEW9Xj763taNAuIGqaT37yWrqm7PaVp_6wt_-JCkEDYuQcFxOeBOe_cP_6M_kfld5a1uMKr2e1jbWnb6kPTlX5hkni_YlJtDZ4ru7Y92jMR75Q5xHHobRThcPYcY3fXnOq_v3lBOz6yugYQ1PkJwWaW9Jwj0IqNaZSENrIGPn0q2YKKncKSgw4H_XnWkqe379kgqwmf2_KbEJBVgmd4D1QeCVep2-MxX5XBXY-6xLtGNzvhio2GU&amp;refId=qMvh2rjKNdN6fOB47lTp2w%3D%3D&amp;trackingId=on8UXslc6Ee%2BgAMUq2XjxQ%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember229" class="disabled ember-view job-card-container__link
+                      ejdCstattyJXnyulkMTPadaWxehRKpZtJoIQQ
+                      job-card-list__title--link" aria-label="Product Compliance Junior sector de automoción with verification" dir="ltr">
+                      <span aria-hidden="true"><strong><!---->Product Compliance Junior sector de automoción<!----></strong><span class="white-space-pre"> </span><!----><!----><span class="tvm__text tvm__text--low-emphasis"><svg role="none" aria-hidden="true" class="text-view-model__verified-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="verified-small">
+<!---->    
+    <use href="#verified-small" width="16" height="16"></use>
+</svg>
+</span></span><span class="visually-hidden"><!---->Product Compliance Junior sector de automoción with verification<!----></span>
+                  </a>
+            
+</div>
+            <div id="ember230" class="artdeco-entity-lockup__subtitle ember-view">
+                <span class="EGIatcgNbVtWrdhguOGzEhovJMKDFZApQ " dir="ltr">
+                  <!---->Aubay Spain<!---->
+                </span>
+
+            </div>
+
+            <div id="ember231" class="artdeco-entity-lockup__caption ember-view">
+                  <ul class="job-card-container__metadata-wrapper">
+                      <li class="CKjPDnSIdECUvtXMNOeCArFCMmlKAGeMEHI ">
+                        <span dir="ltr">
+                          <!---->Madrid, Community of Madrid, Spain (Remote)<!---->
+                        </span>
+                      </li>
+<!---->                  </ul>
+            </div>
+
+<!---->
+<!---->          </div>
+
+        
+</div>
+
+            
+          
+    <div class="job-card-list__insight">
+        
+            <div class="display-flex align-items-center t-black--light t-12">
+                <div class="mv1">
+                  
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="32" src="https://media.licdn.com/dms/image/v2/C510BAQHJ3pCPfVI-AA/company-logo_100_100/company-logo_100_100/0/1631306706918?e=1756944000&amp;v=beta&amp;t=GVqiD3GkkVm1FGDr3aYgTZ7MzqILlhTRBe5lUOOqZ78" loading="lazy" height="32" alt="" id="ember232" class="ivm-view-attr__img--centered EntityPhoto-square-1  job-card-container__job-insight-image evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+                </div>
+                <div class="job-card-container__job-insight-text" dir="ltr">
+                  <span aria-hidden="true"><!---->1 school alum works here<!----></span><span class="visually-hidden"><!---->1 Universidad Simón Bolívar school alum works here<!----></span>
+                </div>
+            </div>
+          
+    </div>
+  
+      
+            <ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman mt1">
+<!---->                      <li class="job-card-container__footer-item inline-flex align-items-center">
+                        <span dir="ltr">
+                          <!---->Promoted<!---->
+                        </span>
+                      </li>
+                    <!---->            </ul>
+          <span class="visually-hidden" aria-live="polite">
+<!---->          </span>
+      </div>
+      <div class="job-card-list__actions-container">
+          
+        
+    <div id="ember233" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view job-card-container__actions">
+      <button aria-expanded="false" aria-label="More options" id="ember234" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--1 artdeco-button--tertiary artdeco-button--muted artdeco-button--circle" type="button" tabindex="0">
+        <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="overflow-web-ios-small">
+<!---->    
+    <use href="#overflow-web-ios-small" width="16" height="16"></use>
+</svg>
+
+      
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember235" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view job-card-container__dropdown-content job-card-actions__overflow-dropdown"><!----></div>
+    </div>
+  
+        
+      <div>
+          <button aria-label="Dismiss Product Compliance Junior sector de automoción job" id="ember236" class="job-card-container__action job-card-container__action-small artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" type="button"><!---->
+<span class="artdeco-button__text">
+    
+            <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="close-small">
+<!---->    
+    <use href="#close-small" width="16" height="16"></use>
+</svg>
+
+            <span class="job-card-container__action-text"></span>
+          
+</span></button>
+      </div>
+  
+      <!---->  
+      </div>
+    </div>
+  
+    </div>
+  
+                              
+        </li>
+  
+              
+        <li id="ember237" class="ember-view   pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4278457049">
+            
+                  
+    <div>
+      
+    <div data-job-id="4278457049" class="display-flex job-card-container relative job-card-list
+        job-card-container--clickable
+        
+        job-card-list--underline-title-on-hover  jobs-search-two-pane__job-card-container--viewport-tracking-6">
+
+      <div>
+        <div id="ember238" class="job-card-list__entity-lockup  artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view">
+            <div id="ember239" class="job-card-list__logo  artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+              
+    <div class="ivm-image-view-model    job-card-list__logo-ivm">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="56" src="https://media.licdn.com/dms/image/v2/D4D0BAQGftUJaAnPIxg/company-logo_100_100/company-logo_100_100/0/1688654635337/bendingspoons_logo?e=1756944000&amp;v=beta&amp;t=1OPKHaECFjXj0LSUJ29mf23XStQzNJugh_T5CFq-ka0" loading="lazy" height="56" alt="Bending Spoons logo" id="ember240" class="ivm-view-attr__img--centered EntityPhoto-square-4   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+            
+</div>
+
+          <div id="ember241" class="flex-grow-1 artdeco-entity-lockup__content ember-view">
+            <div id="ember242" class="full-width artdeco-entity-lockup__title ember-view">
+                  <a data-control-id="FIpMz35OEsnIbwZAWmFIeQ==" tabindex="0" href="/jobs/view/4278457049/?eBP=CwEAAAGYdl5hPM5pjfgpIzFruo82untgAjiaTc8P7sdgQn3lv6vGkCEsKcQ65SZCgIYrb2uwXxeezw0qQKuCRW0sMtbO7xqmJefXJpOnhXyKXwnggck9v0ImAb9DCq715e21pT6hdcHEr5ykBr7gD5mJs759LG5zEPLNq2JYjHfNVgZDHtRXljZUWchvkRA8yGFd2_pgRmiYHIX-8TaWK5ls40_nASBeXEMqrzy_5R3GD0o2inF9k9rD69_RdIqDPpX_1Y4suR8c0J53wUKtKNpdJc1Gbm66zMPwxxn1jtkuUlbV64ncNg7014hYmGnqRnyq8A3OOlGPiYCDuUQYTJ1Ay1VpoIedk1dB9GQAdISrxYYYHw8gRFDU7-9Yk4sSQqie4DNGEzgs4oW0xHJ6yPyycQsLKL-IG4RUhLuVQCoIy-iUQiKiShtQe5_M-9SHJbYcSf8w9IehtKj6PT3WGs9ZmW13BOuv5i7HTPKQVl6-m0bF&amp;refId=qMvh2rjKNdN6fOB47lTp2w%3D%3D&amp;trackingId=FIpMz35OEsnIbwZAWmFIeQ%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember243" class="disabled ember-view job-card-container__link
+                      ejdCstattyJXnyulkMTPadaWxehRKpZtJoIQQ
+                      job-card-list__title--link" aria-label="Junior Product Designer with verification" dir="ltr">
+                      <span aria-hidden="true"><strong><!---->Junior Product Designer<!----></strong><span class="white-space-pre"> </span><!----><!----><span class="tvm__text tvm__text--low-emphasis"><svg role="none" aria-hidden="true" class="text-view-model__verified-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="verified-small">
+<!---->    
+    <use href="#verified-small" width="16" height="16"></use>
+</svg>
+</span></span><span class="visually-hidden"><!---->Junior Product Designer with verification<!----></span>
+                  </a>
+            
+</div>
+            <div id="ember244" class="artdeco-entity-lockup__subtitle ember-view">
+                <span class="EGIatcgNbVtWrdhguOGzEhovJMKDFZApQ " dir="ltr">
+                  <!---->Bending Spoons<!---->
+                </span>
+
+            </div>
+
+            <div id="ember245" class="artdeco-entity-lockup__caption ember-view">
+                  <ul class="job-card-container__metadata-wrapper">
+                      <li class="CKjPDnSIdECUvtXMNOeCArFCMmlKAGeMEHI ">
+                        <span dir="ltr">
+                          <!---->Spain (Remote)<!---->
+                        </span>
+                      </li>
+<!---->                  </ul>
+            </div>
+
+<!---->
+<!---->          </div>
+
+        
+</div>
+
+            
+<!---->      
+            <ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman mt1">
+<!---->                      <li class="job-card-container__footer-item inline-flex align-items-center">
+                        <span dir="ltr">
+                          <!---->Promoted<!---->
+                        </span>
+                      </li>
+                    <!---->            </ul>
+          <span class="visually-hidden" aria-live="polite">
+<!---->          </span>
+      </div>
+      <div class="job-card-list__actions-container">
+          
+        
+    <div id="ember246" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view job-card-container__actions">
+      <button aria-expanded="false" aria-label="More options" id="ember247" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--1 artdeco-button--tertiary artdeco-button--muted artdeco-button--circle" type="button" tabindex="0">
+        <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="overflow-web-ios-small">
+<!---->    
+    <use href="#overflow-web-ios-small" width="16" height="16"></use>
+</svg>
+
+      
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember248" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view job-card-container__dropdown-content job-card-actions__overflow-dropdown"><!----></div>
+    </div>
+  
+        
+      <div>
+          <button aria-label="Dismiss Junior Product Designer job" id="ember249" class="job-card-container__action job-card-container__action-small artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" type="button"><!---->
+<span class="artdeco-button__text">
+    
+            <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="close-small">
+<!---->    
+    <use href="#close-small" width="16" height="16"></use>
+</svg>
+
+            <span class="job-card-container__action-text"></span>
+          
+</span></button>
+      </div>
+  
+      <!---->  
+      </div>
+    </div>
+  
+    </div>
+  
+                              
+        </li>
+  
+              
+        <li id="ember250" class="ember-view   pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4271353633">
+            
+                  
+    <div>
+      
+    <div data-job-id="4271353633" class="display-flex job-card-container relative job-card-list
+        job-card-container--clickable
+        
+        job-card-list--underline-title-on-hover  jobs-search-two-pane__job-card-container--viewport-tracking-7">
+
+      <div>
+        <div id="ember316" class="job-card-list__entity-lockup  artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view">
+            <div id="ember317" class="job-card-list__logo  artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+              
+    <div class="ivm-image-view-model    job-card-list__logo-ivm">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="56" src="https://media.licdn.com/dms/image/v2/D4D0BAQH8ei76CwtpzA/company-logo_100_100/company-logo_100_100/0/1710836339546/trileuco_solutions_logo?e=1756944000&amp;v=beta&amp;t=mC3Kmpq65Rslhj7iHNC6hwbQT_NoUNMlfPRRpfmmZW8" loading="lazy" height="56" alt="Trileuco Solutions logo" id="ember318" class="ivm-view-attr__img--centered EntityPhoto-square-4   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+            
+</div>
+
+          <div id="ember319" class="flex-grow-1 artdeco-entity-lockup__content ember-view">
+            <div id="ember320" class="full-width artdeco-entity-lockup__title ember-view">
+                  <a data-control-id="VuM3S37npU84YbSzoloAWw==" tabindex="0" href="/jobs/view/4271353633/?eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=qMvh2rjKNdN6fOB47lTp2w%3D%3D&amp;trackingId=VuM3S37npU84YbSzoloAWw%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember321" class="disabled ember-view job-card-container__link
+                      ejdCstattyJXnyulkMTPadaWxehRKpZtJoIQQ
+                      job-card-list__title--link" aria-label="Digital Product Designer (Ux/Ui)" dir="ltr">
+                      <span aria-hidden="true"><strong><!---->Digital Product Designer (Ux/Ui)<!----></strong></span><span class="visually-hidden"><!---->Digital Product Designer (Ux/Ui)<!----></span>
+                  </a>
+            
+</div>
+            <div id="ember322" class="artdeco-entity-lockup__subtitle ember-view">
+                <span class="EGIatcgNbVtWrdhguOGzEhovJMKDFZApQ " dir="ltr">
+                  <!---->Trileuco Solutions<!---->
+                </span>
+
+            </div>
+
+            <div id="ember323" class="artdeco-entity-lockup__caption ember-view">
+                  <ul class="job-card-container__metadata-wrapper">
+                      <li class="CKjPDnSIdECUvtXMNOeCArFCMmlKAGeMEHI ">
+                        <span dir="ltr">
+                          <!---->Burgos, Castilla and Leon, Spain<!---->
+                        </span>
+                      </li>
+<!---->                  </ul>
+            </div>
+
+<!---->
+<!---->          </div>
+
+        
+</div>
+
+            
+<!---->      
+            <ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman mt1">
+<!---->                          <li class="job-card-container__footer-item
+                              ">
+                            <time datetime="2025-07-23">
+                              1 week ago
+<!---->                            </time>
+                          </li>
+            </ul>
+          <span class="visually-hidden" aria-live="polite">
+<!---->          </span>
+      </div>
+      <div class="job-card-list__actions-container">
+          
+        
+      <div>
+          <button aria-label="Dismiss Digital Product Designer (Ux/Ui) job" id="ember324" class="job-card-container__action job-card-container__action-small artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" type="button"><!---->
+<span class="artdeco-button__text">
+    
+            <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="close-small">
+<!---->    
+    <use href="#close-small" width="16" height="16"></use>
+</svg>
+
+            <span class="job-card-container__action-text"></span>
+          
+</span></button>
+      </div>
+  
+      <!---->  
+      </div>
+    </div>
+  
+    </div>
+  
+                              
+        </li>
+  
+              
+        <li id="ember251" class="ember-view   pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4276231856">
+            
+                  
+    <div>
+      
+    <div data-job-id="4276231856" class="display-flex job-card-container relative job-card-list
+        job-card-container--clickable
+        
+        job-card-list--underline-title-on-hover  jobs-search-two-pane__job-card-container--viewport-tracking-8">
+
+      <div>
+        <div id="ember325" class="job-card-list__entity-lockup  artdeco-entity-lockup artdeco-entity-lockup--size-4 ember-view">
+            <div id="ember326" class="job-card-list__logo  artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+              
+    <div class="ivm-image-view-model    job-card-list__logo-ivm">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="56" src="https://media.licdn.com/dms/image/v2/D4D0BAQHqyDoyE0L0AA/company-logo_100_100/company-logo_100_100/0/1719837634480/tuotempo_logo?e=1756944000&amp;v=beta&amp;t=rL7Kk59N9Fwm5PriFqeBcpjEqzkH4zDYHpiPk2p8UCc" loading="lazy" height="56" alt="TuoTempo logo" id="ember327" class="ivm-view-attr__img--centered EntityPhoto-square-4   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+            
+</div>
+
+          <div id="ember328" class="flex-grow-1 artdeco-entity-lockup__content ember-view">
+            <div id="ember329" class="full-width artdeco-entity-lockup__title ember-view">
+                  <a data-control-id="MUZU/jpH7nuHoH/lETT4Qw==" tabindex="0" href="/jobs/view/4276231856/?eBP=BUDGET_EXHAUSTED_JOB&amp;refId=qMvh2rjKNdN6fOB47lTp2w%3D%3D&amp;trackingId=MUZU%2FjpH7nuHoH%2FlETT4Qw%3D%3D&amp;trk=flagship3_search_srp_jobs" id="ember330" class="disabled ember-view job-card-container__link
+                      ejdCstattyJXnyulkMTPadaWxehRKpZtJoIQQ
+                      job-card-list__title--link" aria-label="Junior Product Manager" dir="ltr">
+                      <span aria-hidden="true"><strong><!---->Junior Product Manager<!----></strong></span><span class="visually-hidden"><!---->Junior Product Manager<!----></span>
+                  </a>
+            
+</div>
+            <div id="ember331" class="artdeco-entity-lockup__subtitle ember-view">
+                <span class="EGIatcgNbVtWrdhguOGzEhovJMKDFZApQ " dir="ltr">
+                  <!---->TuoTempo<!---->
+                </span>
+
+            </div>
+
+            <div id="ember332" class="artdeco-entity-lockup__caption ember-view">
+                  <ul class="job-card-container__metadata-wrapper">
+                      <li class="CKjPDnSIdECUvtXMNOeCArFCMmlKAGeMEHI ">
+                        <span dir="ltr">
+                          <!---->Barcelona, Catalonia, Spain (Remote)<!---->
+                        </span>
+                      </li>
+<!---->                  </ul>
+            </div>
+
+<!---->
+<!---->          </div>
+
+        
+</div>
+
+            
+<!---->      
+            <ul class="job-card-list__footer-wrapper job-card-container__footer-wrapper flex-shrink-zero display-flex t-sans t-12 t-black--light t-normal t-roman mt1">
+<!---->                      <li class="job-card-container__footer-item inline-flex align-items-center">
+                        <span dir="ltr">
+                          <!---->Promoted<!---->
+                        </span>
+                      </li>
+                    <!---->                      <li class="KnpoyGBOosMVckTQYFYZUQOSKXczPVA
+                          job-card-container__footer-item inline-flex align-items-center">
+                        <svg role="none" aria-hidden="true" class="job-card-list__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="linkedin-bug-color-small">
+<!---->    <svg display="var(--hue-web-svg-display-light)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/cukxdu7s8ldmqz13xdao5xe75" x="0" y="0" width="16" height="16"></image>
+    </svg>
+    <svg display="var(--hue-web-svg-display-dark)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/7qvn5nkkh1mlaqd5xm0radtjv" x="0" y="0" width="16" height="16"></image>
+    </svg>
+</svg>
+
+                        <span dir="ltr">
+                          <!---->Easy Apply<!---->
+                        </span>
+                      </li>
+            </ul>
+          <span class="visually-hidden" aria-live="polite">
+<!---->          </span>
+      </div>
+      <div class="job-card-list__actions-container">
+          
+        
+    <div id="ember333" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view job-card-container__actions">
+      <button aria-expanded="false" aria-label="More options" id="ember334" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view artdeco-button artdeco-button--1 artdeco-button--tertiary artdeco-button--muted artdeco-button--circle" type="button" tabindex="0">
+        <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="overflow-web-ios-small">
+<!---->    
+    <use href="#overflow-web-ios-small" width="16" height="16"></use>
+</svg>
+
+      
+<!----></button>
+      <div tabindex="-1" aria-hidden="true" id="ember335" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view job-card-container__dropdown-content job-card-actions__overflow-dropdown"><!----></div>
+    </div>
+  
+        
+      <div>
+          <button aria-label="Dismiss Junior Product Manager job" id="ember336" class="job-card-container__action job-card-container__action-small artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--tertiary ember-view" type="button"><!---->
+<span class="artdeco-button__text">
+    
+            <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="close-small">
+<!---->    
+    <use href="#close-small" width="16" height="16"></use>
+</svg>
+
+            <span class="job-card-container__action-text"></span>
+          
+</span></button>
+      </div>
+  
+      <!---->  
+      </div>
+    </div>
+  
+    </div>
+  
+                              
+        </li>
+  
+              
+        <li id="ember252" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4277355899">
+<!---->        </li>
+  
+              
+        <li id="ember253" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="3566463124">
+<!---->        </li>
+  
+              
+        <li id="ember254" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4265190441">
+<!---->        </li>
+  
+              
+        <li id="ember255" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4242475872">
+<!---->        </li>
+  
+              
+        <li id="ember256" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4268993731">
+<!---->        </li>
+  
+              
+        <li id="ember257" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4277526199">
+<!---->        </li>
+  
+              
+        <li id="ember258" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4252986566">
+<!---->        </li>
+  
+              
+        <li id="ember259" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4267766098">
+<!---->        </li>
+  
+              
+        <li id="ember260" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4267355442">
+<!---->        </li>
+  
+              
+        <li id="ember261" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4277689019">
+<!---->        </li>
+  
+              
+        <li id="ember262" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4271001152">
+<!---->        </li>
+  
+              
+        <li id="ember263" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4277384267">
+<!---->        </li>
+  
+              
+        <li id="ember264" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4263267497">
+<!---->        </li>
+  
+              
+        <li id="ember265" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4249248462">
+<!---->        </li>
+  
+              
+        <li id="ember266" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4235392440">
+<!---->        </li>
+  
+              
+        <li id="ember267" class="ember-view jobs-search-results__job-card-search--generic-occludable-area  pAbvgQFZirdvJQqiZzavNLVuKFAKYMjFTJXSI occludable-update p0 relative scaffold-layout__list-item" data-occludable-job-id="4269610878">
+<!---->        </li>
+  
+          
+</ul>
+          
+    <div data-view-name="jobs-search-list-feedback">
+        <div class="jobs-list-feedback jobs-list-feedback--background-transparent pr3">
+            <div class="display-flex justify-space-between align-items-center">
+              <div class="jobs-list-feedback--fixed-width">
+                <h2 class="t-16 t-bold">
+                  Are these results helpful?
+                </h2>
+                <p class="t-14 t-black--light t-normal">
+                  Your feedback helps us improve search results.
+                </p>
+              </div>
+              <div class="flex-shrink-zero">
+                <button id="ember268" class="artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--3 artdeco-button--tertiary ember-view">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="thumbs-down-outline-medium">
+<!---->    
+    <use href="#thumbs-down-outline-medium" width="24" height="24"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Are you finding what you’re looking for? No
+</span></button>
+                <button id="ember269" class="artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--3 artdeco-button--tertiary ember-view">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="thumbs-up-outline-medium">
+<!---->    
+    <use href="#thumbs-up-outline-medium" width="24" height="24"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Are you finding what you’re looking for? Yes
+</span></button>
+              </div>
+            </div>
+        </div>
+      <div id="ember270" class="ember-view"><!----></div>
+    </div>
+  
+        <div id="jobs-search-results-footer">
+          
+      <!---->
+      <!---->
+      
+  
+        
+        <div id="ember162" class="ember-view   ">
+<!---->        </div>
+  
+      
+
+    
+<!----><!---->              
+    <div class="jobs-search-pagination jobs-search-results-list__pagination p4">
+        <div class="jobs-search-pagination__spacer"></div>
+
+      <ul class="jobs-search-pagination__pages">
+<!----><!---->            <li class="jobs-search-pagination__indicator">
+              <button class="jobs-search-pagination__indicator-button jobs-search-pagination__indicator-button--active" aria-current="page" aria-label="Page 1" type="button">
+                <span>1</span>
+              </button>
+            </li>
+            <li class="jobs-search-pagination__indicator">
+              <button class="jobs-search-pagination__indicator-button " aria-label="Page 2" type="button">
+                <span>2</span>
+              </button>
+            </li>
+            <li class="jobs-search-pagination__indicator">
+              <button class="jobs-search-pagination__indicator-button " aria-label="Page 3" type="button">
+                <span>3</span>
+              </button>
+            </li>
+          <li class="jobs-search-pagination__indicator">
+            <button class="jobs-search-pagination__indicator-button" aria-label="Page 4" type="button">
+              <span>…</span>
+            </button>
+          </li>
+      </ul>
+      <p class="jobs-search-pagination__page-state">
+        Page 1 of 21
+      </p>
+
+        <button aria-label="View next page" id="ember271" class="artdeco-button artdeco-button--muted artdeco-button--icon-right artdeco-button--1 artdeco-button--tertiary ember-view jobs-search-pagination__button jobs-search-pagination__button--next" type="button">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="chevron-right-small" data-rtl="true">
+<!---->    
+    <use href="#chevron-right-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Next
+</span></button>
+    </div>
+  
+<!---->            
+    <footer class="global-footer-compact
+        " aria-label="LinkedIn Footer Content">
+      
+        <div id="ember163" class="ember-view global-footer-compact__occlusion-hint  ">
+<!---->        </div>
+  
+    </footer>
+  
+        </div>
+      </div>
+  
+  
+            
+        </div>
+
+        <div class="scaffold-layout__detail
+            overflow-x-hidden jobs-search__job-details
+            
+            " tabindex="-1">
+          
+              
+    <!---->
+    <div class="jobs-search__job-details--wrapper">
+      <div></div>
+
+        
+      <div aria-label="Product Designer" class="jobs-search__job-details--container
+          " data-job-details-events-trigger="">
+        
+      <div class="jobs-semantic-search-job-details-wrapper" tabindex="0">
+        <div></div>
+        
+<!---->
+    <div class="job-view-layout jobs-details">
+      <div>
+        <div class="jobs-details__main-content jobs-details__main-content--single-pane full-width
+            ">
+            
+
+<!---->  
+          
+          <div>
+            
+    <div class="t-14" tabindex="-1">
+<!---->      <div class="relative
+          job-details-jobs-unified-top-card__container--two-pane">
+        <div>
+          <div class="display-flex align-items-center">
+            <div class="display-flex align-items-center flex-1">
+                <a class="WVYvytZMnekSovzsWcUKkEIqCtlaHVk " aria-label="Bask Health logo" href="https://www.linkedin.com/company/bask-health/life" data-test-app-aware-link="">
+                    
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        
+        ">
+<!---->
+<!---->          <img width="32" src="https://media.licdn.com/dms/image/v2/D4E0BAQFnIgXERhVpNw/company-logo_100_100/B4EZc2f3nsG4AQ-/0/1748966013748/bask_health_logo?e=1756944000&amp;v=beta&amp;t=5sryeLBDjwvOMWzTC5mcHQ53SotQ1PtZY2TAbB42Dho" loading="lazy" height="32" alt="Bask Health logo" id="ember47" class="ivm-view-attr__img--centered EntityPhoto-square-1   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+                </a>
+
+                <div class="job-details-jobs-unified-top-card__company-name" dir="ltr">
+                  <a class="WVYvytZMnekSovzsWcUKkEIqCtlaHVk " target="_self" tabindex="0" href="https://www.linkedin.com/company/bask-health/life" data-test-app-aware-link=""><!---->Bask Health<!----></a>
+                </div>
+            </div>
+
+            <div class="job-details-jobs-unified-top-card__top-buttons">
+                
+    <div class="social-share">
+      <div id="ember48" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+          <button aria-expanded="false" aria-label="Share" id="ember49" class="social-share__dropdown-trigger artdeco-button artdeco-button--3 artdeco-button--tertiary artdeco-button--circle artdeco-button--muted artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" type="button" tabindex="0">
+            <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="share-linkedin-medium" data-rtl="true">
+<!---->    
+    <use href="#share-linkedin-medium" width="24" height="24"></use>
+</svg>
+
+            <span class="artdeco-button__text">Share</span>
+          
+<!----></button>
+
+        <div tabindex="-1" aria-hidden="true" id="ember50" class="social-share__content text-align-left artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+      </div>
+
+      <div>
+  
+      
+<!---->  
+  
+</div>
+
+<!---->
+
+<!---->    </div>
+  
+                
+    <div id="ember51" class="artdeco-dropdown jobs-options artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+      
+                  <button aria-expanded="false" id="ember52" class="artdeco-button artdeco-button--3 artdeco-button--tertiary artdeco-button--muted artdeco-button--circle artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" type="button" tabindex="0">
+                    <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="overflow-web-ios-medium">
+<!---->    
+    <use href="#overflow-web-ios-medium" width="24" height="24"></use>
+</svg>
+
+                    <span class="artdeco-button__text">
+                      Show more options
+                    </span>
+                  
+<!----></button>
+                
+      <div tabindex="-1" aria-hidden="true" id="ember53" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  
+            </div>
+          </div>
+
+          <div class="display-flex justify-space-between flex-wrap mt2">
+            <div class="t-24 job-details-jobs-unified-top-card__job-title">
+              <h1 class="t-24 t-bold inline"><a href="/jobs/view/4234435146/?alternateChannel=search&amp;eBP=NOT_ELIGIBLE_FOR_CHARGING&amp;refId=qMvh2rjKNdN6fOB47lTp2w%3D%3D&amp;trackingId=KE9UkUoYSwGj0AweRB9c2Q%3D%3D&amp;trk=d_flagship3_search_srp_jobs" id="ember54" class="ember-view">Product Designer</a></h1><!----></div>
+
+<!---->          </div>
+
+<!---->
+          <div class="job-details-jobs-unified-top-card__primary-description-container">
+              <div class="t-black--light mt2 job-details-jobs-unified-top-card__tertiary-description-container">
+                <span dir="ltr"><span class="tvm__text tvm__text--low-emphasis"><!---->Spain<!----></span><span class="tvm__text tvm__text--low-emphasis"><span class="white-space-pre"> </span>·<span class="white-space-pre"> </span></span><span class="tvm__text tvm__text--low-emphasis"><span><!---->2 months ago<!----></span></span><span class="tvm__text tvm__text--low-emphasis"><span class="white-space-pre"> </span>·<span class="white-space-pre"> </span></span><span class="tvm__text tvm__text--low-emphasis"><!---->Over 100 applicants<!----></span><p><span class="tvm__text tvm__text--positive"><strong><!---->Company review time is typically 1 week<!----></strong></span></p></span>
+              </div>
+          </div>
+
+<!---->
+            
+      <div class="job-details-fit-level-preferences">
+            <button tabindex="0" class="artdeco-button artdeco-button--secondary artdeco-button--muted" type="button">
+              <span aria-hidden="true"><span class="tvm__text tvm__text--low-emphasis"><strong><li-icon aria-hidden="true" type="check" class="v-align-bottom" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <path d="M12.57 2H15L6 15l-5-5 1.41-1.41 3.31 3.3z"></path>
+    </svg></li-icon><span class="white-space-pre"> </span>Remote<!----></strong></span></span><span class="visually-hidden"><!---->Matches your job preferences, workplace type is Remote.<!----></span>
+            </button>
+            <button tabindex="0" class="artdeco-button artdeco-button--secondary artdeco-button--muted" type="button">
+              <span aria-hidden="true"><span class="tvm__text tvm__text--low-emphasis"><strong><li-icon aria-hidden="true" type="check" class="v-align-bottom" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <path d="M12.57 2H15L6 15l-5-5 1.41-1.41 3.31 3.3z"></path>
+    </svg></li-icon><span class="white-space-pre"> </span>Full-time<!----></strong></span></span><span class="visually-hidden"><!---->Matches your job preferences, job type is Full-time.<!----></span>
+            </button>
+      </div>
+      
+    <div id="ember55" class="ember-view"><!----></div>
+  
+  
+
+          <div class="mt4">
+              <div class="display-flex">
+                  
+    <div class="jobs-s-apply jobs-s-apply--fadein inline-flex mr2">
+        
+    <div class="jobs-apply-button--top-card">
+      <button aria-label="Easy Apply to Product Designer at Bask Health" id="jobs-apply-button-id" class="jobs-apply-button
+         artdeco-button artdeco-button--3 artdeco-button--primary ember-view" data-job-id="4234435146" data-live-test-job-apply-button="">        <svg role="none" aria-hidden="true" class="artdeco-button__icon artdeco-button__icon--in-bug" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" data-supported-dps="14x14" data-test-icon="linkedin-bug-xxsmall">
+<!---->    
+    <use href="#linkedin-bug-xxsmall" width="14" height="14"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Easy Apply
+</span></button>
+    </div>
+  
+          </div>
+  
+
+                  <span class="visibility-hidden"></span>
+
+                    
+    <button class="jobs-save-button
+         artdeco-button artdeco-button--secondary artdeco-button--3" type="button">
+        <span aria-hidden="true" class="jobs-save-button__text">
+          Save
+        </span>
+        <span class="a11y-text">
+          Save Product Designer at Bask Health
+        </span>
+    </button>
+  
+              </div>
+
+<!---->
+<!---->
+<!----><!---->          </div>
+
+<!---->
+<!---->
+<!----><!---->
+<!---->        </div>
+
+<!---->
+<!---->      </div>
+        <div class="job-details-jobs-unified-top-card__sticky-header
+            job-details-jobs-unified-top-card__sticky-header--disabled">
+          <div class="job-details-jobs-unified-top-card__title-container">
+              <a data-control-id="KE9UkUoYSwGj0AweRB9c2Q==" href="/jobs/view/4234435146/?alternateChannel=search&amp;refId=qMvh2rjKNdN6fOB47lTp2w%3D%3D&amp;trackingId=KE9UkUoYSwGj0AweRB9c2Q%3D%3D&amp;trk=d_flagship3_search_srp_jobs" id="ember57" class="ember-view">
+                <h2 class="t-16 t-black t-bold truncate">
+                  Product Designer
+                </h2>
+              </a>
+            <div class="t-14 truncate">
+              Bask Health · Spain (Remote)
+            </div>
+          </div>
+          <div class="job-details-jobs-unified-top-card__sticky-buttons-container">
+              
+    <div class="jobs-s-apply jobs-s-apply--fadein inline-flex mr2">
+        
+    <div class="jobs-apply-button--top-card">
+      <button aria-label="Easy Apply to Product Designer at Bask Health" id="jobs-apply-button-id" class="jobs-apply-button
+         artdeco-button artdeco-button--2 artdeco-button--primary ember-view" data-job-id="4234435146" data-live-test-job-apply-button="">        <svg role="none" aria-hidden="true" class="artdeco-button__icon artdeco-button__icon--in-bug" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" data-supported-dps="14x14" data-test-icon="linkedin-bug-xxsmall">
+<!---->    
+    <use href="#linkedin-bug-xxsmall" width="14" height="14"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Easy Apply
+</span></button>
+    </div>
+  
+          </div>
+  
+
+                
+    <button class="jobs-save-button
+         mr2 artdeco-button artdeco-button--2 artdeco-button--secondary" aria-expanded="false" type="button">
+        <span aria-hidden="true" class="jobs-save-button__text">
+          Save
+        </span>
+        <span class="a11y-text">
+          Save Product Designer at Bask Health
+        </span>
+    </button>
+  
+
+            
+    <div id="ember59" class="artdeco-dropdown jobs-options artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view inline-flex">
+      
+              <button aria-expanded="false" id="ember60" class="artdeco-button artdeco-button--2 artdeco-button--tertiary artdeco-button--muted artdeco-button--circle artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" type="button" tabindex="0">
+                <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="overflow-web-ios-medium">
+<!---->    
+    <use href="#overflow-web-ios-medium" width="24" height="24"></use>
+</svg>
+
+                <span class="artdeco-button__text">
+                  Show more options
+                </span>
+              
+<!----></button>
+            
+      <div tabindex="-1" aria-hidden="true" id="ember61" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+    </div>
+  
+          </div>
+        </div>
+    </div>
+  
+<!---->
+<!---->          </div>
+
+          
+<!---->      <div class="artdeco-card mt4 job-details-module relative">
+          <div class="job-details-fit-level-card
+              pv4 ph5
+              " role="presentation">
+                <div class="display-flex align-items-center mb2">
+                  <svg role="img" aria-hidden="false" aria-label="Premium" xmlns="http://www.w3.org/2000/svg" width="78" height="8" viewBox="0 0 78 8" data-supported-dps="78x8" data-test-icon="premium-badge-xxxsmall">
+<!---->    <svg display="var(--hue-web-svg-display-light)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/3068z204ww5pg0wt1qbemtzul" x="0" y="0" width="78" height="8"></image>
+    </svg>
+    <svg display="var(--hue-web-svg-display-dark)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/181jrk4wmnppkt9vl21cauxpa" x="0" y="0" width="78" height="8"></image>
+    </svg>
+</svg>
+
+                </div>
+              <div>
+                <div class="display-flex flex-column job-details-fit-level-card__header-wrapper
+                    ">
+                  <div class="display-flex flex-row justify-space-between">
+                      <div class="display-flex flex-column mr3">
+                          <h2 class="text-heading-large mb1" dir="ltr">
+                            <strong><!---->Job match is<span class="white-space-pre"> </span><span class="tvm__text tvm__text--positive"><!---->high<!----></span><!---->, we can help you stand out<!----></strong>
+                          </h2>
+                          <h3 class="job-details-fit-level-card__sub-header" dir="ltr">
+                            <span class="tvm__text tvm__text--low-emphasis"><!---->Your profile matches the required qualifications well<!----></span>
+                          </h3>
+                      </div>
+
+                      <div>
+                        <span class="job-details-fit-level-card__animation
+                            job-details-fit-level-card__animation-light-good" title="Animation representing the level of your match with this job"></span>
+<!---->                      </div>
+                  </div>
+
+<!---->
+                    <div class="mt2">
+                      
+      <div class="coach-mark-list__container">
+<!----><!---->          
+    <div class="display-flex align-items-center relative">
+<!---->
+      <ul class="rrWuEBbWevllCYkcdnbyOHFQzxTgfIFbGQ
+          coach-mark-list__multi-container">
+          <li class="NwypCctyOZSeTMMXgoiRVPniGVkNZJCk
+              sNbZRHnEgGxfDkGdoBvxgbbaGxbDmmWKIY
+              ">
+            
+
+              
+  
+    
+      
+    <button aria-label="Show match details" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view tVIiFrrDcpkcxQvhydcdMVmQZybYOztIY">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="signal-ai-small">
+<!---->    
+    <use href="#signal-ai-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Show match details
+</span></button>
+  
+  
+  
+
+                      
+          </li>
+          <li class="NwypCctyOZSeTMMXgoiRVPniGVkNZJCk
+              
+              ">
+            
+
+              
+  
+    
+      
+    <button aria-label="Tailor my resume" id="coach-mark-list-prompt__blackout-target-1" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view tVIiFrrDcpkcxQvhydcdMVmQZybYOztIY">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="signal-ai-small">
+<!---->    
+    <use href="#signal-ai-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Tailor my resume
+</span></button>
+  
+  
+  
+
+                      
+          </li>
+          <li class="NwypCctyOZSeTMMXgoiRVPniGVkNZJCk
+              
+              ">
+            
+
+              
+  
+    
+      
+    <button aria-label="Create cover letter" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view tVIiFrrDcpkcxQvhydcdMVmQZybYOztIY">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="signal-ai-small">
+<!---->    
+    <use href="#signal-ai-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Create cover letter
+</span></button>
+  
+  
+  
+
+                      
+          </li>
+          <li class="NwypCctyOZSeTMMXgoiRVPniGVkNZJCk
+              
+              jjbIjxKeGxYcckeSvvpbinJDNqFrRBW">
+            
+
+              
+  
+    
+      
+    <button aria-label="Help me stand out" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view tVIiFrrDcpkcxQvhydcdMVmQZybYOztIY">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="signal-ai-small">
+<!---->    
+    <use href="#signal-ai-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Help me stand out
+</span></button>
+  
+  
+  
+
+                      
+          </li>
+      </ul>
+
+        <button aria-label="Scroll right" id="ember309" class="artdeco-button artdeco-button--muted artdeco-button--1 artdeco-button--tertiary ember-view coach-shared-hscroll-bar__right-button">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="chevron-right-small" data-rtl="true">
+<!---->    
+    <use href="#chevron-right-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    
+</span></button>
+    </div>
+  
+      </div>
+  
+                    </div>
+
+<!---->                </div>
+<!---->              </div>
+          </div>
+          
+      <div class="job-details-fit-level-card-feedback__container">
+
+        <div class="display-flex">
+          <p class="job-details-fit-level-card-feedback__insight t-12 t-black--light">BETA</p><p class="t-12 t-black--light pl1">Is this information helpful?</p>
+        </div>
+        <div class="display-flex flex-direction-row">
+          <span tabindex="-1" id="ember290" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view">
+            <button aria-label="Mark information as helpful" aria-describedby="artdeco-hoverable-artdeco-gen-47" id="ember291" class="artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--1 artdeco-button--tertiary ember-view mr1 job-details-fit-level-card-feedback__feedback-button">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="thumbs-up-outline-small">
+<!---->    
+    <use href="#thumbs-up-outline-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    
+</span></button>
+            <div id="artdeco-gen-47" class="ember-view"><div id="ember293" class="ember-view"></div></div>
+          </span>
+          <span tabindex="-1" id="ember294" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-top artdeco-hoverable-trigger--is-hoverable ember-view">
+            <button aria-label="Mark information as not helpful" aria-describedby="artdeco-hoverable-artdeco-gen-48" id="ember295" class="artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--1 artdeco-button--tertiary ember-view mr1 job-details-fit-level-card-feedback__feedback-button">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="thumbs-down-outline-small">
+<!---->    
+    <use href="#thumbs-down-outline-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    
+</span></button>
+            <div id="artdeco-gen-48" class="ember-view"><div id="ember297" class="ember-view"></div></div>
+          </span>
+        </div>
+      </div>
+
+      <div id="ember298" class="ember-view"><!----></div>
+  
+      </div>
+  
+
+            
+<!---->  
+
+            
+    <div class="hidden job-details-module relative">
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->          </div>
+  
+
+<!---->
+<!---->
+<!---->
+          
+    <div class="job-details-module">
+<!----><!---->          </div>
+  
+
+<!---->
+            
+    <div class="jobs-box--fadein jobs-box--full-width jobs-box--with-cta-large jobs-description
+        
+        
+        
+         jobs-description--reformatted
+        
+         job-details-module">
+
+<!---->
+      <article class="jobs-description__container
+          ">
+        <div class="jobs-description__content jobs-description-content
+            ">
+          <div class="jobs-box__html-content
+              iBQEOfcuIlHEIXlcaLSQCaywonYLsiKJM
+              t-14 t-normal
+              jobs-description-content__text--stretch" id="job-details" tabindex="-1">
+            <h2 class="text-heading-large">
+              About the job
+            </h2>
+
+<!---->            <div class="mt4">
+                <p dir="ltr">
+                  <!---->As a User Experience UX Engineer/Designer at Bask you will work directly with the CEO, Director of Design, and our remote team to build and design the software infrastructure that will serve as the backbone of telehealth.<!----><span><br></span><span><br></span><!---->We are looking to expand our design, seeking those with deep rooted entrepreneurial spirit.<!----><span><br></span><span><br></span><!---->Our serverless platform is built using Vercel, Next.js, Prisma and PlanetScale for a powerful multi-tenant application.<!----><span><br></span><span><br></span><!---->As we continue to grow, we recognize the importance of providing our users with an exceptional experience, ensuring that our software is both powerful and user-friendly. We are now seeking a talented and innovative User Experience (UX) Designer to join our team and lead the rework of our user interface.<!----><span><br></span><span><br></span><span><strong><!---->Role and Responsibilities:<!----><span><br></span><span><br></span></strong></span><!---->As the User Experience Designer at Bask, you will be responsible for reworking our current user interface to make it more intuitive, user-friendly, and aesthetically appealing. Your goal will be to ensure that the software maintains its robust complexity while providing a seamless and enjoyable user experience.<!----><span><br></span><span><br></span><!---->Your primary duties will include:<!----><span><br></span><span><br></span><span>      <ul><li><!---->Conducting thorough user research to understand our target audience, their needs, pain points, and preferences<!----></li><li><!---->Collaborating closely with cross-functional teams, including software developers, product managers, and stakeholders, to gather insights and align design strategies<!----></li><li><!---->Designing and creating wireframes, prototypes, and mockups to illustrate new interface concepts and interactions<!----></li><li><!---->Evaluating and analyzing the existing UI, identifying areas for improvement, and proposing creative solutions to enhance usability<!----></li><li><!---->Streamlining complex workflows, interactions, and information architecture to simplify the overall user experience<!----></li><li><!---->Ensuring the new design aligns with the company's brand identity, values, and visual guidelines<!----></li><li><!---->Conducting usability testing sessions and gathering feedback from users to validate design choices and iterate on improvements<!----></li><li><!---->Staying up-to-date with the latest UX design trends, technologies, and best practices to continuously enhance our software<!----><span><br></span><span><br></span><span><br></span></li></ul>
+</span><span><strong><!---->Requirements<!----><span><br></span><span><br></span></strong></span><!---->Qualifications and Requirements:<!----><span><br></span><span><br></span><span>      <ul><li><!---->Proven work experience as a User Experience Designer, UI Designer, or a similar role with a strong portfolio showcasing successful UX projects<!----></li><li><!---->Proficiency in design and prototyping tools such as Adobe XD, Sketch, Figma, or similar<!----></li><li><!---->Deep understanding of user-centered design principles, usability, and accessibility standards<!----></li><li><!---->Familiarity with software development processes and the ability to balance user experience improvements with technical feasibility<!----></li><li><!---->Excellent communication skills and the ability to present and defend design decisions to stakeholders<!----></li><li><!---->Strong problem-solving skills and a creative mindset, capable of finding innovative solutions to complex design challenges<!----></li></ul>
+</span>
+                </p>
+<!---->            </div>
+          </div>
+          <div class="jobs-description__details">
+<!---->          </div>
+        </div>
+      </article>
+<!---->    </div>
+  
+
+<!---->
+<!---->
+<!---->
+            <div id="SALARY" class="jobs-details__salary-main-rail-card">
+<!----><!---->            </div>
+
+                    
+
+    <div class="job-details-how-you-match-card__container mb4
+        
+        premium-accent-bar job-details-module" id="how-you-match-card-container">
+<!---->
+<!---->
+<!---->
+<!---->    </div>
+  
+
+<!---->
+              
+    <div class="job-details-module">
+        
+    <div class="jobs-premium-applicant-insights artdeco-card premium-accent-bar
+         ">
+      <div class="display-flex justify-space-between">
+        <div class="display-flex align-items-center">
+          <svg role="img" aria-hidden="false" aria-label="Premium" xmlns="http://www.w3.org/2000/svg" width="78" height="8" viewBox="0 0 78 8" data-supported-dps="78x8" data-test-icon="premium-badge-xxxsmall">
+<!---->    <svg display="var(--hue-web-svg-display-light)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/3068z204ww5pg0wt1qbemtzul" x="0" y="0" width="78" height="8"></image>
+    </svg>
+    <svg display="var(--hue-web-svg-display-dark)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/181jrk4wmnppkt9vl21cauxpa" x="0" y="0" width="78" height="8"></image>
+    </svg>
+</svg>
+
+        </div>
+        <div id="applicant-insights-container-outlet" class="jobs-premium-applicant-insights__tooltip-outlet">  <div id="artdeco-hoverable-artdeco-gen-46" class="artdeco-hoverable-content jobs-premium-branding__hovercard artdeco-hoverable-content--inverse-theme artdeco-hoverable-content--open-spacing artdeco-hoverable-content--undefined-placement" tabindex="-1" role="tooltip" aria-hidden="true">
+    <div class="artdeco-hoverable-content__shell">
+        <button class="artdeco-hoverable-content__close-btn" aria-label="Dismiss" type="button">
+          <li-icon aria-hidden="true" type="cancel-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <path d="M14 3.41L9.41 8 14 12.59 12.59 14 8 9.41 3.41 14 2 12.59 6.59 8 2 3.41 3.41 2 8 6.59 12.59 2z"></path>
+    </svg></li-icon>
+        </button>
+      <div class="artdeco-hoverable-content__content">
+        
+            <p class="t-16 t-black t-bold">Insights about this job’s applicants</p><p class="t-14 t-black--light t-normal">Here’s where you can see if this job is a good fit for you by learning how you stack up against other applicants, what your unique advantages are, and how your skills and background help you stand out from the crowd.</p><a href="/help/linkedin/answer/45159" data-control-name="premium_jobdetails_applicant_insights_learn_more" target="_blank" id="applicant-insights-learn-more-link" class="link" aria-label="Learn more about premium insights related to job applicants and hiring companies">Learn more</a>
+          
+      </div>
+    </div>
+    <div class="artdeco-hoverable-content__arrow" aria-hidden="true"></div>
+  </div>
+</div>
+        <span tabindex="-1" id="ember273" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-bottom ember-view">
+          <button aria-controls="artdeco-hoverable-artdeco-gen-46" aria-expanded="false" aria-label="Learn more about applicant insights" type="button">
+            <svg role="none" aria-hidden="true" class="jobs-details-premium-insight__tooltip-pebble" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="question-small" data-rtl="true" data-rtl-ignore="iw">
+<!---->    
+    <use href="#question-small" width="16" height="16"></use>
+</svg>
+
+          </button>
+          <div id="artdeco-gen-46" class="ember-view"><div id="ember275" class="ember-view"></div></div>
+        </span>
+      </div>
+        <h2 class="jobs-box__title text-heading-large t-sans t-black">
+              See how you compare to other applicants
+        </h2>
+        <div class="jobs-premium-applicant-insights__row-container" data-view-name="premium-job-applicant-insights">
+          
+    <div class="jobs-details-premium-insight jobs-details-premium-insight--row jobs-details-premium-insight--left-column applicant-rank">
+        <h3 class="jobs-details-premium-insight__title">
+              Applicants for this job
+        </h3>
+        <ul class="jobs-details-premium-insight__list jobs-premium-applicant-insights__list">
+          <li class="jobs-premium-applicant-insights__list-item">
+                <span class="jobs-premium-applicant-insights__list-num t-18 t-bold pr2">1,032</span><span class="jobs-premium-applicant-insights__list-description t-14 t-normal">Applicants</span>
+          </li>
+          <li class="jobs-premium-applicant-insights__list-item">
+                <span class="jobs-premium-applicant-insights__list-num t-18 t-bold pr2">15</span><span class="jobs-premium-applicant-insights__list-description t-14 t-normal">Applicants in the past day</span>
+          </li>
+        </ul>
+    </div>
+  
+<!---->        </div>
+
+          <div class="jobs-premium-applicant-insights__row-container flex-column">
+              
+    <div class="jobs-details-premium-insight jobs-details-premium-insight--row jobs-details-premium-insight--left-column applicant-experience">
+      <h3 class="jobs-details-premium-insight__title">
+            Applicant seniority level
+      </h3>
+
+      <ul class="jobs-details-premium-insight__list">
+              <li>
+                <p class="t-14 t-normal mb2 mh0">
+                  46<span class="t-16 t-black t-normal jobs-premium-applicant-insights__list-num--highlight">%</span> Entry level applicants
+                </p>
+                <progress class="jobs-premium-applicant-insights__bars mb4" max="459" value="459" aria-hidden="true"></progress>
+              </li>
+              <li>
+                <p class="t-14 t-normal mb2 mh0">
+                  46<span class="t-16 t-black t-normal jobs-premium-applicant-insights__list-num--highlight">%</span> Senior level applicants
+                </p>
+                <progress class="jobs-premium-applicant-insights__bars mb4" max="459" value="457" aria-hidden="true"></progress>
+              </li>
+              <li>
+                <p class="t-14 t-normal mb2 mh0">
+                  3<span class="t-16 t-black t-normal jobs-premium-applicant-insights__list-num--highlight">%</span> Director level applicants
+                </p>
+                <progress class="jobs-premium-applicant-insights__bars mb4" max="459" value="32" aria-hidden="true"></progress>
+              </li>
+              <li>
+                <p class="t-14 t-normal mb2 mh0">
+                  1<span class="t-16 t-black t-normal jobs-premium-applicant-insights__list-num--highlight">%</span> Manager level applicants
+                </p>
+                <progress class="jobs-premium-applicant-insights__bars mb4" max="459" value="7" aria-hidden="true"></progress>
+              </li>
+      </ul>
+    </div>
+  
+              
+    <div class="jobs-details-premium-insight jobs-details-premium-insight--row applicant-education">
+      <h3 class="jobs-details-premium-insight__title">
+            Applicant education level
+      </h3>
+
+      <ul class="jobs-details-premium-insight__list jobs-premium-applicant-insights__list">
+          <li class="jobs-premium-applicant-insights__list-item text-align-right pb1">
+            <span class="t-32 pr2
+                 t-bold
+                 jobs-premium-applicant-insights__list-num--highlight">
+              26<span class="t-16 t-black t-normal jobs-premium-applicant-insights__list-num--highlight">%</span>
+            </span>
+            <span class="jobs-premium-applicant-insights__list-description text-align-left t-14 t-normal">
+                have a Bachelor's Degree (Similar to you)
+            </span>
+          </li>
+          <li class="jobs-premium-applicant-insights__list-item text-align-right pb1">
+            <span class="t-32 pr2
+                
+                ">
+              36<span class="t-16 t-black t-normal">%</span>
+            </span>
+            <span class="jobs-premium-applicant-insights__list-description text-align-left t-14 t-normal">
+                have a Master's Degree
+            </span>
+          </li>
+          <li class="jobs-premium-applicant-insights__list-item text-align-right pb1">
+            <span class="t-32 pr2
+                
+                ">
+              17<span class="t-16 t-black t-normal">%</span>
+            </span>
+            <span class="jobs-premium-applicant-insights__list-description text-align-left t-14 t-normal">
+                have an Advanced Technician Degree
+            </span>
+          </li>
+
+          <li class="jobs-premium-applicant-insights__list-item text-align-right">
+            <span class="t-32 pr2">
+              21<span class="t-16 t-black t-normal">%</span>
+            </span>
+            <span class="jobs-premium-applicant-insights__list-description text-align-left t-14 t-normal">
+              have other degrees
+            </span>
+          </li>
+      </ul>
+    </div>
+  
+          </div>
+
+<!---->    </div>
+  
+          
+    <div class="jobs-premium-company-insights artdeco-card premium-accent-bar
+        " data-view-name="premium-job-company-insights">
+      <div class="jobs-premium-branding display-flex justify-space-between full-width align-items-center pb0">
+        <svg role="img" aria-hidden="false" aria-label="Premium" xmlns="http://www.w3.org/2000/svg" width="78" height="8" viewBox="0 0 78 8" data-supported-dps="78x8" data-test-icon="premium-badge-xxxsmall">
+<!---->    <svg display="var(--hue-web-svg-display-light)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/3068z204ww5pg0wt1qbemtzul" x="0" y="0" width="78" height="8"></image>
+    </svg>
+    <svg display="var(--hue-web-svg-display-dark)">
+      <image href="https://static.licdn.com/aero-v1/sc/h/181jrk4wmnppkt9vl21cauxpa" x="0" y="0" width="78" height="8"></image>
+    </svg>
+</svg>
+
+
+        <span tabindex="-1" id="ember310" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-bottom ember-view">
+          <button aria-controls="artdeco-hoverable-artdeco-gen-49" aria-expanded="false" type="button">
+            <svg role="img" aria-hidden="false" aria-label="Learn more about company insights" class="jobs-details-premium-insight__tooltip-pebble" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="question-small" data-rtl="true" data-rtl-ignore="iw">
+<!---->    
+    <use href="#question-small" width="16" height="16"></use>
+</svg>
+
+          </button>
+          <div id="artdeco-gen-49" class="ember-view"><div id="ember312" class="ember-view"></div></div>
+        </span>
+      </div>
+        <h2 class="text-heading-large t-sans t-black
+            jobs-box__title" dir="ltr">
+            <!---->Exclusive Job Seeker Insights about Bask Health<!---->
+        </h2>
+<!---->
+<!----><!---->
+          <div class="jobs-details-premium-insight hiring-trends">
+            <h3 class="jobs-premium-company-insights__title" dir="ltr">
+                <!---->The latest hiring trend<!---->
+            </h3>
+
+            
+    <div class="jobs-premium-company-growth pt1">
+      
+              <ul class="list-style-none display-flex flex-wrap mb3">
+                <li class="jobs-premium-company-growth__stat-item">
+                  <p class="t-16 t-black--light t-bold">46</p><p class="t-14 t-black--light t-normal">Total employees</p>
+                </li>
+                <li class="jobs-premium-company-growth__stat-item ph5">
+                  <p class="t-16 t-black--light t-bold" aria-hidden="true">
+                    <span class="jobs-premium-company-growth__number-with-arrow jobs-premium-company-growth__number-with-arrow--increase"></span>
+                    360%
+                  </p>
+                  <p class="t-14 t-black--light t-normal">
+                    Company-wide
+                  </p>
+                  <p class="t-12 t-black--light t-normal">
+                    2 year growth
+                  </p>
+                  <span class="visually-hidden">
+                    360% increase
+                  </span>
+                </li>
+<!---->              </ul>
+            
+
+        <div class="jobs-premium-company-growth__chart">
+            <div class="highcharts-wrapper">
+  <div class="chart-container" data-highcharts-chart="0" style="overflow: hidden;" role="region" aria-label="Chart. Highcharts interactive chart." aria-hidden="false"><div id="highcharts-screen-reader-region-before-0" aria-label="Chart screen reader information." role="region" aria-hidden="false" style="position: relative;"><div aria-hidden="false" style="position: absolute; width: 1px; height: 1px; overflow: hidden; white-space: nowrap; clip: rect(1px, 1px, 1px, 1px); margin-top: -3px; opacity: 0.01;"><h4>Chart</h4><div>Chart with 25 data points.</div><div>The chart has 1 X axis displaying Time. Range: 2022-12-24 18:48:00 to 2025-09-06 15:12:00.</div><div>The chart has 1 Y axis displaying values. Range: 0 to 60.</div></div></div><div aria-hidden="false" style="position:relative" class="highcharts-announcer-container"><div aria-hidden="false" aria-live="polite" style="position: absolute; width: 1px; height: 1px; overflow: hidden; white-space: nowrap; clip: rect(1px, 1px, 1px, 1px); margin-top: -3px; opacity: 0.01;"></div><div aria-hidden="false" aria-live="assertive" style="position: absolute; width: 1px; height: 1px; overflow: hidden; white-space: nowrap; clip: rect(1px, 1px, 1px, 1px); margin-top: -3px; opacity: 0.01;"></div><div aria-hidden="false" aria-live="polite" style="position: absolute; width: 1px; height: 1px; overflow: hidden; white-space: nowrap; clip: rect(1px, 1px, 1px, 1px); margin-top: -3px; opacity: 0.01;"></div></div><div id="highcharts-jgd2rzr-0" dir="ltr" class="highcharts-container " style="position: relative; overflow: hidden; width: 325px; height: 200px; text-align: left; line-height: normal; z-index: 0; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); user-select: none; font-family: &quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif;" tabindex="0" aria-hidden="false"><svg version="1.1" class="highcharts-root" style="font-family:&quot;Source Sans Pro&quot;, Helvetica, Arial, sans-serif;font-size:20;" xmlns="http://www.w3.org/2000/svg" width="325" height="200" viewBox="0 0 325 200" aria-label="Interactive chart" aria-hidden="false"><desc aria-hidden="true">Created with Highcharts 9.0.1</desc><defs aria-hidden="true"><clipPath id="highcharts-jgd2rzr-1-"><rect x="0" y="0" width="325" height="156" fill="none"></rect></clipPath></defs><rect fill="#ffffff" class="highcharts-background" x="0" y="0" width="325" height="200" rx="0" ry="0" aria-hidden="true"></rect><rect fill="none" class="highcharts-plot-background" x="0" y="1" width="325" height="156" aria-hidden="true"></rect><g class="highcharts-grid highcharts-yaxis-grid" data-z-index="1" aria-hidden="true"><path fill="none" stroke="#d9d9d9" stroke-width="1" data-z-index="1" class="highcharts-grid-line" d="M 0 157.5 L 325 157.5" opacity="1"></path><path fill="none" stroke="#d9d9d9" stroke-width="1" data-z-index="1" class="highcharts-grid-line" d="M 0 105.5 L 325 105.5" opacity="1"></path><path fill="none" stroke="#d9d9d9" stroke-width="1" data-z-index="1" class="highcharts-grid-line" d="M 0 53.5 L 325 53.5" opacity="1"></path><path fill="none" stroke="#d9d9d9" stroke-width="1" data-z-index="1" class="highcharts-grid-line" d="M 0 0.5 L 325 0.5" opacity="1"></path></g><rect fill="none" class="highcharts-plot-border" data-z-index="1" x="0" y="1" width="325" height="156" aria-hidden="true"></rect><g class="highcharts-grid highcharts-xaxis-grid" data-z-index="1" aria-hidden="true"><path fill="none" data-z-index="1" class="highcharts-grid-line" d="M 71.5 1 L 71.5 157" opacity="1"></path><path fill="none" data-z-index="1" class="highcharts-grid-line" d="M 132.5 1 L 132.5 157" opacity="1"></path><path fill="none" data-z-index="1" class="highcharts-grid-line" d="M 192.5 1 L 192.5 157" opacity="1"></path><path fill="none" data-z-index="1" class="highcharts-grid-line" d="M 252.5 1 L 252.5 157" opacity="1"></path><path fill="none" data-z-index="1" class="highcharts-grid-line" d="M 312.5 1 L 312.5 157" opacity="1"></path></g><g class="highcharts-axis highcharts-yaxis" data-z-index="2" aria-hidden="true"><path fill="none" class="highcharts-axis-line" data-z-index="7" d="M 0 1 L 0 157"></path></g><g class="highcharts-axis highcharts-xaxis" data-z-index="2" aria-hidden="true"><path fill="none" class="highcharts-tick" stroke="#d9d9d9" stroke-width="2" d="M 72 157 L 72 166" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#d9d9d9" stroke-width="2" d="M 133 157 L 133 166" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#d9d9d9" stroke-width="2" d="M 193 157 L 193 166" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#d9d9d9" stroke-width="2" d="M 253 157 L 253 166" opacity="1"></path><path fill="none" class="highcharts-tick" stroke="#d9d9d9" stroke-width="2" d="M 313 157 L 313 166" opacity="1"></path><path fill="none" class="highcharts-axis-line" stroke="#ccd6eb" stroke-width="1" data-z-index="7" d="M 0 157.5 L 325 157.5"></path></g><g class="highcharts-series-group" data-z-index="3" aria-hidden="false"><g class="highcharts-series highcharts-series-0 highcharts-area-series" data-z-index="0.1" opacity="1" transform="translate(0,1) scale(1 1)" clip-path="url(#highcharts-jgd2rzr-1-)" aria-hidden="true"><path fill="#e1e9ee" d="M 72.222222222222 130 L 82.431473881542 127.4 L 92.311394842175 132.6 L 102.52064650149 135.2 L 112.40056746213 130 L 122.60981912145 130 L 132.81907078077 124.8 L 142.36966104271 124.8 L 152.57891270203 124.8 L 162.45883366266 119.6 L 172.66808532198 122.19999999999999 L 182.54800628262 119.6 L 192.75725794194 119.6 L 202.96650960126 111.8 L 212.84643056189 111.8 L 223.05568222121 111.8 L 232.93560318184 98.8 L 243.14485484116 96.19999999999999 L 253.35410650048 88.39999999999999 L 262.57536606374 80.6 L 272.78461772306 75.39999999999999 L 282.66453868369 62.39999999999999 L 292.87379034301 46.8 L 302.75371130364 36.39999999999999 L 312.96296296296 36.39999999999999 L 312.96296296296 156 L 302.75371130364 156 L 292.87379034301 156 L 282.66453868369 156 L 272.78461772306 156 L 262.57536606374 156 L 253.35410650048 156 L 243.14485484116 156 L 232.93560318184 156 L 223.05568222121 156 L 212.84643056189 156 L 202.96650960126 156 L 192.75725794194 156 L 182.54800628262 156 L 172.66808532198 156 L 162.45883366266 156 L 152.57891270203 156 L 142.36966104271 156 L 132.81907078077 156 L 122.60981912145 156 L 112.40056746213 156 L 102.52064650149 156 L 92.311394842175 156 L 82.431473881542 156 L 72.222222222222 156" class="highcharts-area" data-z-index="0"></path><path fill="none" d="M 72.222222222222 130 L 82.431473881542 127.4 L 92.311394842175 132.6 L 102.52064650149 135.2 L 112.40056746213 130 L 122.60981912145 130 L 132.81907078077 124.8 L 142.36966104271 124.8 L 152.57891270203 124.8 L 162.45883366266 119.6 L 172.66808532198 122.19999999999999 L 182.54800628262 119.6 L 192.75725794194 119.6 L 202.96650960126 111.8 L 212.84643056189 111.8 L 223.05568222121 111.8 L 232.93560318184 98.8 L 243.14485484116 96.19999999999999 L 253.35410650048 88.39999999999999 L 262.57536606374 80.6 L 272.78461772306 75.39999999999999 L 282.66453868369 62.39999999999999 L 292.87379034301 46.8 L 302.75371130364 36.39999999999999 L 312.96296296296 36.39999999999999" class="highcharts-graph" data-z-index="1" stroke="#0073b1" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"></path><path fill="none" d="M 72.222222222222 130 L 82.431473881542 127.4 L 92.311394842175 132.6 L 102.52064650149 135.2 L 112.40056746213 130 L 122.60981912145 130 L 132.81907078077 124.8 L 142.36966104271 124.8 L 152.57891270203 124.8 L 162.45883366266 119.6 L 172.66808532198 122.19999999999999 L 182.54800628262 119.6 L 192.75725794194 119.6 L 202.96650960126 111.8 L 212.84643056189 111.8 L 223.05568222121 111.8 L 232.93560318184 98.8 L 243.14485484116 96.19999999999999 L 253.35410650048 88.39999999999999 L 262.57536606374 80.6 L 272.78461772306 75.39999999999999 L 282.66453868369 62.39999999999999 L 292.87379034301 46.8 L 302.75371130364 36.39999999999999 L 312.96296296296 36.39999999999999" visibility="visible" data-z-index="2" class="highcharts-tracker-line" stroke-linecap="round" stroke-linejoin="round" stroke="rgba(192,192,192,0.0001)" stroke-width="22"></path></g><g class="highcharts-markers highcharts-series-0 highcharts-area-series highcharts-tracker" data-z-index="0.1" opacity="1" transform="translate(0,1) scale(1 1)" aria-hidden="false" aria-label=""><path fill="#ffffff" d="M 72 135 A 5 5 0 1 1 72.00499999916667 134.9999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="1. Tuesday, Aug  1, 02:00, 10 employees" style="outline: 0px;"></path><path fill="#ffffff" d="M 82 132.4 A 5 5 0 1 1 82.00499999916667 132.3999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="2. Friday, Sep  1, 02:00, 11 employees, increase 10% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 92 137.6 A 5 5 0 1 1 92.00499999916667 137.5999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="3. Sunday, Oct  1, 02:00, 9 employees, decrease 18% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 102 140.2 A 5 5 0 1 1 102.00499999916667 140.1999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="4. Wednesday, Nov  1, 02:00, 8 employees, decrease 11% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 112 135 A 5 5 0 1 1 112.00499999916667 134.9999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="5. Friday, Dec  1, 02:00, 10 employees, increase 25% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 122 135 A 5 5 0 1 1 122.00499999916667 134.9999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="6. Monday, Jan  1, 02:00, 10 employees, neutral 0% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 132 129.8 A 5 5 0 1 1 132.00499999916667 129.79999750000022 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="7. Thursday, Feb  1, 02:00, 12 employees, increase 20% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 142 129.8 A 5 5 0 1 1 142.00499999916667 129.79999750000022 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="8. Friday, Mar  1, 02:00, 12 employees, neutral 0% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 152 129.8 A 5 5 0 1 1 152.00499999916667 129.79999750000022 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="9. Monday, Apr  1, 02:00, 12 employees, neutral 0% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 162 124.6 A 5 5 0 1 1 162.00499999916667 124.5999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="10. Wednesday, May  1, 02:00, 14 employees, increase 17% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 172 127.19999999999999 A 5 5 0 1 1 172.00499999916667 127.1999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="11. Saturday, Jun  1, 02:00, 13 employees, decrease 7% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 182 124.6 A 5 5 0 1 1 182.00499999916667 124.5999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="12. Monday, Jul  1, 02:00, 14 employees, increase 8% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 192 124.6 A 5 5 0 1 1 192.00499999916667 124.5999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="13. Thursday, Aug  1, 02:00, 14 employees, neutral 0% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 202 116.8 A 5 5 0 1 1 202.00499999916667 116.7999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="14. Sunday, Sep  1, 02:00, 17 employees, increase 21% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 212 116.8 A 5 5 0 1 1 212.00499999916667 116.7999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="15. Tuesday, Oct  1, 02:00, 17 employees, neutral 0% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 223 116.8 A 5 5 0 1 1 223.00499999916667 116.7999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="16. Friday, Nov  1, 02:00, 17 employees, neutral 0% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 232 103.8 A 5 5 0 1 1 232.00499999916667 103.7999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="17. Sunday, Dec  1, 02:00, 22 employees, increase 29% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 243 101.19999999999999 A 5 5 0 1 1 243.00499999916667 101.1999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="18. Wednesday, Jan  1, 02:00, 23 employees, increase 5% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 253 93.39999999999999 A 5 5 0 1 1 253.00499999916667 93.3999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="19. Saturday, Feb  1, 02:00, 26 employees, increase 13% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 262 85.6 A 5 5 0 1 1 262.00499999916667 85.5999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="20. Saturday, Mar  1, 02:00, 29 employees, increase 12% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 272 80.39999999999999 A 5 5 0 1 1 272.00499999916667 80.3999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="21. Tuesday, Apr  1, 02:00, 31 employees, increase 7% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 282 67.39999999999999 A 5 5 0 1 1 282.00499999916667 67.3999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="22. Thursday, May  1, 02:00, 36 employees, increase 16% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 292 51.8 A 5 5 0 1 1 292.00499999916667 51.7999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="23. Sunday, Jun  1, 02:00, 42 employees, increase 17% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 302 41.39999999999999 A 5 5 0 1 1 302.00499999916667 41.3999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="24. Tuesday, Jul  1, 02:00, 46 employees, increase 10% from last month" style="outline: 0px;"></path><path fill="#ffffff" d="M 312 41.39999999999999 A 5 5 0 1 1 312.00499999916667 41.3999975000002 Z" stroke="#0073b1" stroke-width="2" opacity="1" class="highcharts-point" tabindex="-1" role="img" aria-label="25. Friday, Aug  1, 02:00, 46 employees, neutral 0% from last month" style="outline: 0px;"></path></g></g><text x="20" class="highcharts-title" data-z-index="4" style="color:#333333;font-size:18px;fill:#333333;" y="24" aria-hidden="true"></text><text x="168" text-anchor="middle" class="highcharts-subtitle" data-z-index="4" style="color:#666666;fill:#666666;" y="30" aria-hidden="true"></text><text x="20" text-anchor="start" class="highcharts-caption" data-z-index="4" style="color:#666666;fill:#666666;" y="203" aria-hidden="true"></text><g class="highcharts-plot-lines-5" data-z-index="5" aria-hidden="true"><path fill="none" class="highcharts-plot-line " stroke="rgba(0, 0, 0, 0.15)" stroke-width="2" d="M 0 157 L 325 157"></path></g><g class="highcharts-axis-labels highcharts-yaxis-labels" data-z-index="7" aria-hidden="true"><text x="0" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="start" transform="translate(0,0)" y="-9999">0</text><text x="0" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="start" transform="translate(0,0)" y="120" opacity="1">20</text><text x="0" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="start" transform="translate(0,0)" y="68" opacity="1">40</text><text x="0" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="start" transform="translate(0,0)" y="16" opacity="1">60</text></g><g class="highcharts-axis-labels highcharts-xaxis-labels" data-z-index="7" aria-hidden="true"><text x="72.222222222222" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="middle" transform="translate(0,0)" y="179" opacity="1">Aug 2023</text><text x="132.81907078077" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="middle" transform="translate(0,0)" y="179" opacity="1">Feb 2024</text><text x="192.75725794194" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="middle" transform="translate(0,0)" y="179" opacity="1">Aug 2024</text><text x="253.35410650048" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="middle" transform="translate(0,0)" y="179" opacity="1">Feb 2025</text><text x="298.66898148148" style="color:rgba(0, 0, 0, 0.55);cursor:default;font-size:15px;fill:rgba(0, 0, 0, 0.55);" text-anchor="middle" transform="translate(0,0)" y="179" opacity="1"><title>Aug 2025</title>Aug …</text></g></svg></div><div id="highcharts-screen-reader-region-after-0" aria-label="" aria-hidden="false" style="position: relative;"><div aria-hidden="false" style="position: absolute; width: 1px; height: 1px; overflow: hidden; white-space: nowrap; clip: rect(1px, 1px, 1px, 1px); margin-top: -3px; opacity: 0.01;"><div id="highcharts-end-of-chart-marker-0">End of interactive chart.</div></div></div><div class="highcharts-exit-anchor" tabindex="0" aria-hidden="false"></div></div>
+  
+</div>
+        </div>
+
+        <div class="display-flex align-items-center">
+          <svg role="none" aria-hidden="true" class="jobs-premium-company-growth__median-tenure-years-clock-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="clock-medium">
+<!---->    
+    <use href="#clock-medium" width="24" height="24"></use>
+</svg>
+
+          <!---->Median employee tenure ‧<span class="white-space-pre"> </span><strong><!---->0.5 years<!----></strong>
+        </div>
+    </div>
+  
+          </div>
+
+<!---->
+<!---->
+          <a href="/company/bask-health/insights/?insightType=HEADCOUNT" id="ember313" class="ember-view jobs-details-premium-insight__company-link link-without-hover-state text-align-center pt3 block">
+            Show more Premium insights
+          </a>
+    </div>
+  
+    </div>
+  
+
+<!---->
+<!---->
+              <section class="artdeco-card job-details-module">
+<!---->
+  
+                
+    <section class="jobs-company jobs-box--fadein mb4" data-view-name="job-details-about-company-module">
+      <div class="jobs-company__box">
+        <h2 class="text-heading-large">
+          About the company
+        </h2>
+
+        <div class="display-flex align-items-center mt5">
+          <div id="ember299" class="artdeco-entity-lockup artdeco-entity-lockup--size-5 ember-view flex-grow-1">
+            <div id="ember300" class="artdeco-entity-lockup__image artdeco-entity-lockup__image--type-square ember-view" type="square">
+              <a href="/company/bask-health/life/" id="ember301" class="ember-view link-without-hover-state inline-block" data-view-name="job-details-about-company-logo-link">
+                <img title="Bask Health" src="https://media.licdn.com/dms/image/v2/D4E0BAQFnIgXERhVpNw/company-logo_100_100/B4EZc2f3nsG4AQ-/0/1748966013748/bask_health_logo?e=1756944000&amp;v=beta&amp;t=5sryeLBDjwvOMWzTC5mcHQ53SotQ1PtZY2TAbB42Dho" alt="Bask Health company logo" id="ember302" class="evi-image ember-view">
+              </a>
+            
+</div>
+            <div id="ember303" class="artdeco-entity-lockup__content ember-view flex-grow-1">
+              <div id="ember304" class="artdeco-entity-lockup__title ember-view t-20">
+                <a href="/company/bask-health/life/" id="ember305" class="ember-view link-without-visited-state inline-block t-black" data-view-name="job-details-about-company-name-link">
+                  Bask Health
+                </a>
+              
+</div>
+              <div id="ember306" class="artdeco-entity-lockup__subtitle ember-view t-16">
+                34,229 followers
+              </div>
+            </div>
+          
+</div>
+          
+    <button class="follow   artdeco-button artdeco-button--secondary ml5" aria-label="Follow" aria-pressed="false" type="button">
+          <svg role="none" aria-hidden="true" class="artdeco-button__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="add-small">
+<!---->    
+    <use href="#add-small" width="16" height="16"></use>
+</svg>
+
+        <span aria-hidden="true">Follow</span>
+    </button>
+  
+        </div>
+
+        <div class="t-14 mt5">
+          Internet Marketplace Platforms
+            <span class="jobs-company__inline-information">
+              11-50 employees
+            </span>
+            <span class="jobs-company__inline-information">
+              46 on LinkedIn
+            </span>
+        </div>
+        <p class="jobs-company__company-description text-body-small-open">
+          
+    <div class="ZazIbXsOhuIbpjPertfdKqCzuyZqArA
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+        
+        " style="-webkit-line-clamp:3;" dir="ltr" tabindex="-1">
+
+        Bask, the platform for telehealth, is a compliant, everyone accessible, no-code, software to launch and scale a direct-to-consumer telehealth business. By default, we provide electronic medical records (EMR), payment processing, pharmacy fulfillment and compounding, a website builder, and a patient management system. We are the Shopify for E-Prescribing. 
+      
+          <span class="inline-show-more-text__link-container-collapsed">
+              <span>…</span>
+            <button class="inline-show-more-text__button
+                inline-show-more-text__button--light
+                link" aria-expanded="false" role="button" type="button">
+              show more
+            </button>
+          </span>
+
+<!---->    </div>
+  
+        </p>
+
+<!---->
+<!---->
+<!---->      </div>
+
+      <div class="jobs-company__footer text-align-center">
+        <a href="/company/bask-health/life/" id="ember307" class="ember-view link-without-hover-state block pv3" aria-label="Show more about the company" data-view-name="job-details-about-company-life-link">
+          Show more
+        </a>
+      </div>
+    </section>
+  
+              
+</section>
+
+<!----><!---->        </div>
+      </div>
+
+<!---->
+<!---->
+      
+    <div id="ember63" class="ember-view"><!----></div>
+
+    <div id="ember64" class="ember-view"><div id="ember65" class="ember-view"><!----></div></div>
+  
+
+      
+  <div id="ember66" class="ember-view"><!----></div>
+
+
+<!---->
+<!---->
+<!---->
+      
+    <div>
+        
+    <div id="ember67" class="ember-view"><!----></div>
+  
+    </div>
+  
+
+<!---->
+<!----><!---->    </div>
+  
+      </div>
+  
+      </div>
+  
+
+      <!---->
+    </div>
+  
+            
+        </div>
+      </div>

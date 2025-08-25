@@ -1,0 +1,175 @@
+Job ID;Job title (original);Job title (short);Company ID;Company;Country;State;City;Schedule type;Experience years;Seniority;Skills;Degrees;Software
+1;Junior Product Manager;Product Manager;1;Tuotempo;Spain;Unknown;Barcelona;Unknown;0-3;Junior;"Product Management; Communication; Problem Solving; Healthcare Knowledge";Bachelor's Degree;
+2;Product Associate;Product Manager;2;ZenOwn;Unknown;Unknown;Unknown;Unknown;0-3;Junior;"Communication; Data Analysis; Business Acumen";;
+3;Manager, Product Manager;Product Manager;3;Canonical;Unknown;Unknown;Unknown;Full-time;5+;Manager;"Product Management; Project Management; Communication; Cross-functional Collaboration; Team Leadership; Business Acumen";Higher Education;"Jira; Confluence; GitHub; GitLab; Kubernetes; Docker containers"
+4;Product Manager - OpenData;Product Manager;4;Veeva;Spain;Unknown;Unknown;Unknown;Unknown;Unknown;"Product Management; Data Analysis";Bachelor's Degree;SQL
+5;Product Manager (100% Remote);Product Manager;5;Robert Walters Valencia;Spain;Unknown;Valencia;Unknown;5+;Unknown;"Product Management; Data Analysis; Communication; Agile; User Research";;"Google Analytics; Looker; Figma"
+6;Product Manager;Product Manager;6;Incode;Unknown;Unknown;Unknown;Unknown;5+;Manager;Product Management;;
+7;Product Manager;Product Manager;7;Seedtag;Spain;Unknown;Madrid;Unknown;5+;Unknown;"Product Management; Communication; Data Analysis";"Engineering; Other";
+8;Sales And Product Manager;Sales;8;Bending Spoons;Italy;Unknown;Milan;Full-time;3-5;Unknown;"Product Management; Cross-functional Collaboration; Team Leadership; Product Marketing; Sales";;
+9;Product Manager, Consumer Trading;Product Manager;9;Kraken;Unknown;Unknown;Unknown;Full-time;3-5;Unknown;"Product Management; Data Analysis; Communication; Problem Solving; Business Acumen";;SQL
+10;Product Manager Identity Verification & Fraud;Product Manager;10;Microblink;Croatia;Unknown;Zagreb;Full-time;5+;Unknown;"Product Management; Agile; Data Analysis; Machine Learning; Communication; Problem Solving; Marketing; Cross-functional Collaboration";"Bachelor's Degree; Master's Degree; Engineering";SQL
+11;Growth Product Manager (Web);Product Manager;11;Reverse Tech;Unknown;Unknown;Unknown;Full-time;3-5;Mid;"Product Management; Data Analysis; User Research; UI/UX Design; Marketing; Communication; Cross-functional Collaboration";;
+12;Product Manager (relocation to Abu Dhabi;Product Manager;12;Presight;Unknown;Unknown;Abu Dhabi;Unknown;5+;Manager;"Product Management; Data Analysis; Communication; User Research; Project Management; Quality Assurance";"Bachelor's Degree; Engineering";Figma
+13;Sales Account & Product Manager Iberia ? Compounding / Plastic Materials;Product Manager;13;IMCD;Spain;Unknown;Unknown;Unknown;5+;Manager;"Sales; Product Management; Business Acumen";"Engineering; Other";Salesforce
+14;Credit Product Manager (SME Business Lending);Product Manager;14;Revolut;United Kingdom;Unknown;Unknown;Unknown;5+;Lead;"Product Management; User Research; UI/UX Design; Communication; Problem Solving; Regulatory Compliance; Business Acumen; Cross-functional Collaboration";;
+15;Technical Product Manager - Producto API - scrum, agile - remoto (*A);Product Manager;15;BETWEEN TECHNOLOGY;Spain;Unknown;Unknown;Unknown;5+;Unknown;"Product Management; Agile; Scrum; Communication; Business Acumen";;
+16;Product Manager - Star Trek Fleet Command;Product Manager;16;Scopely;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;"Product Management; Data Analysis; Communication; Cross-functional Collaboration";;
+17;Payments Product Analyst (Full remote within Spain);Product Analyst;17;Leadtech;Spain;Unknown;Barcelona;Full-time;0-3;Unknown;"Data Analysis; Product Management; Communication; Problem Solving; Business Acumen";;"Microsoft Excel; Google Analytics"
+18;Digital Product Manager;Project Manager;18;Darkroom;Unknown;Unknown;Unknown;Full-time;0-3;Unknown;"Project Management; SEO; Process Optimization; Communication";;"HTML; CSS; Shopify"
+19;Product Manager, Auth0;Product Manager;19;Okta;Unknown;Unknown;Unknown;Full-time;5+;Mid;"Product Management; Cross-functional Collaboration; Problem Solving; Communication; Business Acumen";"Bachelor's Degree; Engineering";"AWS; Azure; GCP"
+20;Global Product Manager Ruminants;Product Manager;null;Unknown;European Union;Unknown;Unknown;Full-time;5+;Unknown;"Cross-functional Collaboration; Marketing; Project Management; Communication; Data Analysis; Business Acumen; Sales";"Bachelor's Degree; Master's Degree";
+21;Product Manager - SaaS;Product Manager;20;Santander Auto Software;Unknown;Unknown;Unknown;Full-time;5+;Mid;"Product Management; Communication; Problem Solving; Project Management; User Research; Agile; Data Analysis; User-Centered Design";Bachelor's Degree;"Jira; GitLab; Figma"
+22;Product Manager;Marketing Specialist;null;Unknown;European Union;Unknown;Unknown;Full-time;5+;Manager;"Marketing; Product Management; Regulatory Compliance; Business Acumen; Healthcare Knowledge";;
+23;Product Manager;Product Manager;null;Unknown;European Union;Unknown;Unknown;Full-time;5+;Manager;"Product Management; Marketing; Data Analysis; Business Acumen; Communication; Cross-functional Collaboration; Supply Chain Management; Process Optimization";"Bachelor's Degree; Master's Degree; Engineering";
+24;Product Manager - Specialty tyres;Product Manager;21;Sailun Group;Unknown;Unknown;Unknown;Unknown;5+;Manager;"Project Management; Data Analysis; Product Management; Communication; Cross-functional Collaboration; Financial Analysis";"Bachelor's Degree; Master's Degree; Engineering";
+25;Staff Product Manager (remote, UTC-3 to UTC+3);Product Manager;22;Checkly;Unknown;Unknown;Unknown;Full-time;5+;Senior;"Product Management; Agile; Communication; Cross-functional Collaboration";;AWS
+26;Junior Product Manager;Product Manager;3;Canonical;Unknown;Unknown;Unknown;Full-time;5+;Manager;"Product Management; Project Management; Communication; Cross-functional Collaboration; Team Leadership; Business Acumen; Problem Solving; Agile; Scrum; Marketing; Sales";Higher Education;"Linux; Kubernetes; Docker; Grafana; GitHub; GitLab; AWS; Azure; GCP"
+27;Product Manager, Payments;Product Manager;9;Kraken;Unknown;Unknown;Unknown;Full-time;3-5;Mid;"Product Management; Process Optimization; Cross-functional Collaboration; Communication; Problem Solving; Data Analysis";Bachelor's Degree;
+28;Payments Product Analyst (Full remote within Spain);Product Analyst;17;Leadtech;Spain;Unknown;Barcelona;Full-time;0-3;Unknown;"Data Analysis; Communication; Problem Solving; Business Acumen";;"Microsoft Excel; Google Analytics"
+29;Product Manager especializado/a en producto API - Remoto;Product Manager;15;BETWEEN TECHNOLOGY;Spain;Unknown;Unknown;Unknown;5+;Unknown;"Product Management; Agile; Scrum; API; Business Acumen";;
+30;Product Manager;Product Manager;23;MEDDICC;Unknown;Unknown;Unknown;Full-time;5+;Mid;"Product Management; User Research; Agile; Scrum; Communication; Cross-functional Collaboration";;
+31;Principal Product Manager;Product Manager;24;Welltech;Unknown;Unknown;Unknown;Full-time;3-5;Unknown;"Product Management; Agile; Scrum; Data Analysis; Communication; Cross-functional Collaboration";;
+32;Product Manager - Fusion Model-Based Manufacturing;Product Manager;25;Autodesk;Germany;Unknown;Unknown;Unknown;5+;Manager;"Product Management; Communication; Agile; Scrum; Cross-functional Collaboration; Problem Solving; Business Acumen";;CAD
+33;Digital Product Manager;Project Manager;18;Darkroom;Unknown;Unknown;Unknown;Full-time;0-3;Unknown;"Project Management; Communication; Process Optimization; SEO; Cross-functional Collaboration";;Shopify
+34;Payments Product Analyst;Product Analyst;26;Cleo;United Kingdom;Unknown;London;Full-time;5+;Senior;"Data Analysis; SQL; Product Management; Cross-functional Collaboration; Problem Solving; Business Acumen";;SQL
+35;Product Manager;Product Manager;null;Unknown;Unknown;Unknown;Unknown;Unknown;5+;Unknown;"Product Management; Communication; Problem Solving; Business Acumen";;
+36;Product Manager;Product Manager;null;Unknown;European Union;Unknown;Unknown;Full-time;5+;Unknown;"Product Management; Cloud Computing";;
+37;AI Product Manager - RELOCATE TO DUBAI;Product Manager;null;Unknown;Unknown;Unknown;Unknown;Unknown;5+;Lead;"Product Management; Healthcare Knowledge; Data Analysis; Communication";;
+38;Regional Product Manager - Heavy-duty connectors;Product Manager;27;TE Connectivity;Unknown;Unknown;Unknown;Full-time;3-5;Manager;"Product Management; Marketing; Sales; Communication; Problem Solving; Cross-functional Collaboration; Supply Chain Management; Financial Analysis";"Bachelor's Degree; Master's Degree; Engineering; Business Administration";
+39;Product Manager ? Platform Intelligence, AI/ML;Product Manager;28;Accelerant;Unknown;Unknown;Unknown;Full-time;5+;Manager;"Product Management; Data Analysis; Machine Learning; Communication; Problem Solving; Cross-functional Collaboration";;SQL
+40;Principal Product Manager, Docker Desktop & Core DX (US-EAST);Product Manager;29;Docker;Unknown;Unknown;Unknown;Unknown;5+;Lead;"Product Management; Communication; Cross-functional Collaboration; Problem Solving";;
+41;Product Manager;Product Manager;null;Unknown;Unknown;Unknown;Unknown;Contract;5+;Unknown;"Product Management; Communication; Agile; Healthcare Knowledge";;API
+42;Product Manager, AI & Intelligent Automation;Product Manager;30;Keyrock;United Kingdom;Unknown;London;Unknown;5+;Unknown;"Product Management; Machine Learning; Data Analysis; Process Optimization; Communication; Cross-functional Collaboration; Stakeholder Management";PhD;"SQL; Python"
+43;Product Operations Engineer - Remote;DevOps Engineer;31;Zyte;Unknown;Unknown;Unknown;Full-time;3-5;Mid;"Data Analysis; Problem Solving; Cross-functional Collaboration; Communication; Technical Writing";;"SQL; Python; JavaScript; AWS; Linux"
+44;Principal AI Product Manager;Product Manager;32;Acronis;Unknown;Unknown;Unknown;Full-time;5+;Unknown;"Product Management; Machine Learning; Communication; Cross-functional Collaboration";"Bachelor's Degree; Master's Degree; Engineering";"AWS; Azure; GCP"
+45;Principal Product Manager- Personalization domain, Spain Remote;Product Manager;33;VistaPrint;Unknown;Unknown;Unknown;Unknown;5+;Unknown;"Product Management; Data Analysis; Communication; Problem Solving; Cross-functional Collaboration; SDLC; Business Acumen";;
+46;Group Product Manager;Product Manager;34;Fundraise Up;Unknown;Unknown;Unknown;Unknown;5+;Manager;"Product Management; Cross-functional Collaboration; Communication; Data Analysis; Business Acumen";;
+47;Advanced Product Manager - Digital Trust;Product Manager;35;Feedzai;Unknown;Unknown;Unknown;Full-time;5+;Mid;"Product Management; User Research; UI/UX Design; Data Analysis; Cross-functional Collaboration";"Bachelor's Degree; Master's Degree; Engineering";
+48;Principal Technical Product Manager, Cimpress Technology - UK Remote;Product Manager;36;Cimpress;Unknown;Unknown;Unknown;Unknown;5+;Unknown;"Product Management; API; Cross-functional Collaboration; Communication; Problem Solving";"Bachelor's Degree; Engineering";"SQL; AWS; GCP"
+49;Product Manager ITIL;Product Manager;37;PeopleCert;Unknown;Unknown;Unknown;Unknown;3-5;Unknown;"Product Management; Marketing; Business Acumen; Problem Solving; Communication";Bachelor's Degree;
+50;AI Product Manager;Product Manager;null;Unknown;Unknown;Unknown;Unknown;Unknown;5+;Manager;"Product Management; Financial Analysis; Regulatory Compliance; Communication; Team Leadership; Cross-functional Collaboration; Business Acumen";Other;"; "
+51;Financial Data Analyst;Financial Analyst;38;Cencora;Unknown;Unknown;Unknown;Full-time;3-5;Unknown;"Financial Analysis; Data Analysis; Problem Solving; Regulatory Compliance";"Bachelor's Degree; Master's Degree";"Microsoft Excel; SQL; Python; R"
+52;Remote Data Analyst ? Spanish Language (ES);Data Analyst;39;Telus Digital;Spain;Unknown;Unknown;Part-time;0-3;Unknown;"Data Analysis; Quality Assurance";;
+53;Data Analyst;Data Analyst;40;Ruby Labs;Unknown;Unknown;Unknown;Unknown;0-3;Junior;"Data Analysis; Problem Solving; Communication; Marketing";Bachelor's Degree;"SQL; Tableau; Looker; Google Analytics"
+54;Data Analyst;Data Analyst;41;Alter Solutions;Unknown;Unknown;Unknown;Unknown;3-5;Unknown;Data Analysis;;"Power BI; Azure"
+55;Business Analyst;Business Analyst;null;Unknown;Unknown;Unknown;Unknown;Unknown;0-3;Unknown;"Data Analysis; Problem Solving; Communication; Process Optimization; Business Acumen";;"Microsoft Excel; Power BI"
+56;Sr. Data Analyst;Data Analyst;25;Autodesk;Unknown;Unknown;Unknown;Full-time;5+;Senior;"Data Analysis; Data Visualization; Communication; Business Acumen";Other;"SQL; Power BI; Tableau; Looker; GitHub; Salesforce"
+57;Data Analyst - Travel Industry;Data Analyst;42;AIC Travel Group SA;Switzerland;Unknown;Geneva;Full-time;0-3;Unknown;"Data Analysis; Marketing; Business Acumen; Problem Solving; Communication";;"Microsoft Excel; HubSpot; Looker"
+58;Data Analyst Enablement Specialist;Data Analyst;43;BESTSECRET GROUP;European Union;Unknown;Unknown;Full-time;5+;Mid;"Data Analysis; Communication; Problem Solving; Process Optimization";"Bachelor's Degree; Master's Degree";"SQL; Python; Power BI; Tableau; Looker"
+59;Online Data Analyst;Data Analyst;44;TELUS Digital AI;Spain;Unknown;Unknown;Part-time;0-3;Unknown;"Data Analysis; Quality Assurance; Problem Solving; Communication";;
+60;Data Analyst;Data Analyst;45;MCENG ESPA¥A;Spain;Unknown;Barcelona;Full-time;0-3;Unknown;"Data Analysis; Data Visualization; Team Leadership";Bachelor's Degree;"Python; R; SQL; MicroStrategy; Power BI; Microsoft Excel; Apache Spark"
+61;Data Analyst;Data Analyst;46;Veeva Systems;Spain;Unknown;Unknown;Full-time;3-5;Mid;"Data Analysis; Problem Solving; Cross-functional Collaboration; Agile; Process Optimization; Documentation; Regulatory Compliance";Other;"SQL; Python; AWS; GCP; Azure; MongoDB"
+62;Business Analyst;Business Analyst;47;Charles Taylor InsureTech;Unknown;Unknown;Unknown;Full-time;3-5;Mid;"Data Analysis; Project Management; Communication; Problem Solving; Agile; Scrum; Document Management; Business Acumen; Cross-functional Collaboration";Bachelor's Degree;SQL
+63;Data Analyst - Controlling/FP&A;Data Analyst;48;SER;Unknown;Unknown;Unknown;Unknown;0-3;Unknown;Data Analysis;;"Microsoft Excel; Power BI"
+64;Business Analyst - Especialista en el  rea de aduanas;Business Analyst;49;Inetum;Unknown;Unknown;Unknown;Full-time;5+;Unknown;"Data Analysis; Communication; Problem Solving; Process Optimization; Business Acumen";;"SQL; API; XML"
+65;Data Analyst & Business Partner;Data Analyst;50;Holafly;Unknown;Unknown;Unknown;Full-time;3-5;Unknown;"Data Analysis; Communication; Problem Solving; Business Acumen; Cross-functional Collaboration";Bachelor's Degree;"SQL; Tableau; Power BI"
+66;Data Analyst;Data Analyst;51;Javvy Coffee;Unknown;Unknown;Unknown;Unknown;3-5;Unknown;"Data Analysis; Problem Solving; Communication";;SQL
+67;Business Analyst;Business Analyst;null;Unknown;Unknown;Unknown;Unknown;Unknown;5+;Unknown;Auditing;;Oracle
+68;Wind Data Analyst ? Internship;Data Analyst;52;Siemens Gamesa;Unknown;Unknown;Zamudio;Internship;0-3;Intern;Data Analysis;"Engineering; Bachelor's Degree";"Microsoft Excel; Python; AutoCAD; GIS"
+69;Business Analyst;Business Analyst;53;Capgemini;Spain;Unknown;Unknown;Unknown;3-5;Unknown;"Data Analysis; Communication; Problem Solving; Team Leadership";;"SQL; Tableau; BigQuery"
+70;Finance Business Analyst;Business Analyst;null;Unknown;Unknown;Unknown;Unknown;Unknown;3-5;Unknown;"Data Analysis; Process Optimization; Supply Chain Management; Financial Analysis; Regulatory Compliance; Auditing; Business Acumen; Cross-functional Collaboration; Operations Management; Communication; Problem Solving";Bachelor's Degree;"Microsoft Excel; Power BI; Tableau"
+71;Business Analyst;Business Analyst;54;Second Window;Unknown;Unknown;Unknown;Full-time;0-3;Unknown;"Project Management; Cross-functional Collaboration; Business Acumen";;"Python; SQL; AWS"
+72;Data Analyst;Data Analyst;null;Unknown;Unknown;Unknown;Unknown;Full-time;0-3;Unknown;"Data Analysis; Machine Learning; Problem Solving; Communication";"Engineering; Other";"R; Python; SQL; Tableau; Power BI; AWS; Azure"
+73;Data Analyst;Data Analyst;55;Graphic Packaging International;United States;GA;Atlanta;Full-time;Unknown;Unknown;"Data Analysis; Communication; Problem Solving; Business Acumen";;"SQL; Power BI"
+74;Data Analyst;Data Analyst;56;Siroko;Unknown;Unknown;Unknown;Full-time;3-5;Mid;"Data Analysis; Communication; Process Optimization";;"SQL; Google Analytics; Looker"
+75;Business Analyst;Business Analyst;57;Gammaux;Unknown;Unknown;Barcelona;Full-time;0-3;Unknown;"Data Analysis; Marketing; Communication; Problem Solving; Process Optimization; Technical Writing; Business Acumen; Cross-functional Collaboration";Bachelor's Degree;SQL
+76;Online Data Analyst - Spain;Data Analyst;44;TELUS Digital AI;Spain;Unknown;Unknown;Contract;0-3;Unknown;Data Analysis;;
+77;Online Data Analyst;Data Analyst;44;TELUS Digital AI;Spain;Unknown;Unknown;Part-time;0-3;Unknown;"Data Analysis; Communication; Problem Solving";;
+78;Data Analyst - Travel Industry;Data Analyst;42;AIC Travel Group SA;Switzerland;Unknown;Geneva;Full-time;0-3;Unknown;"Data Analysis; Marketing; Communication; Problem Solving; Business Acumen";;"Microsoft Excel; HubSpot; Looker"
+79;Data Analyst;Data Analyst;49;Inetum;Spain;Unknown;Unknown;Unknown;3-5;Unknown;"Data Analysis; Problem Solving";;"SQL; Python; Apache Spark; PostgreSQL; AWS"
+80;Business Analyst. Banking Data Area;Business Analyst;54;Second Window;Unknown;Unknown;Unknown;Unknown;3-5;Unknown;"Business Acumen; Communication; Problem Solving; Agile; Cross-functional Collaboration";;"SQL; Jira"
+81;Business Analyst (Finance);Business Analyst;14;Revolut;Unknown;Unknown;Unknown;Full-time;3-5;Mid;"Business Acumen; Data Analysis; Process Optimization; Communication; Problem Solving; Cross-functional Collaboration; Financial Analysis";;"SQL; Microsoft Excel; Bloomberg Terminal"
+82;Data Analyst, Member Services;Data Analyst;58;OneImaging;Unknown;Unknown;Unknown;Contract;3-5;Mid;"Data Analysis; Process Optimization; Quality Assurance; Communication; Healthcare Knowledge; Problem Solving";;"SQL; Python; Looker; Google Analytics; Microsoft Excel"
+83;Business Analyst - (Remote Europe and Nigeria);Business Analyst;null;Unknown;European Union;Unknown;Unknown;Full-time;3-5;Unknown;"Communication; Data Analysis; Technical Writing; Business Acumen";;API
+84;Business Analyst (Sector energ¡a);Business Analyst;59;Capitole;Spain;Unknown;Madrid;Full-time;3-5;Unknown;"Communication; Business Acumen";;"Word; Microsoft Excel; SAP"
+85;Data Analyst - Fintech;Data Analyst;17;Leadtech;Spain;Unknown;Barcelona;Unknown;3-5;Unknown;"Data Analysis; Problem Solving; Communication; Regulatory Compliance; Business Acumen";Bachelor's Degree;"SQL; Tableau; Power BI; Looker; Python; R"
+86;Business Analyst;Business Analyst;60;SNGULAR;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;"Business Acumen; Communication; Process Optimization";;
+87;Business Analyst (sector bancario) I Teletrabajo;Business Analyst;61;OPTIMISSA;Unknown;Unknown;Unknown;Unknown;3-5;Unknown;"Financial Analysis; Business Acumen";;"SQL; Microsoft Excel; Prisma"
+88;Senior Product Data Analyst;Data Analyst;62;Remote;Unknown;Unknown;Unknown;Full-time;5+;Senior;"Data Analysis; Communication; Problem Solving; Project Management; Product Management";;"SQL; Python; Tableau; Looker"
+89;Business Analyst position for EU Public Institutions - MAIA;Business Analyst;null;Unknown;Unknown;Unknown;Unknown;Unknown;5+;Unknown;"Data Analysis; Process Optimization; Agile; Business Acumen";Higher Education;"SQL; Oracle"
+90;Business Analyst;Business Analyst;null;Unknown;Unknown;Unknown;Unknown;Contract;3-5;Mid;"Data Analysis; Business Acumen; Project Management; Financial Analysis";;"SQL; Python; Tableau; Power BI; Microsoft Excel; Jira"
+91;Growth Data Analyst;Data Analyst;63;TripleTen;Brazil;Unknown;Unknown;Full-time;0-3;Unknown;"Data Analysis; Marketing; Communication; Problem Solving";;"Tableau; SQL; Python; Salesforce; HubSpot"
+92;Business Analyst;Business Analyst;null;Unknown;European Union;Unknown;Unknown;Contract;5+;Unknown;"Process Optimization; Regulatory Compliance; Business Acumen; Communication";;"Power BI; SAP; Azure"
+93;UT/UTCD Data Analyst [Level 3];Data Analyst;64;PIPECARE Europe;Unknown;Unknown;Unknown;Unknown;5+;Unknown;"Data Analysis; Problem Solving; Communication; Technical Writing; Quality Assurance; Document Management";Engineering;Microsoft Excel
+94;Data Analyst Scala - 100% Teletrabajo;Data Analyst;65;Azertium IT;Unknown;Unknown;Unknown;Full-time;0-3;Unknown;Data Analysis;;"SQL; Java; Python; Azure; AWS; PostgreSQL"
+95;Data Analyst;Data Analyst;66;Winning Consulting;European Union;Unknown;Unknown;Unknown;3-5;Unknown;"Agile; Scrum";;"SQL; Jira; AWS; GitHub"
+96;Business Analyst | Oracle IDM. Remoto;Business Analyst;null;Unknown;Unknown;Unknown;Unknown;Unknown;5+;Unknown;"Problem Solving; Auditing; Regulatory Compliance";;Oracle
+97;Freelance Business Analyst Security Remote;Business Analyst;67;Hays;United Kingdom;Unknown;Unknown;Contract;5+;Unknown;"Business Acumen; Communication; Problem Solving; Process Optimization; User-Centered Design";;Microsoft Excel
+98;Business Analyst (Technical);Business Analyst;68;CORUS;Spain;Unknown;Unknown;Unknown;5+;Unknown;"Business Acumen; Process Optimization; Cross-functional Collaboration; Communication; Problem Solving; Project Management";"Higher Education; Other";Azure
+99;Business Analyst API;Business Analyst;69;Scalian;Spain;Unknown;Unknown;Full-time;5+;Unknown;"Financial Analysis; Communication; Problem Solving; Cross-functional Collaboration; Business Acumen";;"Jira; Confluence"
+100;Business Analyst;Business Analyst;70;clearsource;Unknown;Unknown;Unknown;Contract;5+;Unknown;"Business Analysis; Process Optimization; Regulatory Compliance";;"Power BI; Microsoft Excel; Azure"
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;

@@ -1,0 +1,121 @@
+============================================================
+DATAPM DEDUPLICATION SUMMARY REPORT
+============================================================
+Generated: 2025-08-22 15:22:22
+
+Total Files Processed: 18/18
+Total Original Records: 158
+Total Final Records: 158
+Total Duplicates Removed: 0
+Reduction Percentage: 0.00%
+
+DETAILED RESULTS:
+----------------------------------------
+
+File: 20250820_162157_DataPM_result_batch_1.csv
+  Original: 10 records
+  Final: 10 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250820_162157_DataPM_result_batch_2.csv
+  Original: 10 records
+  Final: 10 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250821_013418_DataPM_result_batch_1.csv
+  Original: 10 records
+  Final: 10 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250821_013418_DataPM_result_batch_2.csv
+  Original: 10 records
+  Final: 10 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250821_013418_DataPM_result_batch_3.csv
+  Original: 10 records
+  Final: 10 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250821_013418_DataPM_result_batch_4.csv
+  Original: 2 records
+  Final: 2 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250821_163730_DataPM_result_batch_1.csv
+  Original: 10 records
+  Final: 10 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250821_163730_DataPM_result_batch_2.csv
+  Original: 4 records
+  Final: 4 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250822_103348_DataPM_result_batch_1.csv
+  Original: 10 records
+  Final: 10 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250822_103348_DataPM_result_batch_2.csv
+  Original: 10 records
+  Final: 10 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250822_103348_DataPM_result_batch_3.csv
+  Original: 10 records
+  Final: 10 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250822_103348_DataPM_result_batch_4.csv
+  Original: 10 records
+  Final: 10 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250822_103348_DataPM_result_batch_5.csv
+  Original: 10 records
+  Final: 10 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250822_143048_DataPM_result_batch_1.csv
+  Original: 10 records
+  Final: 10 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250822_143048_DataPM_result_batch_2.csv
+  Original: 10 records
+  Final: 10 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250822_143048_DataPM_result_batch_3.csv
+  Original: 10 records
+  Final: 10 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250822_143048_DataPM_result_batch_4.csv
+  Original: 10 records
+  Final: 10 records
+  Duplicates Removed: 0
+  Reduction: 0.00%
+
+File: 20250822_143048_DataPM_result_batch_5.csv
+  Original: 2 records
+  Final: 2 records
+  Duplicates Removed: 0
+  Reduction: 0.00%

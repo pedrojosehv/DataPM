@@ -1,0 +1,22 @@
+2025-08-22 15:25:11,729 - INFO - Found 18 CSV files to process
+2025-08-22 15:25:11,740 - INFO - Loaded 10 records from 20250820_162157_DataPM_result_batch_1.csv
+2025-08-22 15:25:11,745 - INFO - Loaded 10 records from 20250820_162157_DataPM_result_batch_2.csv
+2025-08-22 15:25:11,748 - INFO - Loaded 10 records from 20250821_013418_DataPM_result_batch_1.csv
+2025-08-22 15:25:11,755 - INFO - Loaded 10 records from 20250821_013418_DataPM_result_batch_2.csv
+2025-08-22 15:25:11,760 - INFO - Loaded 10 records from 20250821_013418_DataPM_result_batch_3.csv
+2025-08-22 15:25:11,764 - INFO - Loaded 2 records from 20250821_013418_DataPM_result_batch_4.csv
+2025-08-22 15:25:11,771 - INFO - Loaded 10 records from 20250821_163730_DataPM_result_batch_1.csv
+2025-08-22 15:25:11,778 - INFO - Loaded 4 records from 20250821_163730_DataPM_result_batch_2.csv
+2025-08-22 15:25:11,782 - INFO - Loaded 10 records from 20250822_103348_DataPM_result_batch_1.csv
+2025-08-22 15:25:11,787 - INFO - Loaded 10 records from 20250822_103348_DataPM_result_batch_2.csv
+2025-08-22 15:25:11,792 - INFO - Loaded 10 records from 20250822_103348_DataPM_result_batch_3.csv
+2025-08-22 15:25:11,796 - INFO - Loaded 10 records from 20250822_103348_DataPM_result_batch_4.csv
+2025-08-22 15:25:11,800 - INFO - Loaded 10 records from 20250822_103348_DataPM_result_batch_5.csv
+2025-08-22 15:25:11,805 - INFO - Loaded 10 records from 20250822_143048_DataPM_result_batch_1.csv
+2025-08-22 15:25:11,809 - INFO - Loaded 10 records from 20250822_143048_DataPM_result_batch_2.csv
+2025-08-22 15:25:11,813 - INFO - Loaded 10 records from 20250822_143048_DataPM_result_batch_3.csv
+2025-08-22 15:25:11,817 - INFO - Loaded 10 records from 20250822_143048_DataPM_result_batch_4.csv
+2025-08-22 15:25:11,822 - INFO - Loaded 2 records from 20250822_143048_DataPM_result_batch_5.csv
+2025-08-22 15:25:11,827 - INFO - Combined 158 total records from 18 files
+2025-08-22 15:25:11,828 - INFO - Analyzing 158 records for absolute duplicates...
+2025-08-22 15:25:11,846 - INFO - No absolute duplicates found

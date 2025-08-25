@@ -1,0 +1,1245 @@
+======================================================================
+DATAPM FINAL DEDUPLICATION ANALYSIS REPORT
+======================================================================
+Generated: 2025-08-22 15:29:32
+
+SUMMARY:
+------------------------------
+Total Files Analyzed: 18
+Total Records: 158
+Unique Records: 158
+Duplicates Removed: 0
+Similar Jobs Found: 46
+Unique Companies: 97
+
+CROSS-FILE DUPLICATE ANALYSIS:
+----------------------------------------
+
+Duplicates By Job Title (Original) Company:
+  Fields: Job title (original), Company
+  Duplicate Groups: 23
+  Total Duplicate Records: 30
+
+Duplicates By Job Title (Original) Company City:
+  Fields: Job title (original), Company, City
+  Duplicate Groups: 22
+  Total Duplicate Records: 29
+
+Duplicates By Job Title (Original) Company Seniority:
+  Fields: Job title (original), Company, Seniority
+  Duplicate Groups: 21
+  Total Duplicate Records: 25
+
+Duplicates By Company City Seniority:
+  Fields: Company, City, Seniority
+  Duplicate Groups: 25
+  Total Duplicate Records: 44
+
+Duplicates By Job Title (Original) Company Country:
+  Fields: Job title (original), Company, Country
+  Duplicate Groups: 22
+  Total Duplicate Records: 29
+
+Duplicates By Job Title (Original) Company State:
+  Fields: Job title (original), Company, State
+  Duplicate Groups: 22
+  Total Duplicate Records: 29
+
+DETAILED DUPLICATE GROUPS:
+----------------------------------------
+
+Group 1:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Administrativo/a en calidad de producto', 'Company': 'ALE-HOP'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Administrativo/a en calidad de producto at ALE-HOP
+    - 20250822_143048_DataPM_result_batch_4.csv: Administrativo/a en calidad de producto at ALE-HOP
+
+Group 2:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Brands Product Manager Team lead', 'Company': 'BrainRocket'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Brands Product Manager Team lead at BrainRocket
+    - 20250822_143048_DataPM_result_batch_4.csv: Brands Product Manager Team lead at BrainRocket
+
+Group 3:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Business Analyst/Product Owner. Healthcare. Clinical data', 'Company': 'Trinetix'}
+  Count: 3
+  Records:
+    - 20250821_013418_DataPM_result_batch_4.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+    - 20250821_163730_DataPM_result_batch_1.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+    - 20250821_163730_DataPM_result_batch_2.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+
+Group 4:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'CATEGORY/PRODUCT MANAGER', 'Company': 'Sp-Berner'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: CATEGORY/PRODUCT MANAGER at Sp-Berner
+    - 20250822_143048_DataPM_result_batch_3.csv: CATEGORY/PRODUCT MANAGER at Sp-Berner
+
+Group 5:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Crypto Product manager', 'Company': 'BrainRocket'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Crypto Product manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_4.csv: Crypto Product manager at BrainRocket
+
+Group 6:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Development Manager', 'Company': '31st Union'}
+  Count: 2
+  Records:
+    - 20250822_103348_DataPM_result_batch_2.csv: Development Manager at 31st Union
+    - 20250822_103348_DataPM_result_batch_3.csv: Development Manager at 31st Union
+
+Group 7:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'ESG Associate Product Manager', 'Company': 'Apex Group'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: ESG Associate Product Manager at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Associate Product Manager at Apex Group
+
+Group 8:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'ESG Associate Product Specialist', 'Company': 'Apex Group'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: ESG Associate Product Specialist at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Associate Product Specialist at Apex Group
+
+Group 9:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'ESG Product Manager', 'Company': 'Apex Group'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: ESG Product Manager at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Product Manager at Apex Group
+
+Group 10:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'OPERATIONAL PRODUCT MANAGER H/M (46)', 'Company': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: OPERATIONAL PRODUCT MANAGER H/M (46) at Unknown
+    - 20250822_143048_DataPM_result_batch_3.csv: OPERATIONAL PRODUCT MANAGER H/M (46) at Unknown
+
+Group 11:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'PRODUCT PLANNER', 'Company': 'SanLucar'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: PRODUCT PLANNER at SanLucar
+    - 20250822_143048_DataPM_result_batch_4.csv: PRODUCT PLANNER at SanLucar
+
+Group 12:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Product & Quality Assurance Manager – Sector Espacio y Defensa', 'Company': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Product & Quality Assurance Manager – Sector Espacio y Defensa at Unknown
+    - 20250822_143048_DataPM_result_batch_4.csv: Product & Quality Assurance Manager – Sector Espacio y Defensa at Unknown
+
+Group 13:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Product Manager', 'Company': 'Avantio'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at Avantio
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at Avantio
+
+Group 14:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Product Manager', 'Company': 'BrainRocket'}
+  Count: 4
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at BrainRocket
+
+Group 15:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Product Manager', 'Company': 'Cecotec'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at Cecotec
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at Cecotec
+
+Group 16:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Product Owner', 'Company': 'BrainRocket'}
+  Count: 6
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner at BrainRocket
+
+Group 17:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Product Owner (m/f/d)', 'Company': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner (m/f/d) at Unknown
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner (m/f/d) at Unknown
+
+Group 18:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Product Owner – Insight Analytics & AI', 'Company': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner – Insight Analytics & AI at Unknown
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner – Insight Analytics & AI at Unknown
+
+Group 19:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'RESPONSABLE PROYECTOS I+D+I', 'Company': 'Importaco'}
+  Count: 2
+  Records:
+    - 20250822_103348_DataPM_result_batch_2.csv: RESPONSABLE PROYECTOS I+D+I at Importaco
+    - 20250822_103348_DataPM_result_batch_3.csv: RESPONSABLE PROYECTOS I+D+I at Importaco
+
+Group 20:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Senior Product Manager (Payments Platform, Disbursements)', 'Company': 'Flywire'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_3.csv: Senior Product Manager (Payments Platform, Disbursements) at Flywire
+    - 20250822_143048_DataPM_result_batch_5.csv: Senior Product Manager (Payments Platform, Disbursements) at Flywire
+
+Group 21:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Senior Product Manager - Omnia', 'Company': 'Confluence'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Senior Product Manager - Omnia at Confluence
+    - 20250822_143048_DataPM_result_batch_4.csv: Senior Product Manager - Omnia at Confluence
+
+Group 22:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Senior Product Manager - native Enterprise AI', 'Company': 'Maisa'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Senior Product Manager - native Enterprise AI at Maisa
+    - 20250822_143048_DataPM_result_batch_5.csv: Senior Product Manager - native Enterprise AI at Maisa
+
+Group 23:
+  Fields: Job title (original), Company
+  Values: {'Job title (original)': 'Sr Product Manager', 'Company': 'EFI'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Sr Product Manager at EFI
+    - 20250822_143048_DataPM_result_batch_4.csv: Sr Product Manager at EFI
+
+Group 24:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'Administrativo/a en calidad de producto', 'Company': 'ALE-HOP', 'City': 'Oliva'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Administrativo/a en calidad de producto at ALE-HOP
+    - 20250822_143048_DataPM_result_batch_4.csv: Administrativo/a en calidad de producto at ALE-HOP
+
+Group 25:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'Brands Product Manager Team lead', 'Company': 'BrainRocket', 'City': 'Valencia'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Brands Product Manager Team lead at BrainRocket
+    - 20250822_143048_DataPM_result_batch_4.csv: Brands Product Manager Team lead at BrainRocket
+
+Group 26:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'Business Analyst/Product Owner. Healthcare. Clinical data', 'Company': 'Trinetix', 'City': 'Nashville'}
+  Count: 3
+  Records:
+    - 20250821_013418_DataPM_result_batch_4.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+    - 20250821_163730_DataPM_result_batch_1.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+    - 20250821_163730_DataPM_result_batch_2.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+
+Group 27:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'CATEGORY/PRODUCT MANAGER', 'Company': 'Sp-Berner', 'City': 'Aldaya'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: CATEGORY/PRODUCT MANAGER at Sp-Berner
+    - 20250822_143048_DataPM_result_batch_3.csv: CATEGORY/PRODUCT MANAGER at Sp-Berner
+
+Group 28:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'Crypto Product manager', 'Company': 'BrainRocket', 'City': 'Valencia'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Crypto Product manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_4.csv: Crypto Product manager at BrainRocket
+
+Group 29:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'Development Manager', 'Company': '31st Union', 'City': 'Valencia'}
+  Count: 2
+  Records:
+    - 20250822_103348_DataPM_result_batch_2.csv: Development Manager at 31st Union
+    - 20250822_103348_DataPM_result_batch_3.csv: Development Manager at 31st Union
+
+Group 30:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'ESG Associate Product Manager', 'Company': 'Apex Group', 'City': 'Valencia'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: ESG Associate Product Manager at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Associate Product Manager at Apex Group
+
+Group 31:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'ESG Associate Product Specialist', 'Company': 'Apex Group', 'City': 'Valencia'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: ESG Associate Product Specialist at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Associate Product Specialist at Apex Group
+
+Group 32:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'ESG Product Manager', 'Company': 'Apex Group', 'City': 'Valencia'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: ESG Product Manager at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Product Manager at Apex Group
+
+Group 33:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'OPERATIONAL PRODUCT MANAGER H/M (46)', 'Company': 'Unknown', 'City': 'Valencia'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: OPERATIONAL PRODUCT MANAGER H/M (46) at Unknown
+    - 20250822_143048_DataPM_result_batch_3.csv: OPERATIONAL PRODUCT MANAGER H/M (46) at Unknown
+
+Group 34:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'PRODUCT PLANNER', 'Company': 'SanLucar', 'City': 'Puzol'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: PRODUCT PLANNER at SanLucar
+    - 20250822_143048_DataPM_result_batch_4.csv: PRODUCT PLANNER at SanLucar
+
+Group 35:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'Product Manager', 'Company': 'Avantio', 'City': 'Valencia'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at Avantio
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at Avantio
+
+Group 36:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'Product Manager', 'Company': 'BrainRocket', 'City': 'Valencia'}
+  Count: 4
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at BrainRocket
+
+Group 37:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'Product Manager', 'Company': 'Cecotec', 'City': 'Valencia'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at Cecotec
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at Cecotec
+
+Group 38:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'Product Owner', 'Company': 'BrainRocket', 'City': 'Valencia'}
+  Count: 6
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner at BrainRocket
+
+Group 39:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'Product Owner (m/f/d)', 'Company': 'Unknown', 'City': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner (m/f/d) at Unknown
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner (m/f/d) at Unknown
+
+Group 40:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'Product Owner – Insight Analytics & AI', 'Company': 'Unknown', 'City': 'Valencia'}
+  Count: 2
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner – Insight Analytics & AI at Unknown
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner – Insight Analytics & AI at Unknown
+
+Group 41:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'RESPONSABLE PROYECTOS I+D+I', 'Company': 'Importaco', 'City': 'Beniparrell'}
+  Count: 2
+  Records:
+    - 20250822_103348_DataPM_result_batch_2.csv: RESPONSABLE PROYECTOS I+D+I at Importaco
+    - 20250822_103348_DataPM_result_batch_3.csv: RESPONSABLE PROYECTOS I+D+I at Importaco
+
+Group 42:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'Senior Product Manager (Payments Platform, Disbursements)', 'Company': 'Flywire', 'City': 'Valencia'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_3.csv: Senior Product Manager (Payments Platform, Disbursements) at Flywire
+    - 20250822_143048_DataPM_result_batch_5.csv: Senior Product Manager (Payments Platform, Disbursements) at Flywire
+
+Group 43:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'Senior Product Manager - Omnia', 'Company': 'Confluence', 'City': 'Valencia'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Senior Product Manager - Omnia at Confluence
+    - 20250822_143048_DataPM_result_batch_4.csv: Senior Product Manager - Omnia at Confluence
+
+Group 44:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'Senior Product Manager - native Enterprise AI', 'Company': 'Maisa', 'City': 'Valencia'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Senior Product Manager - native Enterprise AI at Maisa
+    - 20250822_143048_DataPM_result_batch_5.csv: Senior Product Manager - native Enterprise AI at Maisa
+
+Group 45:
+  Fields: Job title (original), Company, City
+  Values: {'Job title (original)': 'Sr Product Manager', 'Company': 'EFI', 'City': 'Castellón de la Plana'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Sr Product Manager at EFI
+    - 20250822_143048_DataPM_result_batch_4.csv: Sr Product Manager at EFI
+
+Group 46:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'Administrativo/a en calidad de producto', 'Company': 'ALE-HOP', 'Seniority': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Administrativo/a en calidad de producto at ALE-HOP
+    - 20250822_143048_DataPM_result_batch_4.csv: Administrativo/a en calidad de producto at ALE-HOP
+
+Group 47:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'Business Analyst/Product Owner. Healthcare. Clinical data', 'Company': 'Trinetix', 'Seniority': 'Senior'}
+  Count: 3
+  Records:
+    - 20250821_013418_DataPM_result_batch_4.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+    - 20250821_163730_DataPM_result_batch_1.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+    - 20250821_163730_DataPM_result_batch_2.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+
+Group 48:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'CATEGORY/PRODUCT MANAGER', 'Company': 'Sp-Berner', 'Seniority': 'Manager'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: CATEGORY/PRODUCT MANAGER at Sp-Berner
+    - 20250822_143048_DataPM_result_batch_3.csv: CATEGORY/PRODUCT MANAGER at Sp-Berner
+
+Group 49:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'Development Manager', 'Company': '31st Union', 'Seniority': 'Manager'}
+  Count: 2
+  Records:
+    - 20250822_103348_DataPM_result_batch_2.csv: Development Manager at 31st Union
+    - 20250822_103348_DataPM_result_batch_3.csv: Development Manager at 31st Union
+
+Group 50:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'ESG Associate Product Manager', 'Company': 'Apex Group', 'Seniority': 'Mid'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: ESG Associate Product Manager at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Associate Product Manager at Apex Group
+
+Group 51:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'ESG Associate Product Specialist', 'Company': 'Apex Group', 'Seniority': 'Mid'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: ESG Associate Product Specialist at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Associate Product Specialist at Apex Group
+
+Group 52:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'ESG Product Manager', 'Company': 'Apex Group', 'Seniority': 'Manager'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: ESG Product Manager at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Product Manager at Apex Group
+
+Group 53:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'OPERATIONAL PRODUCT MANAGER H/M (46)', 'Company': 'Unknown', 'Seniority': 'Manager'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: OPERATIONAL PRODUCT MANAGER H/M (46) at Unknown
+    - 20250822_143048_DataPM_result_batch_3.csv: OPERATIONAL PRODUCT MANAGER H/M (46) at Unknown
+
+Group 54:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'PRODUCT PLANNER', 'Company': 'SanLucar', 'Seniority': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: PRODUCT PLANNER at SanLucar
+    - 20250822_143048_DataPM_result_batch_4.csv: PRODUCT PLANNER at SanLucar
+
+Group 55:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'Product & Quality Assurance Manager – Sector Espacio y Defensa', 'Company': 'Unknown', 'Seniority': 'Manager'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Product & Quality Assurance Manager – Sector Espacio y Defensa at Unknown
+    - 20250822_143048_DataPM_result_batch_4.csv: Product & Quality Assurance Manager – Sector Espacio y Defensa at Unknown
+
+Group 56:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'Product Manager', 'Company': 'Avantio', 'Seniority': 'Manager'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at Avantio
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at Avantio
+
+Group 57:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'Product Manager', 'Company': 'BrainRocket', 'Seniority': 'Mid'}
+  Count: 3
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at BrainRocket
+
+Group 58:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'Product Owner', 'Company': 'BrainRocket', 'Seniority': 'Mid'}
+  Count: 4
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner at BrainRocket
+
+Group 59:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'Product Owner', 'Company': 'BrainRocket', 'Seniority': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+
+Group 60:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'Product Owner (m/f/d)', 'Company': 'Unknown', 'Seniority': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner (m/f/d) at Unknown
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner (m/f/d) at Unknown
+
+Group 61:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'Product Owner – Insight Analytics & AI', 'Company': 'Unknown', 'Seniority': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner – Insight Analytics & AI at Unknown
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner – Insight Analytics & AI at Unknown
+
+Group 62:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'RESPONSABLE PROYECTOS I+D+I', 'Company': 'Importaco', 'Seniority': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250822_103348_DataPM_result_batch_2.csv: RESPONSABLE PROYECTOS I+D+I at Importaco
+    - 20250822_103348_DataPM_result_batch_3.csv: RESPONSABLE PROYECTOS I+D+I at Importaco
+
+Group 63:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'Senior Product Manager (Payments Platform, Disbursements)', 'Company': 'Flywire', 'Seniority': 'Senior'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_3.csv: Senior Product Manager (Payments Platform, Disbursements) at Flywire
+    - 20250822_143048_DataPM_result_batch_5.csv: Senior Product Manager (Payments Platform, Disbursements) at Flywire
+
+Group 64:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'Senior Product Manager - Omnia', 'Company': 'Confluence', 'Seniority': 'Manager'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Senior Product Manager - Omnia at Confluence
+    - 20250822_143048_DataPM_result_batch_4.csv: Senior Product Manager - Omnia at Confluence
+
+Group 65:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'Senior Product Manager - native Enterprise AI', 'Company': 'Maisa', 'Seniority': 'Senior'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Senior Product Manager - native Enterprise AI at Maisa
+    - 20250822_143048_DataPM_result_batch_5.csv: Senior Product Manager - native Enterprise AI at Maisa
+
+Group 66:
+  Fields: Job title (original), Company, Seniority
+  Values: {'Job title (original)': 'Sr Product Manager', 'Company': 'EFI', 'Seniority': 'Senior'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Sr Product Manager at EFI
+    - 20250822_143048_DataPM_result_batch_4.csv: Sr Product Manager at EFI
+
+Group 67:
+  Fields: Company, City, Seniority
+  Values: {'Company': '31st Union', 'City': 'Valencia', 'Seniority': 'Manager'}
+  Count: 2
+  Records:
+    - 20250822_103348_DataPM_result_batch_2.csv: Development Manager at 31st Union
+    - 20250822_103348_DataPM_result_batch_3.csv: Development Manager at 31st Union
+
+Group 68:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'ALE-HOP', 'City': 'Oliva', 'Seniority': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Administrativo/a en calidad de producto at ALE-HOP
+    - 20250822_143048_DataPM_result_batch_4.csv: Administrativo/a en calidad de producto at ALE-HOP
+
+Group 69:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Apex Group', 'City': 'Valencia', 'Seniority': 'Manager'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: ESG Product Manager at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Product Manager at Apex Group
+
+Group 70:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Apex Group', 'City': 'Valencia', 'Seniority': 'Mid'}
+  Count: 4
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: ESG Associate Product Manager at Apex Group
+    - 20250822_143048_DataPM_result_batch_2.csv: ESG Associate Product Specialist at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Associate Product Manager at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Associate Product Specialist at Apex Group
+
+Group 71:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Avantio', 'City': 'Valencia', 'Seniority': 'Manager'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at Avantio
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at Avantio
+
+Group 72:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'BrainRocket', 'City': 'Valencia', 'Seniority': 'Manager'}
+  Count: 3
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_2.csv: Crypto Product manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_2.csv: Brands Product Manager Team lead at BrainRocket
+
+Group 73:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'BrainRocket', 'City': 'Valencia', 'Seniority': 'Mid'}
+  Count: 8
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner at BrainRocket
+    - 20250822_103348_DataPM_result_batch_3.csv: Scrum Master at BrainRocket
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at BrainRocket
+
+Group 74:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'BrainRocket', 'City': 'Valencia', 'Seniority': 'Unknown'}
+  Count: 4
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250822_103348_DataPM_result_batch_1.csv: Project Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_4.csv: Crypto Product manager at BrainRocket
+
+Group 75:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Confluence', 'City': 'Valencia', 'Seniority': 'Manager'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Senior Product Manager - Omnia at Confluence
+    - 20250822_143048_DataPM_result_batch_4.csv: Senior Product Manager - Omnia at Confluence
+
+Group 76:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'EFI', 'City': 'Castellón de la Plana', 'Seniority': 'Senior'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Sr Product Manager at EFI
+    - 20250822_143048_DataPM_result_batch_4.csv: Sr Product Manager at EFI
+
+Group 77:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Flywire', 'City': 'Valencia', 'Seniority': 'Senior'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_3.csv: Senior Product Manager (Payments Platform, Disbursements) at Flywire
+    - 20250822_143048_DataPM_result_batch_5.csv: Senior Product Manager (Payments Platform, Disbursements) at Flywire
+
+Group 78:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Fourvenues', 'City': 'Valencia', 'Seniority': 'Mid'}
+  Count: 3
+  Records:
+    - 20250821_013418_DataPM_result_batch_2.csv: Product Data Analyst – User dashboards B2B2C at Fourvenues
+    - 20250821_013418_DataPM_result_batch_3.csv: Product Analyst – Optimización de flujos de compra y configuración at Fourvenues
+    - 20250822_103348_DataPM_result_batch_1.csv: Product Manager PM - Especialista en ticketing y accesos at Fourvenues
+
+Group 79:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'IVC Evidensia', 'City': 'Valencia', 'Seniority': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250821_013418_DataPM_result_batch_1.csv: Business Analyst (Pricing & Operations) at IVC Evidensia
+    - 20250821_013418_DataPM_result_batch_2.csv: Analista de Negocio - Precios & Operaciones at IVC Evidensia
+
+Group 80:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Imperia', 'City': 'Valencia', 'Seniority': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250821_013418_DataPM_result_batch_2.csv: Supply Chain Sales Specialist at Imperia
+    - 20250821_013418_DataPM_result_batch_3.csv: Business Operations at Imperia
+
+Group 81:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Importaco', 'City': 'Beniparrell', 'Seniority': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250822_103348_DataPM_result_batch_2.csv: RESPONSABLE PROYECTOS I+D+I at Importaco
+    - 20250822_103348_DataPM_result_batch_3.csv: RESPONSABLE PROYECTOS I+D+I at Importaco
+
+Group 82:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Maisa', 'City': 'Valencia', 'Seniority': 'Senior'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Senior Product Manager - native Enterprise AI at Maisa
+    - 20250822_143048_DataPM_result_batch_5.csv: Senior Product Manager - native Enterprise AI at Maisa
+
+Group 83:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Octopus Energy', 'City': 'Valencia', 'Seniority': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250821_013418_DataPM_result_batch_1.csv: ¿Quieres trabajar con nosotros? at Octopus Energy
+    - 20250821_013418_DataPM_result_batch_3.csv: Especialista en Customer Care at Octopus Energy
+
+Group 84:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'PowerCo', 'City': 'Valencia', 'Seniority': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250822_103348_DataPM_result_batch_3.csv: New Product Introduction (NPI) Senior Expert at PowerCo
+    - 20250822_143048_DataPM_result_batch_1.csv: New Product Introduction (NPI) Expert at PowerCo
+
+Group 85:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'SanLucar', 'City': 'Puzol', 'Seniority': 'Unknown'}
+  Count: 3
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: JOIN OUR PRODUCT MANAGEMENT TEAM! at SanLucar
+    - 20250822_143048_DataPM_result_batch_2.csv: PRODUCT PLANNER at SanLucar
+    - 20250822_143048_DataPM_result_batch_4.csv: PRODUCT PLANNER at SanLucar
+
+Group 86:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Sp-Berner', 'City': 'Aldaya', 'Seniority': 'Manager'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: CATEGORY/PRODUCT MANAGER at Sp-Berner
+    - 20250822_143048_DataPM_result_batch_3.csv: CATEGORY/PRODUCT MANAGER at Sp-Berner
+
+Group 87:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Trinetix', 'City': 'Nashville', 'Seniority': 'Senior'}
+  Count: 3
+  Records:
+    - 20250821_013418_DataPM_result_batch_4.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+    - 20250821_163730_DataPM_result_batch_1.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+    - 20250821_163730_DataPM_result_batch_2.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+
+Group 88:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Unknown', 'City': 'Unknown', 'Seniority': 'Manager'}
+  Count: 2
+  Records:
+    - 20250820_162157_DataPM_result_batch_2.csv: Product Manager at Unknown
+    - 20250822_143048_DataPM_result_batch_4.csv: Product & Quality Assurance Manager – Sector Espacio y Defensa at Unknown
+
+Group 89:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Unknown', 'City': 'Unknown', 'Seniority': 'Unknown'}
+  Count: 3
+  Records:
+    - 20250821_013418_DataPM_result_batch_2.csv: Murex Business Analyst 100% Remoto at Unknown
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner (m/f/d) at Unknown
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner (m/f/d) at Unknown
+
+Group 90:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Unknown', 'City': 'Valencia', 'Seniority': 'Manager'}
+  Count: 6
+  Records:
+    - 20250822_103348_DataPM_result_batch_1.csv: Talent Pool | Project Manager de Obra at Unknown
+    - 20250822_103348_DataPM_result_batch_1.csv: Manager Nuevos Desarrollos y Oficina Técnica at Unknown
+    - 20250822_103348_DataPM_result_batch_3.csv: LLP - TMS of Tomorrow Project - Quality Manager at Unknown
+    - 20250822_143048_DataPM_result_batch_1.csv: OPERATIONAL PRODUCT MANAGER H/M (46) at Unknown
+    - 20250822_143048_DataPM_result_batch_2.csv: Product & Quality Assurance Manager – Sector Espacio y Defensa at Unknown
+    - 20250822_143048_DataPM_result_batch_3.csv: OPERATIONAL PRODUCT MANAGER H/M (46) at Unknown
+
+Group 91:
+  Fields: Company, City, Seniority
+  Values: {'Company': 'Unknown', 'City': 'Valencia', 'Seniority': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner – Insight Analytics & AI at Unknown
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner – Insight Analytics & AI at Unknown
+
+Group 92:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'Administrativo/a en calidad de producto', 'Company': 'ALE-HOP', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Administrativo/a en calidad de producto at ALE-HOP
+    - 20250822_143048_DataPM_result_batch_4.csv: Administrativo/a en calidad de producto at ALE-HOP
+
+Group 93:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'Brands Product Manager Team lead', 'Company': 'BrainRocket', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Brands Product Manager Team lead at BrainRocket
+    - 20250822_143048_DataPM_result_batch_4.csv: Brands Product Manager Team lead at BrainRocket
+
+Group 94:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'Business Analyst/Product Owner. Healthcare. Clinical data', 'Company': 'Trinetix', 'Country': 'United States'}
+  Count: 3
+  Records:
+    - 20250821_013418_DataPM_result_batch_4.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+    - 20250821_163730_DataPM_result_batch_1.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+    - 20250821_163730_DataPM_result_batch_2.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+
+Group 95:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'CATEGORY/PRODUCT MANAGER', 'Company': 'Sp-Berner', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: CATEGORY/PRODUCT MANAGER at Sp-Berner
+    - 20250822_143048_DataPM_result_batch_3.csv: CATEGORY/PRODUCT MANAGER at Sp-Berner
+
+Group 96:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'Crypto Product manager', 'Company': 'BrainRocket', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Crypto Product manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_4.csv: Crypto Product manager at BrainRocket
+
+Group 97:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'Development Manager', 'Company': '31st Union', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_103348_DataPM_result_batch_2.csv: Development Manager at 31st Union
+    - 20250822_103348_DataPM_result_batch_3.csv: Development Manager at 31st Union
+
+Group 98:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'ESG Associate Product Manager', 'Company': 'Apex Group', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: ESG Associate Product Manager at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Associate Product Manager at Apex Group
+
+Group 99:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'ESG Associate Product Specialist', 'Company': 'Apex Group', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: ESG Associate Product Specialist at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Associate Product Specialist at Apex Group
+
+Group 100:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'ESG Product Manager', 'Company': 'Apex Group', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: ESG Product Manager at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Product Manager at Apex Group
+
+Group 101:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'OPERATIONAL PRODUCT MANAGER H/M (46)', 'Company': 'Unknown', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: OPERATIONAL PRODUCT MANAGER H/M (46) at Unknown
+    - 20250822_143048_DataPM_result_batch_3.csv: OPERATIONAL PRODUCT MANAGER H/M (46) at Unknown
+
+Group 102:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'PRODUCT PLANNER', 'Company': 'SanLucar', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: PRODUCT PLANNER at SanLucar
+    - 20250822_143048_DataPM_result_batch_4.csv: PRODUCT PLANNER at SanLucar
+
+Group 103:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'Product Manager', 'Company': 'Avantio', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at Avantio
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at Avantio
+
+Group 104:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'Product Manager', 'Company': 'BrainRocket', 'Country': 'Spain'}
+  Count: 4
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at BrainRocket
+
+Group 105:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'Product Manager', 'Company': 'Cecotec', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at Cecotec
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at Cecotec
+
+Group 106:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'Product Owner', 'Company': 'BrainRocket', 'Country': 'Spain'}
+  Count: 6
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner at BrainRocket
+
+Group 107:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'Product Owner (m/f/d)', 'Company': 'Unknown', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner (m/f/d) at Unknown
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner (m/f/d) at Unknown
+
+Group 108:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'Product Owner – Insight Analytics & AI', 'Company': 'Unknown', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner – Insight Analytics & AI at Unknown
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner – Insight Analytics & AI at Unknown
+
+Group 109:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'RESPONSABLE PROYECTOS I+D+I', 'Company': 'Importaco', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_103348_DataPM_result_batch_2.csv: RESPONSABLE PROYECTOS I+D+I at Importaco
+    - 20250822_103348_DataPM_result_batch_3.csv: RESPONSABLE PROYECTOS I+D+I at Importaco
+
+Group 110:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'Senior Product Manager (Payments Platform, Disbursements)', 'Company': 'Flywire', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_3.csv: Senior Product Manager (Payments Platform, Disbursements) at Flywire
+    - 20250822_143048_DataPM_result_batch_5.csv: Senior Product Manager (Payments Platform, Disbursements) at Flywire
+
+Group 111:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'Senior Product Manager - Omnia', 'Company': 'Confluence', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Senior Product Manager - Omnia at Confluence
+    - 20250822_143048_DataPM_result_batch_4.csv: Senior Product Manager - Omnia at Confluence
+
+Group 112:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'Senior Product Manager - native Enterprise AI', 'Company': 'Maisa', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Senior Product Manager - native Enterprise AI at Maisa
+    - 20250822_143048_DataPM_result_batch_5.csv: Senior Product Manager - native Enterprise AI at Maisa
+
+Group 113:
+  Fields: Job title (original), Company, Country
+  Values: {'Job title (original)': 'Sr Product Manager', 'Company': 'EFI', 'Country': 'Spain'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Sr Product Manager at EFI
+    - 20250822_143048_DataPM_result_batch_4.csv: Sr Product Manager at EFI
+
+Group 114:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'Administrativo/a en calidad de producto', 'Company': 'ALE-HOP', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Administrativo/a en calidad de producto at ALE-HOP
+    - 20250822_143048_DataPM_result_batch_4.csv: Administrativo/a en calidad de producto at ALE-HOP
+
+Group 115:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'Brands Product Manager Team lead', 'Company': 'BrainRocket', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Brands Product Manager Team lead at BrainRocket
+    - 20250822_143048_DataPM_result_batch_4.csv: Brands Product Manager Team lead at BrainRocket
+
+Group 116:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'Business Analyst/Product Owner. Healthcare. Clinical data', 'Company': 'Trinetix', 'State': 'Tennessee'}
+  Count: 3
+  Records:
+    - 20250821_013418_DataPM_result_batch_4.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+    - 20250821_163730_DataPM_result_batch_1.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+    - 20250821_163730_DataPM_result_batch_2.csv: Business Analyst/Product Owner. Healthcare. Clinical data at Trinetix
+
+Group 117:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'CATEGORY/PRODUCT MANAGER', 'Company': 'Sp-Berner', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: CATEGORY/PRODUCT MANAGER at Sp-Berner
+    - 20250822_143048_DataPM_result_batch_3.csv: CATEGORY/PRODUCT MANAGER at Sp-Berner
+
+Group 118:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'Crypto Product manager', 'Company': 'BrainRocket', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Crypto Product manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_4.csv: Crypto Product manager at BrainRocket
+
+Group 119:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'Development Manager', 'Company': '31st Union', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_103348_DataPM_result_batch_2.csv: Development Manager at 31st Union
+    - 20250822_103348_DataPM_result_batch_3.csv: Development Manager at 31st Union
+
+Group 120:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'ESG Associate Product Manager', 'Company': 'Apex Group', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: ESG Associate Product Manager at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Associate Product Manager at Apex Group
+
+Group 121:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'ESG Associate Product Specialist', 'Company': 'Apex Group', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: ESG Associate Product Specialist at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Associate Product Specialist at Apex Group
+
+Group 122:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'ESG Product Manager', 'Company': 'Apex Group', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: ESG Product Manager at Apex Group
+    - 20250822_143048_DataPM_result_batch_4.csv: ESG Product Manager at Apex Group
+
+Group 123:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'OPERATIONAL PRODUCT MANAGER H/M (46)', 'Company': 'Unknown', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: OPERATIONAL PRODUCT MANAGER H/M (46) at Unknown
+    - 20250822_143048_DataPM_result_batch_3.csv: OPERATIONAL PRODUCT MANAGER H/M (46) at Unknown
+
+Group 124:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'PRODUCT PLANNER', 'Company': 'SanLucar', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: PRODUCT PLANNER at SanLucar
+    - 20250822_143048_DataPM_result_batch_4.csv: PRODUCT PLANNER at SanLucar
+
+Group 125:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'Product Manager', 'Company': 'Avantio', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at Avantio
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at Avantio
+
+Group 126:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'Product Manager', 'Company': 'BrainRocket', 'State': 'Valencian Community'}
+  Count: 4
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at BrainRocket
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at BrainRocket
+
+Group 127:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'Product Manager', 'Company': 'Cecotec', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_1.csv: Product Manager at Cecotec
+    - 20250822_143048_DataPM_result_batch_3.csv: Product Manager at Cecotec
+
+Group 128:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'Product Owner', 'Company': 'BrainRocket', 'State': 'Valencian Community'}
+  Count: 6
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner at BrainRocket
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner at BrainRocket
+
+Group 129:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'Product Owner (m/f/d)', 'Company': 'Unknown', 'State': 'Unknown'}
+  Count: 2
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner (m/f/d) at Unknown
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner (m/f/d) at Unknown
+
+Group 130:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'Product Owner – Insight Analytics & AI', 'Company': 'Unknown', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250821_163730_DataPM_result_batch_1.csv: Product Owner – Insight Analytics & AI at Unknown
+    - 20250821_163730_DataPM_result_batch_2.csv: Product Owner – Insight Analytics & AI at Unknown
+
+Group 131:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'RESPONSABLE PROYECTOS I+D+I', 'Company': 'Importaco', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_103348_DataPM_result_batch_2.csv: RESPONSABLE PROYECTOS I+D+I at Importaco
+    - 20250822_103348_DataPM_result_batch_3.csv: RESPONSABLE PROYECTOS I+D+I at Importaco
+
+Group 132:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'Senior Product Manager (Payments Platform, Disbursements)', 'Company': 'Flywire', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_3.csv: Senior Product Manager (Payments Platform, Disbursements) at Flywire
+    - 20250822_143048_DataPM_result_batch_5.csv: Senior Product Manager (Payments Platform, Disbursements) at Flywire
+
+Group 133:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'Senior Product Manager - Omnia', 'Company': 'Confluence', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Senior Product Manager - Omnia at Confluence
+    - 20250822_143048_DataPM_result_batch_4.csv: Senior Product Manager - Omnia at Confluence
+
+Group 134:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'Senior Product Manager - native Enterprise AI', 'Company': 'Maisa', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Senior Product Manager - native Enterprise AI at Maisa
+    - 20250822_143048_DataPM_result_batch_5.csv: Senior Product Manager - native Enterprise AI at Maisa
+
+Group 135:
+  Fields: Job title (original), Company, State
+  Values: {'Job title (original)': 'Sr Product Manager', 'Company': 'EFI', 'State': 'Valencian Community'}
+  Count: 2
+  Records:
+    - 20250822_143048_DataPM_result_batch_2.csv: Sr Product Manager at EFI
+    - 20250822_143048_DataPM_result_batch_4.csv: Sr Product Manager at EFI
+
+SIMILAR JOBS ANALYSIS:
+----------------------------------------
+
+Similar Job Pair 1:
+  Company: Unknown
+  Similarity Score: 1.00
+  Job 1: Product Owner (m/f/d) (20250821_163730_DataPM_result_batch_1.csv)
+  Job 2: Product Owner (m/f/d) (20250821_163730_DataPM_result_batch_2.csv)
+
+Similar Job Pair 2:
+  Company: Unknown
+  Similarity Score: 1.00
+  Job 1: Product Owner – Insight Analytics & AI (20250821_163730_DataPM_result_batch_1.csv)
+  Job 2: Product Owner – Insight Analytics & AI (20250821_163730_DataPM_result_batch_2.csv)
+
+Similar Job Pair 3:
+  Company: Unknown
+  Similarity Score: 1.00
+  Job 1: OPERATIONAL PRODUCT MANAGER H/M (46) (20250822_143048_DataPM_result_batch_1.csv)
+  Job 2: OPERATIONAL PRODUCT MANAGER H/M (46) (20250822_143048_DataPM_result_batch_3.csv)
+
+Similar Job Pair 4:
+  Company: Unknown
+  Similarity Score: 0.80
+  Job 1: Product & Quality Assurance Manager – Sector Espacio y Defensa (20250822_143048_DataPM_result_batch_2.csv)
+  Job 2: Product & Quality Assurance Manager – Sector Espacio y Defensa (20250822_143048_DataPM_result_batch_4.csv)
+
+Similar Job Pair 5:
+  Company: Trinetix
+  Similarity Score: 1.00
+  Job 1: Business Analyst/Product Owner. Healthcare. Clinical data (20250821_013418_DataPM_result_batch_4.csv)
+  Job 2: Business Analyst/Product Owner. Healthcare. Clinical data (20250821_163730_DataPM_result_batch_1.csv)
+
+Similar Job Pair 6:
+  Company: Trinetix
+  Similarity Score: 1.00
+  Job 1: Business Analyst/Product Owner. Healthcare. Clinical data (20250821_013418_DataPM_result_batch_4.csv)
+  Job 2: Business Analyst/Product Owner. Healthcare. Clinical data (20250821_163730_DataPM_result_batch_2.csv)
+
+Similar Job Pair 7:
+  Company: Trinetix
+  Similarity Score: 1.00
+  Job 1: Business Analyst/Product Owner. Healthcare. Clinical data (20250821_163730_DataPM_result_batch_1.csv)
+  Job 2: Business Analyst/Product Owner. Healthcare. Clinical data (20250821_163730_DataPM_result_batch_2.csv)
+
+Similar Job Pair 8:
+  Company: BrainRocket
+  Similarity Score: 0.80
+  Job 1: Product Owner (20250821_163730_DataPM_result_batch_1.csv)
+  Job 2: Product Owner (20250821_163730_DataPM_result_batch_1.csv)
+
+Similar Job Pair 9:
+  Company: BrainRocket
+  Similarity Score: 0.80
+  Job 1: Product Owner (20250821_163730_DataPM_result_batch_1.csv)
+  Job 2: Product Owner (20250821_163730_DataPM_result_batch_1.csv)
+
+Similar Job Pair 10:
+  Company: BrainRocket
+  Similarity Score: 1.00
+  Job 1: Product Owner (20250821_163730_DataPM_result_batch_1.csv)
+  Job 2: Product Owner (20250821_163730_DataPM_result_batch_1.csv)
+
+... and 36 more similar job pairs.

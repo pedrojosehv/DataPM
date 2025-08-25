@@ -1,0 +1,1217 @@
+{
+    "name": "DataPM",
+    "flow": [
+        {
+            "id": 8,
+            "module": "util:BasicTrigger",
+            "version": 1,
+            "parameters": {
+                "values": [
+                    {
+                        "spec": [
+                            {
+                                "name": "trigger",
+                                "value": "1"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "mapper": {},
+            "metadata": {
+                "designer": {
+                    "x": 23,
+                    "y": -2
+                },
+                "restore": {
+                    "parameters": {
+                        "values": {
+                            "items": [
+                                {
+                                    "spec": {
+                                        "mode": "chose",
+                                        "items": [
+                                            null
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "values",
+                        "spec": [
+                            {
+                                "name": "spec",
+                                "spec": [
+                                    {
+                                        "name": "name",
+                                        "type": "text",
+                                        "label": "Name",
+                                        "required": true
+                                    },
+                                    {
+                                        "name": "value",
+                                        "type": "text",
+                                        "label": "Value",
+                                        "required": true
+                                    }
+                                ],
+                                "type": "array",
+                                "label": "Items",
+                                "required": true
+                            }
+                        ],
+                        "type": "array",
+                        "label": "Bundles",
+                        "required": true
+                    }
+                ],
+                "interface": [
+                    {
+                        "name": "trigger",
+                        "type": "text",
+                        "label": "trigger"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "module": "google-drive:getAFile",
+            "version": 4,
+            "parameters": {
+                "__IMTCONN__": 8719936
+            },
+            "mapper": {
+                "file": "/19z6t-S6BCwWbhl4xJBg9DlZBdqum9az-/1DSxJTJRDouAC-Y15lsDat2Yy8ggMM570/12bLe0Dya2OvCylvA4Y2wWAYz0U1oaEhJ",
+                "select": "value",
+                "destination": "drive",
+                "formatDrawings": "image/jpeg",
+                "formatDocuments": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "formatSpreadsheets": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "formatPresentations": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+            },
+            "metadata": {
+                "designer": {
+                    "x": 323,
+                    "y": -2
+                },
+                "restore": {
+                    "expect": {
+                        "file": {
+                            "path": [
+                                "DataPM",
+                                "csv",
+                                "linkedin_jobs_make.csv"
+                            ]
+                        },
+                        "select": {
+                            "label": "Select from the list"
+                        },
+                        "destination": {
+                            "label": "My Drive"
+                        },
+                        "formatDrawings": {
+                            "label": "JPEG"
+                        },
+                        "formatDocuments": {
+                            "label": "MS Word Document"
+                        },
+                        "formatSpreadsheets": {
+                            "label": "MS Excel"
+                        },
+                        "formatPresentations": {
+                            "label": "MS PowerPoint"
+                        }
+                    },
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "data": {
+                                "scoped": "true",
+                                "connection": "google-restricted"
+                            },
+                            "label": "11-10466 (11-10466@usb.ve)"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "__IMTCONN__",
+                        "type": "account:google-restricted",
+                        "label": "Connection",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "type": "hidden"
+                    },
+                    {
+                        "name": "select",
+                        "type": "select",
+                        "label": "Enter a File ID",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "map",
+                                "value"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "formatDocuments",
+                        "type": "select",
+                        "label": "Convert Google Documents Files to Format",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "application/pdf",
+                                "application/vnd.oasis.opendocument.text",
+                                "text/html",
+                                "text/plain",
+                                "application/rtf",
+                                "text/markdown"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "formatSpreadsheets",
+                        "type": "select",
+                        "label": "Convert Google Spreadsheets Files to Format",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                                "application/x-vnd.oasis.opendocument.spreadsheet",
+                                "application/pdf",
+                                "text/csv"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "formatPresentations",
+                        "type": "select",
+                        "label": "Convert Google Slides Files to Format",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+                                "application/pdf"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "formatDrawings",
+                        "type": "select",
+                        "label": "Convert Google Drawings Files to Format",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "image/jpeg",
+                                "image/png",
+                                "image/svg+xml",
+                                "application/pdf"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "destination",
+                        "type": "select",
+                        "label": "Choose a Drive",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "drive",
+                                "share",
+                                "team"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "file",
+                        "type": "file",
+                        "label": "File ID",
+                        "required": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "module": "csv:ParseCSV",
+            "version": 1,
+            "parameters": {
+                "relax": false,
+                "colCount": null,
+                "csvHeaders": "title,company,location,description",
+                "delimiterType": ",",
+                "csvContainsHeaders": true
+            },
+            "mapper": {
+                "csv": "{{3.data}}"
+            },
+            "metadata": {
+                "designer": {
+                    "x": 623,
+                    "y": -2
+                },
+                "restore": {
+                    "parameters": {
+                        "delimiterType": {
+                            "label": "Comma"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "colCount",
+                        "type": "number",
+                        "label": "Number of columns"
+                    },
+                    {
+                        "name": "csvContainsHeaders",
+                        "type": "boolean",
+                        "label": "CSV contains headers",
+                        "required": true
+                    },
+                    {
+                        "name": "delimiterType",
+                        "type": "select",
+                        "label": "Delimiter",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                ",",
+                                "\t",
+                                "other"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "relax",
+                        "type": "boolean",
+                        "label": "Preserve quotes inside unquoted field",
+                        "required": true
+                    },
+                    {
+                        "name": "csvHeaders",
+                        "type": "text",
+                        "label": "CSV headers (recommended)"
+                    }
+                ],
+                "expect": [
+                    {
+                        "name": "csv",
+                        "type": "text",
+                        "label": "CSV",
+                        "required": true
+                    }
+                ],
+                "interface": [
+                    {
+                        "name": "col1",
+                        "type": "text",
+                        "label": "title"
+                    },
+                    {
+                        "name": "col2",
+                        "type": "text",
+                        "label": "company"
+                    },
+                    {
+                        "name": "col3",
+                        "type": "text",
+                        "label": "location"
+                    },
+                    {
+                        "name": "col4",
+                        "type": "text",
+                        "label": "description"
+                    }
+                ],
+                "advanced": true
+            }
+        },
+        {
+            "id": 10,
+            "module": "gemini-ai:createACompletionGeminiPro",
+            "version": 1,
+            "parameters": {
+                "__IMTCONN__": 10719074
+            },
+            "mapper": {
+                "model": "gemini-2.5-flash",
+                "contents": [
+                    {
+                        "role": "user",
+                        "parts": [
+                            {
+                                "text": "INPUT: {\"text\":\"{{4.col4}}\"}\r\nTASK: Analyze INPUT.text and return the JSON according to the schema in the system instructions.\r\n",
+                                "type": "text"
+                            }
+                        ]
+                    }
+                ],
+                "generationConfig": {
+                    "thinkingConfig": {},
+                    "maxOutputTokens": "100000"
+                },
+                "system_instruction": {
+                    "parts": [
+                        {
+                            "text": "You are a strict data extractor and standardizer. You MUST return ONLY a valid JSON object and nothing else.\nThe JSON must follow this schema:\n\njob_title_original (string)\n\njob_title_short (string, normalized to one of these values: [\"Product Manager\", \"Data Analyst\", \"Data Scientist\", \"Data Engineer\", \"UX/UI Designer\", \"Software Engineer\", \"Marketing Specialist\", \"Project Manager\", \"Business Analyst\", \"Process Designer\", \"Product Compliance Specialist\", \"Product Designer\", \"IT Analyst\", \"Machine Learning Engineer\", \"DevOps Engineer\", \"Other\"])\n\nexperience_years (string, normalized to one of these formats: \"0-3\" for less than 3 years, \"3-5\" for ranges, \"5+\" for 5 or more years)\n\njob_schedule_type (string, normalized to one of these values: [\"Full-time\", \"Part-time\", \"Contract\", \"Internship\", \"Unknown\"])\n\nseniority (string, normalized to one of these values: [\"Intern\",\"Junior\",\"Mid\",\"Senior\",\"Lead\",\"Manager\",\"Unknown\"])\n\ncity (string, normalized to proper case, e.g., \"New York\", \"Madrid\". If not found, use \"Unknown\".)\n\nstate (string, normalized to two-letter abbreviation if in the US/CA, e.g., \"NY\", \"CA\". If not in the US/CA or not found, use \"Unknown\".)\n\ncountry (string, normalized to proper case, e.g., \"United States\", \"Spain\", \"Mexico\", \"United Kingdom\", \"Germany\", \"France\", \"Panamá\", \"Venezuela\", \"European Union\", \"Unknown\")\n\ndegrees (array of strings, normalized to one of these values: [\"Bachelor's Degree\", \"Master's Degree\", \"PhD\", \"Associate's Degree\", \"Higher Education\", \"Engineering\", \"Automotive Engineering\", \"Vocational Training\", \"Other\"])\n\nskills (array of strings, normalized to a fixed set of values like: [\"Project Management\", \"Agile\", \"Scrum\", \"API\", \"Cloud Computing\", \"Machine Learning\", \"Data Analysis\", \"Data Visualization\", \"User Research\", \"UI/UX Design\", \"Product Design\", \"Product Management\", \"Marketing\", \"Sales\", \"Communication\", \"Problem Solving\", \"Process Optimization\", \"Regulatory Compliance\", \"Document Management\", \"Quality Control\", \"Auditing\", \"Technical Writing\", \"Statistical Reporting\", \"Business Acumen\", \"Cross-functional Collaboration\", \"Team Leadership\", \"Healthcare Knowledge\", \"Supply Chain\", \"SDLC\", \"User-Centered Design\"])\n\nsoftware (array of strings, normalized to a fixed set of values like: [\"SQL\", \"Python\", \"R\", \"C\", \"C++\", \"Java\", \"JavaScript\", \"Microsoft Excel\", \"Figma\", \"Sketch\", \"Adobe XD\", \"Adobe Creative Suite\", \"Tableau\", \"Power BI\", \"Jira\", \"Confluence\", \"Atlassian\", \"SAP\", \"Salesforce\", \"HubSpot\", \"Google Analytics\", \"Looker\", \"MicroStrategy\", \"GitHub\", \"GitLab\", \"DevOps Tools\", \"Vercel\", \"Next.js\", \"Prisma\", \"PlanetScale\", \"Rhino\", \"Keyshot\", \"SolidWorks\", \"C4D\", \"OneDrive\", \"Word\", \"IMDS\", \"Pytorch\", \"Flow\", \"AWS\", \"Azure\", \"GCP\", \"SQL Server\", \"Oracle\", \"MongoDB\", \"PostgreSQL\", \"Apache Spark\"])\n\ncompany_name (string)\n\nIf you cannot determine a value, use \"Unknown\" for strings and blank space for arrays, data slot must be empty. No extra text, no markdown, no explanation."
+                        }
+                    ]
+                }
+            },
+            "metadata": {
+                "designer": {
+                    "x": 903,
+                    "y": -6
+                },
+                "restore": {
+                    "expect": {
+                        "model": {
+                            "mode": "chose",
+                            "label": "Gemini 2.5 Flash"
+                        },
+                        "contents": {
+                            "mode": "chose",
+                            "items": [
+                                {
+                                    "role": {
+                                        "mode": "chose",
+                                        "label": "User"
+                                    },
+                                    "parts": {
+                                        "mode": "chose",
+                                        "items": [
+                                            {
+                                                "type": {
+                                                    "mode": "chose",
+                                                    "label": "Text"
+                                                }
+                                            }
+                                        ],
+                                        "collapsed": true
+                                    }
+                                }
+                            ]
+                        },
+                        "safetySettings": {
+                            "mode": "chose"
+                        },
+                        "generationConfig": {
+                            "nested": {
+                                "stopSequences": {
+                                    "mode": "chose"
+                                },
+                                "thinkingConfig": {
+                                    "nested": {
+                                        "include_thoughts": {
+                                            "mode": "chose"
+                                        }
+                                    }
+                                },
+                                "responseMimeType": {
+                                    "mode": "chose",
+                                    "label": "Empty"
+                                },
+                                "responseModalities": {
+                                    "mode": "chose"
+                                }
+                            }
+                        },
+                        "system_instruction": {
+                            "nested": {
+                                "parts": {
+                                    "mode": "chose",
+                                    "items": [
+                                        null
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "data": {
+                                "scoped": "true",
+                                "connection": "gemini-ai-q9zyjp"
+                            },
+                            "label": "BS GA4"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "__IMTCONN__",
+                        "type": "account:gemini-ai-q9zyjp",
+                        "label": "Connection",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "name": "model",
+                        "type": "select",
+                        "label": "AI Model",
+                        "required": true
+                    },
+                    {
+                        "name": "contents",
+                        "spec": [
+                            {
+                                "name": "role",
+                                "type": "select",
+                                "label": "Role",
+                                "options": [
+                                    {
+                                        "label": "User",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "label": "Model",
+                                        "value": "model"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "parts",
+                                "spec": [
+                                    {
+                                        "name": "type",
+                                        "type": "select",
+                                        "label": "Message Type",
+                                        "options": [
+                                            {
+                                                "label": "Text",
+                                                "value": "text",
+                                                "nested": [
+                                                    {
+                                                        "name": "text",
+                                                        "type": "text",
+                                                        "label": "Text",
+                                                        "required": false
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "label": "File",
+                                                "value": "file",
+                                                "nested": [
+                                                    {
+                                                        "name": "file_data",
+                                                        "spec": [
+                                                            {
+                                                                "name": "mime_type",
+                                                                "type": "text",
+                                                                "label": "Mime Type",
+                                                                "required": false
+                                                            },
+                                                            {
+                                                                "help": "You get this from the 'Upload a File' module.",
+                                                                "name": "file_uri",
+                                                                "type": "text",
+                                                                "label": "File URI",
+                                                                "required": false
+                                                            }
+                                                        ],
+                                                        "type": "collection",
+                                                        "label": "File Data",
+                                                        "required": false
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "type": "array",
+                                "label": "Parts"
+                            }
+                        ],
+                        "type": "array",
+                        "label": "Messages",
+                        "required": true
+                    },
+                    {
+                        "name": "system_instruction",
+                        "spec": [
+                            {
+                                "name": "parts",
+                                "spec": {
+                                    "name": "value",
+                                    "spec": [
+                                        {
+                                            "name": "text",
+                                            "type": "text",
+                                            "label": "Value"
+                                        }
+                                    ],
+                                    "type": "collection",
+                                    "label": "Prompt"
+                                },
+                                "type": "array",
+                                "label": "Prompts"
+                            }
+                        ],
+                        "type": "collection",
+                        "label": "System Instructions"
+                    },
+                    {
+                        "name": "safetySettings",
+                        "spec": [
+                            {
+                                "name": "category",
+                                "type": "select",
+                                "label": "Category",
+                                "options": [
+                                    {
+                                        "label": "Harassment content",
+                                        "value": "HARM_CATEGORY_HARASSMENT"
+                                    },
+                                    {
+                                        "label": "Hate speech and content",
+                                        "value": "HARM_CATEGORY_HATE_SPEECH"
+                                    },
+                                    {
+                                        "label": "Sexually explicit content.",
+                                        "value": "HARM_CATEGORY_SEXUALLY_EXPLICIT"
+                                    },
+                                    {
+                                        "label": "Dangerous content:",
+                                        "value": "HARM_CATEGORY_DANGEROUS_CONTENT"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "threshold",
+                                "type": "select",
+                                "label": "Threshold",
+                                "options": [
+                                    {
+                                        "label": "Block low and above.",
+                                        "value": "BLOCK_LOW_AND_ABOVE"
+                                    },
+                                    {
+                                        "label": "Block medium and above.",
+                                        "value": "BLOCK_MEDIUM_AND_ABOVE"
+                                    },
+                                    {
+                                        "label": "Block only high.",
+                                        "value": "BLOCK_ONLY_HIGH"
+                                    },
+                                    {
+                                        "label": "Block none.",
+                                        "value": "BLOCK_NONE"
+                                    }
+                                ]
+                            }
+                        ],
+                        "type": "array",
+                        "label": "Safety Settings"
+                    },
+                    {
+                        "name": "generationConfig",
+                        "spec": [
+                            {
+                                "name": "stopSequences",
+                                "spec": {
+                                    "name": "value",
+                                    "type": "text",
+                                    "label": "Stop Sequence"
+                                },
+                                "type": "array",
+                                "label": "Stop Sequences"
+                            },
+                            {
+                                "name": "responseModalities",
+                                "type": "select",
+                                "label": "Response Modalities",
+                                "multiple": true,
+                                "validate": {
+                                    "enum": [
+                                        "text",
+                                        "image"
+                                    ]
+                                }
+                            },
+                            {
+                                "name": "maxOutputTokens",
+                                "type": "number",
+                                "label": "Max Output Tokens"
+                            },
+                            {
+                                "name": "temperature",
+                                "type": "number",
+                                "label": "Temperature",
+                                "validate": {
+                                    "max": 1,
+                                    "min": 0
+                                }
+                            },
+                            {
+                                "name": "topP",
+                                "type": "number",
+                                "label": "Top P",
+                                "validate": {
+                                    "max": 1,
+                                    "min": 0
+                                }
+                            },
+                            {
+                                "name": "topK",
+                                "type": "number",
+                                "label": "Top K"
+                            },
+                            {
+                                "name": "thinkingConfig",
+                                "spec": [
+                                    {
+                                        "name": "thinkingBudget",
+                                        "type": "number",
+                                        "label": "Thinking Budget"
+                                    },
+                                    {
+                                        "name": "include_thoughts",
+                                        "type": "boolean",
+                                        "label": "Include Thoughts"
+                                    }
+                                ],
+                                "type": "collection",
+                                "label": "Thinking Config"
+                            },
+                            {
+                                "name": "responseMimeType",
+                                "type": "select",
+                                "label": "Response Mime Type"
+                            }
+                        ],
+                        "type": "collection",
+                        "label": "Generation configurations"
+                    },
+                    {
+                        "name": "tools",
+                        "type": "any",
+                        "label": "Tools"
+                    },
+                    {
+                        "name": "tool_config",
+                        "type": "any",
+                        "label": "Tool Config"
+                    }
+                ],
+                "advanced": true
+            }
+        },
+        {
+            "id": 17,
+            "module": "app#sams-toolbox-mls54z:parsejson",
+            "version": 1,
+            "parameters": {},
+            "mapper": {
+                "json": "{{10.result}}"
+            },
+            "metadata": {
+                "designer": {
+                    "x": 1215,
+                    "y": 3
+                },
+                "restore": {},
+                "expect": [
+                    {
+                        "mode": "edit",
+                        "name": "json",
+                        "type": "text",
+                        "label": "JSON",
+                        "required": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": 15,
+            "module": "util:SetVariables",
+            "version": 1,
+            "parameters": {},
+            "mapper": {
+                "scope": "roundtrip",
+                "variables": [
+                    {
+                        "name": "Job Title (Original)",
+                        "value": "{{17.job_title_original}}"
+                    },
+                    {
+                        "name": "Job Title (Short)",
+                        "value": "{{17.job_title_short}}"
+                    },
+                    {
+                        "name": "Company",
+                        "value": "{{17.company_name}}"
+                    },
+                    {
+                        "name": "Country",
+                        "value": "{{17.country}}"
+                    },
+                    {
+                        "name": "State",
+                        "value": "{{17.state}}"
+                    },
+                    {
+                        "name": "City",
+                        "value": "{{17.city}}"
+                    },
+                    {
+                        "name": "Experience years",
+                        "value": "{{17.experience_years}}"
+                    },
+                    {
+                        "name": "Seniority",
+                        "value": "{{17.seniority}}"
+                    },
+                    {
+                        "name": "Degrees",
+                        "value": "{{join(17.degrees; \"; \")}}"
+                    },
+                    {
+                        "name": "Skills",
+                        "value": "{{join(17.skills; \"; \")}}"
+                    },
+                    {
+                        "name": "Software",
+                        "value": "{{join(17.software; \"; \")}}"
+                    },
+                    {
+                        "name": "Schedule Type",
+                        "value": "{{17.job_schedule_type}}"
+                    }
+                ]
+            },
+            "metadata": {
+                "designer": {
+                    "x": 1515,
+                    "y": 3
+                },
+                "restore": {
+                    "expect": {
+                        "scope": {
+                            "label": "One cycle"
+                        },
+                        "variables": {
+                            "items": [
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null,
+                                null
+                            ]
+                        }
+                    }
+                },
+                "expect": [
+                    {
+                        "name": "variables",
+                        "spec": [
+                            {
+                                "name": "name",
+                                "type": "text",
+                                "label": "Variable name",
+                                "required": true
+                            },
+                            {
+                                "name": "value",
+                                "type": "any",
+                                "label": "Variable value"
+                            }
+                        ],
+                        "type": "array",
+                        "label": "Variables"
+                    },
+                    {
+                        "name": "scope",
+                        "type": "select",
+                        "label": "Variable lifetime",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "roundtrip",
+                                "execution"
+                            ]
+                        }
+                    }
+                ],
+                "interface": [
+                    {
+                        "name": "Job Title (Original)",
+                        "type": "any",
+                        "label": "Job Title (Original)"
+                    },
+                    {
+                        "name": "Job Title (Short)",
+                        "type": "any",
+                        "label": "Job Title (Short)"
+                    },
+                    {
+                        "name": "Company",
+                        "type": "any",
+                        "label": "Company"
+                    },
+                    {
+                        "name": "Country",
+                        "type": "any",
+                        "label": "Country"
+                    },
+                    {
+                        "name": "State",
+                        "type": "any",
+                        "label": "State"
+                    },
+                    {
+                        "name": "City",
+                        "type": "any",
+                        "label": "City"
+                    },
+                    {
+                        "name": "Experience years",
+                        "type": "any",
+                        "label": "Experience years"
+                    },
+                    {
+                        "name": "Seniority",
+                        "type": "any",
+                        "label": "Seniority"
+                    },
+                    {
+                        "name": "Degrees",
+                        "type": "any",
+                        "label": "Degrees"
+                    },
+                    {
+                        "name": "Skills",
+                        "type": "any",
+                        "label": "Skills"
+                    },
+                    {
+                        "name": "Software",
+                        "type": "any",
+                        "label": "Software"
+                    },
+                    {
+                        "name": "Schedule Type",
+                        "type": "any",
+                        "label": "Schedule Type"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 16,
+            "module": "csv:CreateAdvancedAggregator",
+            "version": 1,
+            "parameters": {
+                "type": 390280,
+                "feeder": 4,
+                "delimiter": ",",
+                "newlineType": "LF",
+                "delimiterType": "other",
+                "includeHeaders": true
+            },
+            "mapper": {
+                "City": "{{17.city}}",
+                "State": "{{17.state}}",
+                "Skills": "{{17.skills}}",
+                "Company": "{{17.company_name}}",
+                "Country": "{{17.country}}",
+                "Degrees": "{{17.degrees}}",
+                "Software": "{{17.software}}",
+                "Seniority": "{{17.seniority}}",
+                "Schedule type": "{{17.job_schedule_type}}",
+                "Experience years": "{{17.experience_years}}",
+                "Job title (short)": "{{17.job_title_short}}",
+                "Job title (original)": "{{17.job_title_original}}"
+            },
+            "metadata": {
+                "designer": {
+                    "x": 1813,
+                    "y": 9
+                },
+                "restore": {
+                    "extra": {
+                        "feeder": {
+                            "label": "CSV - Parse CSV [4]"
+                        }
+                    },
+                    "parameters": {
+                        "type": {
+                            "label": "My data structure"
+                        },
+                        "newlineType": {
+                            "label": "LF"
+                        },
+                        "delimiterType": {
+                            "label": "Other"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "type",
+                        "type": "udt",
+                        "label": "Data structure",
+                        "required": true
+                    },
+                    {
+                        "name": "includeHeaders",
+                        "type": "boolean",
+                        "label": "Include headers in the first row",
+                        "required": true
+                    },
+                    {
+                        "name": "delimiterType",
+                        "type": "select",
+                        "label": "Delimiter",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                ",",
+                                "\t",
+                                "other"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "newlineType",
+                        "type": "select",
+                        "label": "Newline",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "LF",
+                                "CRLF"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "delimiter",
+                        "type": "text",
+                        "label": "Delimiter character",
+                        "required": true,
+                        "validate": {
+                            "max": 1,
+                            "min": 1
+                        }
+                    }
+                ],
+                "expect": [
+                    {
+                        "name": "Job title (original)",
+                        "type": "text",
+                        "label": null
+                    },
+                    {
+                        "name": "Job title (short)",
+                        "type": "text",
+                        "label": null
+                    },
+                    {
+                        "name": "Company",
+                        "type": "text",
+                        "label": null
+                    },
+                    {
+                        "name": "Country",
+                        "type": "text",
+                        "label": null
+                    },
+                    {
+                        "name": "State",
+                        "type": "text",
+                        "label": null
+                    },
+                    {
+                        "name": "City",
+                        "type": "text",
+                        "label": null
+                    },
+                    {
+                        "name": "Schedule type",
+                        "type": "text",
+                        "label": null
+                    },
+                    {
+                        "name": "Experience years",
+                        "type": "text",
+                        "label": null
+                    },
+                    {
+                        "name": "Seniority",
+                        "type": "text",
+                        "label": null
+                    },
+                    {
+                        "name": "Skills",
+                        "type": "text",
+                        "label": null
+                    },
+                    {
+                        "name": "Degrees",
+                        "type": "text",
+                        "label": null
+                    },
+                    {
+                        "name": "Software",
+                        "type": "text",
+                        "label": null
+                    }
+                ]
+            }
+        },
+        {
+            "id": 18,
+            "module": "google-drive:uploadAFile",
+            "version": 4,
+            "parameters": {
+                "__IMTCONN__": 8719936
+            },
+            "mapper": {
+                "data": "{{16.text}}",
+                "select": "value",
+                "convert": false,
+                "filename": "{{formatDate(now; \"YYYYMMDD_HHmmss\"; \"Europe/Madrid\")}}_ DataPM_result.csv",
+                "folderId": "/19z6t-S6BCwWbhl4xJBg9DlZBdqum9az-/1DSxJTJRDouAC-Y15lsDat2Yy8ggMM570",
+                "destination": "drive"
+            },
+            "metadata": {
+                "designer": {
+                    "x": 2114,
+                    "y": 20
+                },
+                "restore": {
+                    "expect": {
+                        "select": {
+                            "label": "Select from the list"
+                        },
+                        "folderId": {
+                            "mode": "chose",
+                            "path": [
+                                "DataPM",
+                                "csv"
+                            ]
+                        },
+                        "destination": {
+                            "label": "My Drive"
+                        }
+                    },
+                    "parameters": {
+                        "__IMTCONN__": {
+                            "data": {
+                                "scoped": "true",
+                                "connection": "google-restricted"
+                            },
+                            "label": "11-10466 (11-10466@usb.ve)"
+                        }
+                    }
+                },
+                "parameters": [
+                    {
+                        "name": "__IMTCONN__",
+                        "type": "account:google-restricted",
+                        "label": "Connection",
+                        "required": true
+                    }
+                ],
+                "expect": [
+                    {
+                        "type": "hidden"
+                    },
+                    {
+                        "name": "select",
+                        "type": "select",
+                        "label": "Enter a Folder ID",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "map",
+                                "value"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "title",
+                        "type": "text",
+                        "label": "New File Name"
+                    },
+                    {
+                        "name": "filename",
+                        "type": "text",
+                        "label": "File Name",
+                        "required": true
+                    },
+                    {
+                        "name": "data",
+                        "type": "buffer",
+                        "label": "Data",
+                        "required": true
+                    },
+                    {
+                        "name": "convert",
+                        "type": "boolean",
+                        "label": "Convert a File",
+                        "required": true
+                    },
+                    {
+                        "name": "destination",
+                        "type": "select",
+                        "label": "New Drive Location",
+                        "required": true,
+                        "validate": {
+                            "enum": [
+                                "drive",
+                                "share",
+                                "team"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "folderId",
+                        "type": "folder",
+                        "label": "New Folder Location",
+                        "required": true
+                    }
+                ]
+            }
+        }
+    ],
+    "metadata": {
+        "instant": false,
+        "version": 1,
+        "scenario": {
+            "roundtrips": 1,
+            "maxErrors": 3,
+            "autoCommit": true,
+            "autoCommitTriggerLast": true,
+            "sequential": false,
+            "slots": null,
+            "confidential": false,
+            "dataloss": false,
+            "dlq": false,
+            "freshVariables": false
+        },
+        "designer": {
+            "orphans": []
+        },
+        "zone": "eu2.make.com",
+        "notes": []
+    }
+}

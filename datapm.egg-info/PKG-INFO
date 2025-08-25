@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: datapm
+Version: 1.0.0
+Summary: DataPM - Sistema de procesamiento de ofertas de trabajo
+Author: DataPM Team
+Requires-Python: >=3.8
+License-File: LICENSE.chromedriver
+Requires-Dist: pandas
+Requires-Dist: google-generativeai
+Requires-Dist: requests
+Requires-Dist: selenium
+Requires-Dist: webdriver-manager
+Requires-Dist: pytest
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

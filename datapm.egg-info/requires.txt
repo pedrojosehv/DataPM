@@ -1,0 +1,6 @@
+pandas
+google-generativeai
+requests
+selenium
+webdriver-manager
+pytest
