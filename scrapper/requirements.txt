@@ -1,0 +1,6 @@
+# Requirements for LinkedIn Applied Jobs Scraper
+selenium>=4.15.0
+webdriver-manager>=4.0.1
+
+# Optional but recommended for better performance
+rich>=13.0.0  # For enhanced terminal output (optional)
