@@ -230,3 +230,4 @@ Para futuras actualizaciones, verifica si LinkedIn ha cambiado su estructura HTM
 ## 📜 Licencia
 
 Este proyecto es para uso personal. Respeta los términos de servicio de LinkedIn y no uses este scraper para fines comerciales sin autorización.
+
