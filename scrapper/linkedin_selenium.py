@@ -9,17 +9,15 @@ from urllib.parse import quote_plus
 
 # --- CONFIGURACIÓN DE BÚSQUEDA ---
 import argparse
-EMAIL = "11-10466@usb.ve"  
-PASSWORD = "SanJudas.2011"  
-KEYWORDS = "yuno"
-LOCATION = "Spain"
-REMOTE_FILTER = "2"   # 1=On-site, 2=Remote, 3=Hybrid (On-site + Hybrid)
+KEYWORDS = "Business Analyst"
+LOCATION = "Valencia"
+REMOTE_FILTER = "2,3"   # 1=On-site, 2=Remote, 3=Hybrid (On-site + Hybrid)
 POSTED_RANGE = "any"  # any | week | month
 
 # Argumentos para rango de páginas
 parser = argparse.ArgumentParser(description="LinkedIn Scraper con rango de páginas")
 parser.add_argument('--page-start', type=int, default=1, help='Página inicial a scrapear')
-parser.add_argument('--page-end', type=int, default=2, help='Página final a scrapear')
+parser.add_argument('--page-end', type=int, default=3, help='Página final a scrapear')
 parser.add_argument('--posted', choices=['any', 'week', 'month'], default=None, help='Filtro por fecha de publicación (any/week/month)')
 args = parser.parse_args()
 PAGE_START = args.page_start
@@ -46,7 +44,8 @@ processed_count = 0
 
 # --- FUNCIÓN REUTILIZABLE PARA NAVEGAR ENTRE PÁGINAS ---
 def go_to_page(driver, target_page, current_page=None):
-    """Navega a la página target_page desde la página actual o desde current_page si se indica."""
+    """Navega a la página target_page desde la página actual o desde current_page si se indica.
+    Retorna True si la navegación fue exitosa, False si se llegó al final de los resultados."""
     print(f"Navegando hasta la página: {target_page}")
     for p in range((current_page or 1) + 1, target_page + 1):
         next_selectors = [
@@ -59,7 +58,7 @@ def go_to_page(driver, target_page, current_page=None):
         next_button = None
         for selector in next_selectors:
             try:
-                next_button = WebDriverWait(driver, 3).until(
+                next_button = WebDriverWait(driver, 6).until(
                     EC.element_to_be_clickable((By.CSS_SELECTOR, selector))
                 )
                 break
@@ -72,8 +71,10 @@ def go_to_page(driver, target_page, current_page=None):
             print(f"✅ Navegado a página {p}")
             random_delay(3, 5)
         else:
-            print(f"🚫 No se encontró botón para la página {p}. Abortando navegación.")
-            break
+            print(f"🚫 No se encontró botón para la página {p}. Posiblemente hemos llegado al final de los resultados.")
+            return False  # Indicar que no se pudo navegar (fin de resultados)
+
+    return True  # Navegación exitosa
 
 # --- CONFIGURACIÓN ANTI-DETECCIÓN ---
 options = Options()
@@ -111,37 +112,23 @@ def main():
     driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
 
     try:
-        # --- 1. LOGIN LINKEDIN CON VERIFICACIÓN ---
-        print("Iniciando login en LinkedIn...")
+        # --- 1. LOGIN LINKEDIN MANUAL ---
+        print("🚀 Abriendo página de login de LinkedIn...")
         driver.get("https://www.linkedin.com/login")
         random_delay(2, 4)
 
-        # Buscar campos de login
-        email_field = safe_find_element(driver, By.ID, "username")
-        password_field = safe_find_element(driver, By.ID, "password")
+        print("📝 Por favor, inicia sesión en LinkedIn manualmente:")
+        print("   1. Ingresa tu email/usuario")
+        print("   2. Ingresa tu contraseña")
+        print("   3. Completa cualquier 2FA si es requerido")
+        print("   4. Presiona Enter aquí cuando hayas iniciado sesión y estés en la página principal")
 
-        if not email_field or not password_field:
-            print("❌ Error: No se encontraron los campos de login")
-            return
-
-        # Llenar formulario de manera más humana
-        for char in EMAIL:
-            email_field.send_keys(char)
-            random_delay(0.1, 0.3)  # Pequeña pausa entre caracteres
-
-        random_delay(1, 2)  # Pausa antes de pasar a la contraseña
-
-        for char in PASSWORD:
-            password_field.send_keys(char)
-            random_delay(0.1, 0.3)  # Pequeña pausa entre caracteres
-
-        random_delay(1.5, 2.5)  # Pausa antes de dar enter
-        password_field.send_keys(Keys.RETURN)
+        input("Presiona Enter cuando hayas iniciado sesión y estés listo para continuar...")
 
         # Verificar login exitoso con más tiempo de espera
         print("Verificando login...")
         if not verify_login_success(driver):
-            print("❌ Error: Login fallido. Verifica credenciales o captcha")
+            print("❌ Error: Login fallido. Verifica que hayas iniciado sesión correctamente")
             # Guardar screenshot para debug
             try:
                 driver.save_screenshot("login_error.png")
@@ -194,41 +181,50 @@ def main():
         if PAGE_START > 1:
             go_to_page(driver, PAGE_START, current_page=1)
 
+        last_processed_page = PAGE_START - 1  # Track the last successfully processed page
+
         for page in range(PAGE_START, PAGE_END + 1):
             print(f"\n📄 Procesando página {page}/{PAGE_END}...")
-            
+
             # Esperar y localizar las tarjetas en la página actual
             WebDriverWait(driver, 10).until(
                 EC.presence_of_all_elements_located((By.CSS_SELECTOR, "li[data-occludable-job-id]"))
             )
             job_cards = driver.find_elements(By.CSS_SELECTOR, "li[data-occludable-job-id]")
-            
+
             if not job_cards:
                 print(f"⚠️  No se encontraron ofertas en la página {page}. Saltando...")
                 continue
-            
+
             print(f"✅ Encontrados {len(job_cards)} empleos en página {page}")
+            last_processed_page = page  # Update last successfully processed page
             
+            # Track processed job IDs to avoid duplicates
+            processed_job_ids = set()
+
             for idx, card in enumerate(job_cards, start=1):
                 try:
                     print(f"Procesando empleo {idx}/{len(job_cards)} (página {page})...")
-                    
-                    # Re-find el elemento para evitar StaleElementReferenceException
-                    card = driver.find_elements(By.CSS_SELECTOR, "li[data-occludable-job-id]")[idx-1]
-                    
-                    # Scroll y click seguro
+
+                    # Get job ID to avoid duplicates
+                    job_id = card.get_attribute("data-occludable-job-id")
+                    if job_id in processed_job_ids:
+                        print(f"⚠️  Saltando empleo duplicado: {job_id}")
+                        continue
+                    processed_job_ids.add(job_id)
+
+                    # Scroll y click seguro usando el elemento original
                     driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", card)
                     random_delay(1, 2)
-                    
+
                     # Intentar click con múltiples estrategias
                     try:
                         card.click()
                     except ElementClickInterceptedException:
                         driver.execute_script("arguments[0].click();", card)
                     except StaleElementReferenceException:
-                        # Re-find y reintentar
-                        card = driver.find_elements(By.CSS_SELECTOR, "li[data-occludable-job-id]")[idx-1]
-                        card.click()
+                        print(f"⚠️  Elemento obsoleto para empleo {idx}, saltando...")
+                        continue
 
                     # Esperar carga del panel de detalles con múltiples selectores
                     detail_selectors = [
@@ -346,9 +342,14 @@ def main():
             # Buscar y hacer clic en "Siguiente" para la siguiente página
             if page < PAGE_END:  # No intentar navegar después de la última página configurada
                 try:
-                    go_to_page(driver, page + 1, current_page=page)
+                    navigation_success = go_to_page(driver, page + 1, current_page=page)
+                    if not navigation_success:
+                        print(f"✅ Hemos llegado al final de los resultados disponibles en página {page}")
+                        print(f"📊 Total de páginas procesadas exitosamente: {page}")
+                        break  # Detener limpiamente sin reiniciar
                 except Exception as e:
                     print(f"❌ Error navegando a página {page + 1}: {str(e)}")
+                    print(f"📊 Deteniendo proceso en página {page} debido a error de navegación")
                     break
 
         # --- 4. GUARDAR EN CSV CON VALIDACIÓN ---
@@ -374,6 +375,12 @@ def main():
 
                 print(f"\n✅ {len(results)} ofertas guardadas en {scrape_filename}")
                 print(f"✅ Proceso completado: {processed_count} ofertas totales procesadas")
+
+                # Verificar si se llegó al final de los resultados o se completaron todas las páginas solicitadas
+                if last_processed_page >= PAGE_END:
+                    print(f"✅ Se procesaron todas las {PAGE_END} páginas solicitadas")
+                else:
+                    print(f"✅ Se detuvo en página {last_processed_page} (de {PAGE_END} solicitadas) - Fin de resultados disponibles")
             except Exception as e:
                 print(f"❌ Error guardando CSV: {str(e)}")
         else:
@@ -417,6 +424,35 @@ def verify_login_success(driver):
         )
         return True
     except TimeoutException:
+        return False
+
+def detect_end_of_results(driver):
+    """Detecta si hemos llegado al final de los resultados de búsqueda"""
+    try:
+        # Verificar si el botón "Next" está deshabilitado o no existe
+        next_selectors = [
+            "button[aria-label='Next']",
+            "button[aria-label='Siguiente']",
+            "button.artdeco-pagination__button--next"
+        ]
+
+        for selector in next_selectors:
+            try:
+                next_button = driver.find_element(By.CSS_SELECTOR, selector)
+                # Verificar si el botón está deshabilitado
+                if next_button.get_attribute("disabled") or next_button.get_attribute("aria-disabled") == "true":
+                    return True
+            except:
+                continue
+
+        # Verificar si no hay ningún botón de navegación "Next"
+        try:
+            driver.find_element(By.CSS_SELECTOR, "button[aria-label='Next'], button[aria-label='Siguiente'], button.artdeco-pagination__button--next")
+            return False  # Hay botón Next, no es el final
+        except:
+            return True  # No hay botón Next, es el final
+
+    except Exception:
         return False
 
 def extract_text_safe(element, default=""):
