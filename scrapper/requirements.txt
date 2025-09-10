@@ -4,3 +4,7 @@ webdriver-manager>=4.0.1
 
 # Optional but recommended for better performance
 rich>=13.0.0  # For enhanced terminal output (optional)
+
+# Single URL pipeline dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.2
