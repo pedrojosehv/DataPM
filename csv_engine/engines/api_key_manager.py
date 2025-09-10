@@ -24,14 +24,45 @@ class DataPMAPIKeyManager:
             self._load_keys_from_env()
     
     def _load_keys_from_env(self):
-        """Load API keys from DataPM file, environment variables, or fallback locations"""
+        """Load API keys from external file, environment variables, or fallback locations"""
         from pathlib import Path
         
-        # PRIORITY 1: Load from DataPM API_keys.txt file (ALWAYS check this first)
-        datapm_api_file = Path("API_keys.txt")  # Local to DataPM directory
-        if datapm_api_file.exists():
+        # PRIORITY 1: Absolute path outside the repo (Upwork root)
+        upwork_root_api_file = Path("D:/Work Work/Upwork/API_keys.txt")
+        if upwork_root_api_file.exists():
             try:
-                with open(datapm_api_file, 'r', encoding='utf-8') as f:
+                with open(upwork_root_api_file, 'r', encoding='utf-8') as f:
+                    lines = f.readlines()
+                    keys = [line.strip() for line in lines if line.strip() and not line.strip().startswith('#')]
+                    if keys:
+                        self.keys = keys
+                        print(f"✅ DataPM: Loaded {len(keys)} API keys from Upwork root API_keys.txt")
+                        return
+            except Exception as e:
+                print(f"⚠️ DataPM: Error reading Upwork root API keys file: {e}")
+        
+        # PRIORITY 2: Path provided via environment variable
+        env_path = os.getenv('DATAPM_API_KEYS_FILE')
+        if env_path:
+            env_api_file = Path(env_path)
+            if env_api_file.exists():
+                try:
+                    with open(env_api_file, 'r', encoding='utf-8') as f:
+                        lines = f.readlines()
+                        keys = [line.strip() for line in lines if line.strip() and not line.strip().startswith('#')]
+                        if keys:
+                            self.keys = keys
+                            print(f"✅ DataPM: Loaded {len(keys)} API keys from DATAPM_API_KEYS_FILE")
+                            return
+                except Exception as e:
+                    print(f"⚠️ DataPM: Error reading DATAPM_API_KEYS_FILE: {e}")
+        
+        # PRIORITY 3: Local file relative to current working directory (not in repo)
+        # Allows dropping a temporary API_keys.txt next to the executed script
+        local_api_file = Path("API_keys.txt")
+        if local_api_file.exists():
+            try:
+                with open(local_api_file, 'r', encoding='utf-8') as f:
                     lines = f.readlines()
                     keys = [line.strip() for line in lines if line.strip() and not line.strip().startswith('#')]
                     if keys:
@@ -41,21 +72,7 @@ class DataPMAPIKeyManager:
             except Exception as e:
                 print(f"⚠️ DataPM: Error reading local API keys file: {e}")
         
-        # PRIORITY 2: Try absolute path to DataPM API keys
-        abs_datapm_api_file = Path("D:/Work Work/Upwork/DataPM/csv_engine/engines/API_keys.txt")
-        if abs_datapm_api_file.exists():
-            try:
-                with open(abs_datapm_api_file, 'r', encoding='utf-8') as f:
-                    lines = f.readlines()
-                    keys = [line.strip() for line in lines if line.strip() and not line.strip().startswith('#')]
-                    if keys:
-                        self.keys = keys
-                        print(f"✅ DataPM: Loaded {len(keys)} API keys from DataPM API_keys.txt")
-                        return
-            except Exception as e:
-                print(f"⚠️ DataPM: Error reading DataPM API keys file: {e}")
-        
-        # PRIORITY 3: Try environment variables
+        # PRIORITY 4: Environment variables (comma-separated lists)
         env_vars = [
             'GEMINI_API_KEYS',
             'OPENAI_API_KEYS', 
@@ -74,7 +91,7 @@ class DataPMAPIKeyManager:
                     return
         
         if not self.keys:
-            print("❌ DataPM: No API keys found in DataPM file, environment variables, or local files")
+            print("❌ DataPM: No API keys found in external file, env var path, local file, or environment variables")
     
     def get_key(self, strategy: str = None) -> Optional[str]:
         """Get next API key based on strategy"""
