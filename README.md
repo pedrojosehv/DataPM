@@ -297,8 +297,8 @@ gcloud config set project datapm-471620
 
 ---
 
-**Autor**: Pedro José Hernández  
-**Fecha**: Septiembre 2024  
+**Autor**: Pedro Herrera  
+**Fecha**: Septiembre 2025  
 **Tecnologías**: Python, Selenium, Google Gemini, Ollama, Google Cloud Platform, BigQuery, Looker Studio  
 **Dashboard Live**: [lookerstudio.google.com/reporting/b55a0154-496b-4c8e-89b7-2ee31318d0d4](https://lookerstudio.google.com/reporting/b55a0154-496b-4c8e-89b7-2ee31318d0d4)
 
